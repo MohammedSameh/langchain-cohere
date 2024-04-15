@@ -1,0 +1,26 @@
+Troubleshooting EcoStruxure System Advisor for Process Control
+[]
+<p>This Virtual Instructor-Lead Training (VILT) provides essential knowledge on data flow from Application Workstations (AWs) to EcoStruxure™ System Advisor for Process Control. System Advisor for Process Control offers a management solution for system configuration, alarm management, change tracking, and documentation. This course covers troubleshooting common issues with data updates in System Advisor and a few other possible issues that may occur during the execution of System Advisor. The most common data update issues include modules and Control Processor (CP) database issues. The course proceeds to explain the procedure to maintain and upgrade system hardware components, architecture, data flow, and handshake for System Advisor with a Bridge connection.<br>
+<br>
+This course includes 3 virtual classroom sessions of 3 hours each and these mandatory activities:<br>
+&nbsp; &nbsp; &nbsp; • Pre-course questionnaire before enrollment (15 minutes)&nbsp;<br>
+&nbsp; &nbsp; &nbsp; • Post-session work before the next session (total of 9 hours and 20 minutes):<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; o Session 1 requires 2 hours<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; o Session 2 requires 4 hours and 20 minutes<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; o Session 3 requires 3 hours<br>
+&nbsp; &nbsp; &nbsp; • Post-course assessment after completing all sessions (30 minutes)&nbsp;<br>
+<br>
+Participants must pass the pre-course self evaluation with a passing grade of 75%. Participants also must complete the post-course questionnaire with a passing grade of 75% in 4 attempts. After participants successfully complete the post-course assessment, the curriculum is marked complete, and participants can print a certificate of completion.<br>
+<br>
+For questions on curriculum content, send a message to SM US Foxboro OCS Contact (<a href="mailto::global.learning@schneider-electric.com">global.learning@schneider-electric.com</a>)<br>
+<br>
+<strong>Curriculum Path Instructions:&nbsp;</strong><br>
+To follow the path for this curriculum, perform the following steps:<br>
+&nbsp; &nbsp; &nbsp; 1. Complete the mandatory pre-course work titled <strong>Troubleshooting EcoStruxure System Advisor: Pre-Course</strong> <strong>Self Evaluation</strong><br>
+&nbsp; &nbsp; &nbsp; 2. Register for the course, which is a Webinar in MLL, as follows:<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; a. Click the Webinar name.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b. Click <strong>Select Session.</strong><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; c. Review available session dates and start times.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; d. To select an appropriate timeslot, click <strong>Register </strong>next to an entry.<br>
+&nbsp; &nbsp; &nbsp; Note that MLL sends a notice in email with information about the session you selected.<br>
+For optimal viewing, launch the modules in a Microsoft Internet Explorer® browser.</p>

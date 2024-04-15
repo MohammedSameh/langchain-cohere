@@ -1,0 +1,24 @@
+Getting Started with Foxboro Control Networks
+['Essential']
+<p>Foxboro™ Control Network is a switched Fast Ethernet network which enables communication between field devices, I/O modules, Control Processors (CPs), workstations, and servers. Control Network provides redundant data paths. Control Network also enables the standard and security enhanced features.<br>
+This course guides you through fundamental Control Network concepts, such as topologies, supported Ethernet switches, and how to utilize these concepts during designing the Control Network.</p>
+
+<p><strong>Target Audience</strong><br>
+• Control Engineers<br>
+• Field Service Engineers</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Explain the workflow of building Control Networks.<br>
+• Describe topologies and decide which topology to use and when.<br>
+• Apply best practices during the network design phase.<br>
+• Explain different Legacy switches and corresponding replacements.</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of:<br>
+• Ethernet network concepts<br>
+• Foxboro DCS hardware architecture and components<br>
+• System Manager<br>
+• System Definition configuration</p>

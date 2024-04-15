@@ -1,0 +1,31 @@
+Identifying the Fundamentals of Control HMI
+['Professional']
+<p>A Human Machine Interface (HMI) enables plant personnel to configure and manage industrial processes. Foxboro™ Control HMI is a powerful tool for building HMIs for process control activities. You can use Control HMI to build HMIs for Foxboro™ Distributed Control System (DCS), Triconex™ Safety System, or any other process automation system.</p>
+
+<p>This course provides fundamental knowledge on Control HMI, including the benefits of using Control HMI, licenses for building Control HMI applications, Control HMI application types, and the workflow for developing Control HMI applications.</p>
+
+<p>For optimal viewing, launch the course in the Microsoft<sup>®</sup> Internet Explorer<sup>®</sup> browser.</p>
+
+<p><strong>Important Note for Learners:</strong></p>
+
+<div>
+<p>After completing the course, you must successfully complete a post-course assessment within FOUR attempts to obtain credit and proceed to the next course.</p>
+</div>
+
+<p><strong>Target Audience:</strong><br>
+- Application Engineers<br>
+- Field Service Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain Control HMI and its benefits.<br>
+• Describe the functions of System Platform in Control HMI.<br>
+• Identify required licenses &nbsp;for building Control HMI applications.<br>
+• List the Control HMI application types.<br>
+• Describe the workflow for building graphics in Control HMI applications.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of DCSs<br>
+• Experience in Foxboro DCS Control Core Services and Control Software</p>
+
+<div> </div>

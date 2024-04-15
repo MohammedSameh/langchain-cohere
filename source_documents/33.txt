@@ -1,0 +1,20 @@
+Maintaining Data Within System Advisor for Process Control
+['Professional']
+<p>This course outlines activities that you perform as part of System Advisor maintenance.<br>
+<br>
+For optimal viewing, launch the course in the Microsoft® Internet Explorer® browser, and press the F11 key to view the course in full screen mode.<br>
+<br>
+After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.<br>
+<br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain the General Configuration and Add-on features of System Advisor.<br>
+• Manage the MySQL database and System Advisor data.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Basic concepts of Ethernet networks<br>
+‒ Foxboro DCS architecture<br>
+• Understanding of:<br>
+‒ Foxboro control configuration and hardware configuration<br>
+‒ Content from 2001V8 Configuration Essentials or 5001 Control Software Configuration</p>

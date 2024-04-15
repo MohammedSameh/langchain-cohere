@@ -1,0 +1,83 @@
+name: Langchain Build and Test
+
+# Triggers
+# on: [push, workflow_dispatch]
+
+# Environment variables
+env:
+  RESOURCE-GROUP: rg-langchain
+  LOCATION: eastus
+  TEMPLATE-FILE: infra/webapp.bicep
+  SUBSCRIPTION-ID: fcd686e0-6316-42a4-be3a-b4ccb6302d46
+  WEBAPP-NAME: langchain-webapp-demo
+
+jobs:
+  # Build and test Python project in repository
+  buildandtest:
+    runs-on: ubuntu-latest
+    steps:
+    # Checkout the repository
+    - uses: actions/checkout@v4
+    # Setup Python environment
+    - name: Setup Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '11'
+    # Install dependencies
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    # Run ingest.py
+    - name: Run ingest.py
+      run: python ingest.py
+    # Upload the database as an artifact for the next job
+    - name: Upload artifact for deployment job
+      uses: actions/upload-artifact@v3
+      with:
+        name: chromadb-database
+        path: /path/to/your/database
+    # Upload the bicep template as artifacts for next job
+    - name: Upload artifact for deployment job
+      uses: actions/upload-artifact@v3
+      with:
+        name: bicep-template
+        path: ${{ env.TEMPLATE-FILE }}
+
+  # Use Bicep to deploy infrastructure + Publish webapp 
+  deploy:
+    runs-on: ubuntu-latest
+    needs: buildandtest
+    environment:
+      name: 'Development'
+    steps:
+    # Download the database created in the previous job
+    - name: Download artifact from build job
+      uses: actions/download-artifact@v3
+      with:
+        name: chromadb-database
+        path: /path/to/your/database
+    # Download the bicep templates from previous job
+    - name: Download artifact from build job
+      uses: actions/download-artifact@v3
+      with:
+        name: bicep-template
+        path: bicep-template
+    # Login in your azure subscription using a service principal (credentials stored as GitHub Secret in repo)
+    - name: Azure Login
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+    # Deploy Azure WebApp using Bicep file
+    - name: deploy
+      uses: azure/arm-deploy@v1
+      with:
+        subscriptionId: ${{ env.SUBSCRIPTION-ID }}
+        resourceGroupName: ${{ env.RESOURCE-GROUP }}
+        template: bicep-template/webapp.bicep
+        parameters: 'webAppName=${{ env.WEBAPP-NAME }} location=${{ env.LOCATION }}'
+        failOnStdErr: false   
+    # Publish website to Azure App Service (WebApp)
+    - name: Publish Website to WebApp
+      uses: Azure/webapps-deploy@v2
+      with:
+        app-name: ${{ env.WEBAPP-NAME  }}
+        package: .

@@ -1,0 +1,27 @@
+Foxboro System Administration for Microsoft Windows 10 and Server 2016
+
+<p>This course provides essential knowledge for performing system administration tasks on Microsoft® Windows® 10 and Microsoft Windows Server® 2016 systems and the best practices to follow when performing these tasks. The tasks include restoring the Windows operating system, licensing this operating system, creating a Commit installation folder using System Definition, deploying security for the system, installing software in different control systems, and setting up system backup and restore operations.</p>
+
+<p>This curriculum includes 3 virtual classroom sessions and the following mandatory activities for effective learning:<br>
+• Pre-course assessment: 15 minutes<br>
+• Post-session work before the next session (total of 9 hours and 45 minutes):<br>
+&nbsp; o Session 1 requires 3 hours and 30 minutes<br>
+&nbsp; o Session 2 requires 2 hours and 45 minutes<br>
+&nbsp; o Session 3 requires 3 hours and 30 minutes<br>
+• Post-course assessment: 15 minutes<br>
+&nbsp;<br>
+After participants successfully complete the post-course assessment, the training course is marked complete and participants can print a completion certificate.<br>
+For questions on curriculum content, send email to GLS, Inbox. (<a href="mailto:global.learning@schneider-electric.com">global.learning@schneider-electric.com</a>)</p>
+
+<p>Curriculum Path Instructions:<br>
+To follow the path for this curriculum, perform the following steps:<br>
+1. Complete the mandatory pre-course work titled<strong> Foxboro System Administration for Microsoft Windows 10 and Server 2016: Pre-Course Assessment.</strong><br>
+2. Register for the course, which is a Webinar in MLL, as follows:<br>
+&nbsp;&nbsp;&nbsp; a. Click the Webinar name.<br>
+&nbsp;&nbsp;&nbsp; b. Click <strong>Select Session</strong>.<br>
+&nbsp;&nbsp;&nbsp; c. Review available session dates and start times.<br>
+&nbsp;&nbsp;&nbsp; d. To select an appropriate timeslot, click <strong>Register </strong>next to an entry.</p>
+
+<p>Note that MLL sends a notice in email with information about the session you selected.</p>
+
+<p>&nbsp;</p>

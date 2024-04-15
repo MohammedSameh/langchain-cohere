@@ -1,0 +1,27 @@
+Control Systems: FCP280 and FDC280
+['Essential']
+<p>Foxboro™ Distributed Control System (DCS) includes several types of controllers, such as Field Control Processor 280 (FCP280) and Field Device Controller 280 (FDC280).<br>
+• FCP280 is an optionally fault-tolerant station that performs regulatory, logic, timing, and sequential control, together with connected Fieldbus Modules (FBMs). FCP280 also performs data acquisition, alarm detection, and notification.<br>
+• FDC280 is a distributed, optionally fault-tolerant, field-mounted controller that performs process control and alarming functions according to a user-defined control strategy. FDC280 provides direct field device integration without the need for additional FBMs.</p>
+
+<p>This course provides essential knowledge on the basic hardware components of FCP280, FDC280, and their baseplates. Additionally, the course covers the similarities and differences between the steps for installing, diagnosing, and maintaining FCP280 and FDC280 in their control networks.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Graduate Engineers<br>
+• Customer and&nbsp; Field Service Engineers<br>
+• Control and Safety<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p><strong>Learning Objectives:</strong><br>
+During this course, you acquire knowledge to:<br>
+• Identify the features and functionality of FCP280 and FDC280.<br>
+• Install and maintain FCP280 in a control network.<br>
+• Install and maintain FDC280 in a control network.<br>
+• Identify faults that inhibit normal fault-tolerant operations in FCP280 and FDC280.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of Foxboro DCSs</p>
+
+<p> </p>

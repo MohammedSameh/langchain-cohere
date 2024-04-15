@@ -1,0 +1,27 @@
+Understanding Foxboro System Architecture
+['Essential']
+<p>This curriculum provides essential knowledge on the basics of Foxboro Evo system architecture including hardware and software components.&nbsp;<br>
+The web-based course includes two content modules and one assessment. The content module provide topics on specific tasks.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based curriculum contains 2 modules&nbsp; followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the curriculum.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 3.0 hours<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+&nbsp; &nbsp;- Internal (Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+&nbsp; &nbsp;- External (Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+&nbsp; &nbsp;• Identify the layers of Foxboro Evo hardware architecture<br>
+&nbsp; &nbsp;• Recognize the way signal flow from one hardware component to another in Foxboro Evo<br>
+&nbsp; &nbsp;• Recognize the functions of Foxboro Evo hardware components<br>
+&nbsp; &nbsp;• Describe the topologies of Foxboro Evo Control network<br>
+&nbsp; &nbsp;• Explain the functions that Foxboro Evo system supports.&nbsp;<br>
+&nbsp; &nbsp;• Differentiate between the tools of Foxboro Evo functions<br>
+&nbsp; &nbsp;• List the high-level steps for installing Foxboro Evo software components.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of process automation and Foxboro DCSs</p>

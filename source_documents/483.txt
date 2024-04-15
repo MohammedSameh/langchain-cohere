@@ -1,0 +1,25 @@
+Automation Systems and the IEC 61499 Standard
+['Essential']
+<p><br>
+The IEC 61499 standard recommends guidelines and best practices for modern industrial automation systems. By adhering to the specifications of the IEC 61499 standard, plant personnel can automate control processes in a distributed manner. IEC 61499-compliant distributed control systems leverage application-centric modelling to support interoperability and portability.<br>
+<br>
+This curriculum explains the features of the IEC 61499 standard, compliance requirements, and architectural models for a distributed control system. This curriculum includes two courses, each followed by an assessment.<br>
+<br>
+<strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Apply IEC 61499 guidelines and best practices for enhancing plant operations.<br>
+• Implement distributed control systems according to architectural modeling requirements.<br>
+• Configure function blocks for industrial operations and engineering efficiency.<br>
+<br>
+<strong>Target Audience</strong><br>
+Internal:<br>
+• Application Engineers<br>
+• Lead Engineers<br>
+• Proposal Specialists<br>
+• Technical Sales Consultants<br>
+<br>
+External:<br>
+Control Engineers<br>
+<br>
+<strong>Prerequisites</strong><br>
+Knowledge of DCS hardware and software components</p>

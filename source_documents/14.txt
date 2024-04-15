@@ -1,0 +1,18 @@
+Getting Started With Virtualization
+['Essential']
+<p>This course presents the benefits of virtualization, the components of virtualized control systems, and the process of establishing virtualized control systems.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain virtualization and offered solutions to existing industrial challenges.<br>
+• Describe the main components of virtualized control systems.<br>
+• Identify the workflow of building and maintaining virtualized control systems. &nbsp;&nbsp;</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of FoxboroTM Distributed Control System (DCS) architecture&nbsp;</p>

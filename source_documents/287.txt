@@ -1,0 +1,29 @@
+Switch Architecture and Configuration
+['Essential']
+<p>This course identifies some of the routing resilience methods and addresses many of the underlying management issues.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:</strong></p>
+
+<p>&nbsp;Application Engineers, Control Engineers, System Integrators, Customer/Field Service Engineers.</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<ul>
+	<li>Manage network availability and configure systems for resiliency.</li>
+	<li>Manage traffic with service prioritization and Virtual LANs.</li>
+	<li>Configure network settings for a ConneXium switch.</li>
+</ul>
+
+<p><strong>Prerequisites</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<ul>
+	<li>Knowledge of control systems</li>
+	<li>Knowledge of automation systems</li>
+	<li>Knowledge of the OSI model.</li>
+</ul>
+
+<p> </p>

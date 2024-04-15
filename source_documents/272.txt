@@ -1,0 +1,24 @@
+Safety Systems: Tricon CX Controller
+['Professional']
+<p>Tricon<sup>TM</sup>&nbsp;&nbsp;CX controllers are designed for safety and critical control applications in the oil and gas, power, refining, chemicals, pharmaceutical, and biotech industries. As a safety and security certified system, the Tricon CX controller helps ensure operational integrity and provides protection against both inherent risks and external threats, such as cyberattacks. The Tricon CX controller uses Triple Modular Redundant (TMR) architecture, which integrates three isolated, parallel control systems and extensive diagnostics into one system. Tricon CX controllers offer the best of Tricon and Trident<sup>TM</sup> Safety Integrity Level 3 (SIL 3) systems with safer, reliable, and uninterrupted operations; increased plant uptimes; and reduced downtime costs.<br>
+This course provides essential knowledge on the hardware components of the Tricon controller, including Main Processor (MP), I/O, and communication components.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers&nbsp;<br>
+• Graduate Engineers<br>
+• Customer and &nbsp;Field Service Engineers<br>
+• Control and Safety<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p>For optimal viewing, launch the modules in a Microsoft® &nbsp;Internet Explorer® &nbsp;browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Select the Tricon CX hardware components that meet the project requirements for the safety system.<br>
+• Install Tricon CX hardware components in the safety system.<br>
+• Diagnose indicators for each Tricon CX hardware component.<br>
+• Replace Tricon CX hardware components as required.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of safety Programmable Logic Controller (PLC)</p>

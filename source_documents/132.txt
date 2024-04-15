@@ -1,0 +1,16 @@
+Effectively Integrating Control and Safety Systems
+
+<p>This curriculum provides essential knowledge on how to integrate control and safety systems on the Foxboro Evo™ platform. By integrating control and safety systems, you can ensure seamless performance of unified processes, eliminate data duplication, and execute key configuration tasks through a common HMI. The Foxboro Evo platform provides end-users a single application to view the entire plant automation setup.</p>
+<p>This curriculum includes 3 virtual classroom sessions of 2.5 hours each and these mandatory activities:</p><ul><li>Pre-course assessment before enrollment (60 minutes)&nbsp;</li><li>Post-session work of approximately 1 hour for each session </li><li>Post-course assessment after completing all sessions (30 minutes)&nbsp;<br>&nbsp;</li></ul><p>Participants must also complete the post-course assessment with a passing grade of 70% in 4 attempts. After participants successfully complete the post-course assessment, the training course is marked complete and participants can print a completion certificate.</p>
+<p>For questions on curriculum content, send email to&nbsp;GLS, Inbox.</p>
+<p><span style="text-decoration: underline;"><strong>Curriculum Path Instructions:</strong> </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>To follow the path for this curriculum, perform the following steps:</p>
+<ol>
+<li>Complete the mandatory pre-course work titled&nbsp;<strong>Effectively Integrating Control and Safety Systems Introduction</strong>.</li>
+<li>Register for the course, which is a Webinar in MLL, as follows:</li>
+</ol>
+<p style="padding-left: 60px;">a. Click the&nbsp;<strong>Webinar</strong> name.</p>
+<p style="padding-left: 60px;">b. Click&nbsp;<strong>Select Session</strong>.</p>
+<p style="padding-left: 60px;">c. Review available session dates and start times.</p>
+<p style="padding-left: 60px;">d. To select an appropriate timeslot, click&nbsp;<strong>Register&nbsp;</strong>next to an entry.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">Note that</span> MLL sends a notice in email with information about the session you selected.</p>

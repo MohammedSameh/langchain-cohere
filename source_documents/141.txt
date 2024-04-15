@@ -1,0 +1,25 @@
+Foxboro DCS: Build and Manage a HART System Using Field Device Expert (Virtual)
+['Professional']
+<p>In this course, you configure HART® devices using EcoStruxure™ Field Device Expert (FDE), commission these devices using the Intelligent Commissioning wizard, and perform diagnostics and maintenance. Additionally, you replace existing devices with new devices and migrate standard ECB201s to HART device-related ECB201s using the HART Device Replacement wizard.&nbsp;<br>
+<br>
+This course also provides information about the following features:<br>
+<br>
+• The security user role for managing HART devices connected to safety devices and custom roles for Technicians with limited access to ArchestrA™ Integrated Development Environment (IDE)<br>
+• Support for Field Device Tool (FDT) v2.0 Device Type Manager (DTM) in FDE v4.0 and later<br>
+• Availability of the HART Device Description library with FDE v4.0 and later<br>
+• Creation of snapshots and snapshot reports for comparing device parameters with FDE v4.2 and later<br>
+• Block user attributes for intelligent commissioning<br>
+<br>
+<strong>Learning Objectives</strong><br>
+<br>
+After completing this course, you can:<br>
+<br>
+Explain fundamental concepts of HART technology.<br>
+Describe requirements for implementing HART devices in Foxboro Distributed Control System (DCS).<br>
+Configure HART objects using Foxboro Control Editors and FDE.<br>
+Explain how to commission, diagnose, and maintain HART devices and FBM247 using FDE and Foxboro System Manager.</p>
+
+<p><strong>Prerequisites</strong><br>
+<br>
+Knowledge of Foxboro DCS and Control Software</p>
+After completing this course, you can:<br><br>Explain fundamental concepts of HART technology.<br>Describe requirements for implementing HART devices in Foxboro Distributed Control System (DCS).<br>Configure HART objects using Foxboro Control Editors and FDE.<br>Explain how to commission, diagnose, and maintain HART devices and FBM247 using FDE and Foxboro System Manager.<br>

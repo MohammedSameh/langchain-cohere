@@ -1,0 +1,31 @@
+Ethernet in Data Link and Physical Layers
+['Essential']
+<p>This course introduces two layers of the Open Systems Interconnection (OSI) model. The Data Link and the Physical layers are important to understand when using Ethernet networks. In addition, this course focuses on cable types, topologies and the use of both.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:</strong></p>
+
+<p>Application Engineers, Control Engineers, System Integrators, Customer/Field Service Engineers</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<ul>
+	<li>Recognize the requirements for network addresses.</li>
+	<li>Explain different transmission modes.</li>
+	<li>Describe the common types of network cables.</li>
+	<li>Distinguish between half-duplex and full-duplex Ethernet.</li>
+	<li>Identify different network topologies.</li>
+</ul>
+
+<p><strong>Prerequisites:</strong></p>
+
+<ul>
+	<li>Knowledge of control systems</li>
+	<li>Knowledge of automation systems</li>
+	<li>Knowledge of the OSI model.</li>
+</ul>
+
+<p>.</p>

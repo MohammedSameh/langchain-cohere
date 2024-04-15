@@ -1,0 +1,27 @@
+Safety System Basics
+['Essential']
+<p>This course elaborates on the safety concepts, safety measures, and global safety standards implemented to minimize risk to an acceptable level. The course also describes the protection layers implemented in a plant setup, the three main stages of the safety project life cycle, and the importance of Functional Safety Management (FSM) certification.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:</strong><br>
+• Field Service Engineers<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians<br>
+• Safety Engineers<br>
+• Application Engineers<br>
+• Graduate Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Identify the importance of safety and the causes of incidents.&nbsp;<br>
+• Distinguish between the prevention and mitigation layers.&nbsp;<br>
+• Describe the basic concepts of functional safety standards.&nbsp;<br>
+• Explain the purpose of Safety Integrity Levels (SILs) and the different methods to determine a SIL.&nbsp;<br>
+• Outline the safety project life cycle.<br>
+• Define Process Hazard Analysis (PHA) and the different methods associated with PHA.&nbsp;<br>
+• Understand the Safety Requirements Specification (SRS) for a Safety Instrumented System (SIS).<br>
+• Identify the procedures for Management of Change (MOC).<br>
+• State the importance of FSM certification.</p>
+
+<p><strong>Prerequisites:</strong>&nbsp;None</p>

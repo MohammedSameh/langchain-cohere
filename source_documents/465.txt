@@ -1,0 +1,24 @@
+Introduction to the IEC 61499 Standard
+['Essential']
+<p><br>
+The IEC 61499 standard sets a foundation for industrial automation application portability. This foundation enables wide-ranging benefits, including easy convergence of both operation and information technology systems, improved return-on-investment on software applications that can run independent of any hardware platform, and engineering design efficiency that accelerates product time-to-market.<br>
+<br>
+This course introduces the IEC 61499 standard for modeling distributed control systems for portability. The course includes two modules and a post-course assessment.&nbsp;<br>
+<br>
+<strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Comply with the key requirements in the IEC 61499 standard for distributed control systems.<br>
+• Explain the functionality of an IEC 61499-compliant distributed control system.<br>
+<br>
+<strong>Target Audience</strong><br>
+Internal:<br>
+• Application Engineers<br>
+• Lead Engineers<br>
+• Proposal Specialists<br>
+• Technical Sales Consultants<br>
+<br>
+<strong>External</strong>:<br>
+Control Engineers<br>
+<br>
+<strong>Prerequisites</strong><br>
+Knowledge of hardware and software control systems</p>

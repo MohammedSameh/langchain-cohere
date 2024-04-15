@@ -1,0 +1,37 @@
+Monitoring Historian and Managing Security
+['Professional']
+<p>After configuring Wonderware Historian to collect data, it is important to monitor Wonderware Historian performance and modify the configuration when needed. To be able to modify the configuration, you need to learn how to export a configuration information file, modify it, and import it back to the system. To avoid unauthorized modification to the configuration information, you need to manage the Wonderware Historian security.&nbsp;</p>
+
+<p>This course provides essential knowledge on monitoring Wonderware Historian and managing it's security.&nbsp;</p>
+
+<p><strong>Course Structure:&nbsp;</strong></p>
+
+<p>The web-based course includes one content modules and one assessment. The content module provides topics on specific tasks. After reviewing the content module, take the assessment. The module assessment is designed to evaluate the skills and knowledge you have gained by taking the content module.&nbsp;</p>
+
+<p><strong>Course Description:&nbsp;</strong></p>
+
+<ul>
+	<li>Expected Duration: 2.4 hours&nbsp;</li>
+	<li>Delivery Type: Web-based training&nbsp;</li>
+	<li>Target Audience: Graduate Engineers, Control Engineers&nbsp;</li>
+</ul>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives :</strong></p>
+
+<p>After completing this course, you can:&nbsp;</p>
+
+<ul>
+	<li>Monitor Historian.&nbsp;</li>
+	<li>Export and import configuration information.&nbsp;</li>
+	<li>Manage the security of Historian.&nbsp;</li>
+	<li>Create and restore a Historian database backup.</li>
+</ul>
+
+<div><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Historian configuration<br>
+• Historian Client<br>
+• Foxboro DCS Control Editors<br>
+• Microsoft® Office tools</div>

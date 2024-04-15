@@ -1,0 +1,11 @@
+Remote Operations Foundation Collection
+['Essential']
+<p>The Remote Operations Foundation Collection covers the essential skills needed for implementing Geo SCADA (Expert ViewX) and Foxboro SCADA (SCD6000 RTU), including architecture overview, core configuration and establishing communication.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>
+
+<p> </p>

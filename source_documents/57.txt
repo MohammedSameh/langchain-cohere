@@ -1,0 +1,25 @@
+Configuring Cascade Control Loops
+['Professional']
+<p>This course helps you understand the concept of cascade control, the Proportional Integral Derivative (PID) block parameters involved in the control loop, and finally the configuration of the cascade control loop.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 1 hr&nbsp;<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+---&nbsp;<strong>Internal&nbsp;</strong>(Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+---&nbsp;<strong>External&nbsp;</strong>(Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Explain the&nbsp;purpose and operation of a cascade&nbsp;control&nbsp;loop in process automation.&nbsp;<br>
+- Configure PID blocks in cascade control loops.<br>
+- Build and validate a cascade control loop using Foxboro Evo™ Control Editors.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process control<br>
+• Control Editors<br>
+• Microsoft® Office tools</p>

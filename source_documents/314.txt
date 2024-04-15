@@ -1,0 +1,25 @@
+Communication Between EcoStruxure Geo SCADA Expert ViewX and Controllers
+['Professional']
+<p>EcoStruxure™ Geo SCADA Expert is an open software platform that supports remote management of critical infrastructures in both small and large enterprises. EcoStruxure Geo SCADA Expert ViewX is a client application that provides access to the Geo SCADA Expert system. Using ViewX, you can display field data and statuses, interact with field control systems, respond to alarms,&nbsp; and configure the database.</p>
+
+<p>The course in this curriculum provides essential knowledge on Geo SCADA Expert architecture and components, and the steps to configure the ViewX Client for establishing communication with a SCADAPack Modbus controller.</p>
+
+<p>This curriculum includes one course and a post-course assessment.</p>
+
+<p><strong>Target Audience:</strong><br>
+- Engineers and Managers involved in SCADA projects<br>
+- Network Design and Maintenance Engineers<br>
+- System Design Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing the course, you can:<br>
+- Describe the components of the Geo SCADA Expert network.<br>
+- Explain the connection between Remote Terminal Units (RTUs) and the Geo SCADA Expert Client.<br>
+- Retrieve data from the SCADAPack Modbus RTU using the Geo SCADA Expert Client.<br>
+- Display data from the RTU on a Mimic.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Understanding of:<br>
+&nbsp; ‒ SCADA control process, PLCs, and RTUs<br>
+&nbsp; ‒ Industrial communication protocols, such as: Modbus, DNP3, and TCP/IP<br>
+• General familiarity with the ViewX interface and project configuration</p>

@@ -1,0 +1,15 @@
+Features and Hardware Components of SCD6000
+['Essential']
+<p>This course details the features, functions, benefits, and deployment architectures of SCD6000. In addition to the high-level information on hardware and software components of SCD6000, this course covers the hardware components in detail.</p>
+
+<p>After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Explain the features and functions of SCD6000.<br>
+- Describe SCD6000 system components and architecture.<br>
+- Identify SCD6000 hardware components.</p>
+
+<p><strong>Prerequisites:</strong></p>
+
+<p>• Ability to configure SCADA systems • Knowledge of RTU configuration</p>

@@ -1,0 +1,10 @@
+Konfigurieren von Kaskadenregelkreisen
+['Professional']
+Kursspezifikation
+Dieser Kurs konzentriert sich auf die Konfiguration eines Kaskadenregelkreises mit Foxboro™ Distributed Control System (DCS) Control Editors. Die Kaskadenregelung ermöglicht proaktive und korrigierende Systemreaktionen auf einen Systemfehler anstelle von reaktiven Reaktionen auf negative Auswirkungen des Fehlers. Um Kaskadenregelkreise zu erstellen, verwenden Sie spezifische Blöcke zur Steuerung des Prozesses. Microsoft® .
+Dieser Kurs vermittelt grundlegende Kenntnisse über das Konzept der Kaskadenregelung, die Parameter des Proportional-Integral-Derivativ-Blocks (PID) in einem Kaskadenregelkreis und die Konfiguration eines Kaskadenregelkreises.
+Ziele des Kurses
+Nach Abschluss dieses Kurses können Sie:
+•	den Zweck und die Funktionsweise eines Kaskadenregelkreises in der Prozessautomatisierung erläutern.
+•	Proportional-Integral-Derivative (PID)-Blöcke in einem Kaskadenregelkreis konfigurieren.
+•	Einen Kaskadenregelkreis mit Foxboro Control Editors aufbauen und validieren.

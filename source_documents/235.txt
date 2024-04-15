@@ -1,0 +1,33 @@
+Control Network Implementation
+['Professional']
+<p>This course introduces network connectivity and explains how to implement an Ethernet network.</p>
+
+<p><strong>Target Audience:</strong>&nbsp;Application Engineers, Control Engineers, System Integrators, Customer/Field Service Engineers.</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<ul>
+	<li>Explain the functions of various network connectivity devices, such as hubs, switches, routers, and gateways.</li>
+	<li>Create an Ethernet network.
+	<ul>
+		<li>Identify network requirements.</li>
+		<li>Connect the network.</li>
+		<li>Configure addresses for network devices.</li>
+	</ul>
+	</li>
+	<li>Test and troubleshoot the network for operation.</li>
+</ul>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Prerequisites:</strong></p>
+
+<ul>
+	<li>Knowledge of control systems</li>
+	<li>Knowledge of automation systems</li>
+	<li>Knowledge of the OSI model.</li>
+</ul>
+
+<p> </p>

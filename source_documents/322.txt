@@ -1,0 +1,29 @@
+Integrating Field Devices Using FDSI
+['Professional']
+<p>This course provides essential knowledge on how to use Field Device System Integrators (FDSIs) to integrate Schneider Electric or third-party Modbus field devices into a Foxboro Evo system. Course topics address the required hardware for integration, such as FBM230, FBM231, FBM232, and FBM233. Topics also include software configuration using Foxboro Evo™ Control Editors, System Manager, and FDSI Configurator.&nbsp;</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 1.7 hours<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+<strong>--- Internal&nbsp;</strong>(Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+<strong>--- External</strong>&nbsp;(Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives<br>
+After completing this course, you can:&nbsp;</strong><br>
+• Explain the process of integrating third-party field devices into a Foxboro Evo system using FDSI.<br>
+• Identify the features and functions of FBM230, FBM231, FBM232, and FBM233.<br>
+• Differentiate between communication protocols, such as Modbus, TSAA, and OPC.<br>
+• Configure FDSI to communicate with a Modbus field device.<br>
+• Recognize the differences between FDSI and FDC280.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of Foxboro system architecture<br>
+• Knowledge of Foxboro Control Editors<br>
+• Knowledge System Manager software<br>
+• Knowledge of Foxboro Control HMI</p>

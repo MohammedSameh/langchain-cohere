@@ -1,0 +1,19 @@
+2300v8 Foxboro Process Operations (Virtual)
+['Essential']
+<p>This
+  course provides the background necessary to perform procedures normally
+  encountered by Plant Operators in the Control room. Through a series of
+  simulated control schemes in this course, you identify the mechanics of
+  operating the FoxView™ interface and interacting with typical process
+  displays. </p><p>This course is ideal for personnel who are responsible for day-to-day
+  operations in a plant.</p><p><strong>Learning Objectives</strong></p>  After completing this course, you can:<br>•	Use the devices provided by the operator station to access displays, overlays, and environments, and to determine variables that are operator-changeable.<br>•	Recognize the occurrence of a process alarm, determine the cause, and provide the appropriate response in a typical process situation.<br>•	Operate the standard Foxboro™ faceplate displays and custom graphical displays.<br>•	Observe variations in process conditions and review historical data using real-time trends.<br>•	Demonstrate the method of access and the information presented in operational reports and in scheduled and on-demand custom process reports.<br>•	Acknowledge the system alarm and identify the failed component for a failed event.
+After
+  completing this course, you can: <br>     •	Use the devices provided by the operator station to access displays,
+  overlays, and environments, and to determine variables that are
+  operator-changeable.<br>     •	Recognize the occurrence of a process alarm, determine the cause, and
+  provide the appropriate response in a typical process situation.<br>     •	Operate the standard Foxboro™ faceplate displays and custom graphical
+  displays.<br>     •	Observe variations in process conditions and review historical data using
+  real-time trends.<br>     •	Demonstrate the method of access and the information presented in
+  operational reports and in scheduled and on-demand custom process
+  reports.<br>     •	Acknowledge the system alarm and identify the failed component for a
+  failed event.

@@ -1,0 +1,33 @@
+Automating Industrial Processes with EcoStruxure Automation Expert
+['Professional']
+<p>EcoStruxure™ Automation Expert is an industrial automation software that helps improve engineering efficiency and productivity. With EcoStruxure Automation Expert, you can deploy an event-based, agile system and adapt to changing business requirements.</p>
+
+<p>In compliance with the IEC 61499 standard, EcoStruxure Automation Expert enables optimization of industrial operations. You can modularize and repurpose solutions to suit project requirements.</p>
+
+<p>This course demonstrates the features and configuration techniques in EcoStruxure Automation Expert version 22.0.</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Explain the features of EcoStruxure Automation Expert.<br>
+• Install EcoStruxure Automation Expert and reference libraries.<br>
+• Develop function blocks per requirements.<br>
+• Configure graphics and HMIs for the developed solutions.<br>
+• Manage and monitor the deployment of solutions.<br>
+• Configure interlocks and permissives in solutions.<br>
+• Integrate field devices with the developed solutions.&nbsp;&nbsp;<br>
+<br>
+<strong>Target Audience</strong><br>
+Internal:<br>
+• Application Engineers<br>
+• Lead Engineers<br>
+• Proposal Specialists<br>
+• Technical Sales Consultants<br>
+<br>
+External:<br>
+Control Engineers</p>
+
+<p><strong>Prerequisites</strong><br>
+• Knowledge of hardware and software components in Distributed Control Systems (DCSs)<br>
+• Familiarity with the IEC 61499 standard</p>
+
+<p> </p>

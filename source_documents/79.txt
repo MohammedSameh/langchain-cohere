@@ -1,0 +1,35 @@
+Configuring Better Displays Using Situational Awareness Graphics
+
+<p>This curriculum provides essential knowledge for using the new Situational Awareness feature in Foxboro Evo Control HMI. Situational Awareness helps operators visually assess the current state of the control system, trace past performance, and predict future events. This information helps operators respond proactively to process changes.</p>
+<p>This curriculum includes 3 virtual classroom sessions of 2.5 hours each and these mandatory activities:</p>
+<ul>
+<li>
+<p>Before enrolling in the sessions, a pre-course assessment of approximately 30 minutes that participants need to pass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Pre-course work of approximately 15 minutes&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Post-session work of approximately 60 minutes for each session&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Post-course assessment of approximately 30 minutes</p>
+</li>
+<li>
+<p>Participants must complete the pre-course assessment with a passing grade of 50% in 2 attempts.&nbsp;</p>
+</li>
+</ul>
+<p style="padding-left: 60px;">&nbsp;</p>
+<p>Participants must also complete the post-course assessment with a passing grade of 80% in 3 attempts. After participants successfully complete the post-course assessment, the training course is marked complete and participants can print a completion certificate.</p>
+<p>For questions on curriculum content, send email to GLS, Inbox.</p><p><strong></strong></p>
+<p><span style="text-decoration: underline;"><strong>Curriculum Path Instructions:</strong></span></p>
+<p>To follow the path for this curriculum, perform the following steps:</p>
+<ol>
+<li>Complete the mandatory pre-course work titled <strong>Introduction to Configuring Better Displays Using</strong><br><strong>Situational Awareness Graphics</strong>.</li>
+<li>Register for the course, which is a Webinar in MLL, as follows:</li>
+</ol>
+<p style="padding-left: 60px;">a. Click the <strong>Webinar </strong>name.</p>
+<p style="padding-left: 60px;">b. Click <strong>Select Session</strong>.</p>
+<p style="padding-left: 60px;">c. Review available session dates and start times.</p>
+<p style="padding-left: 60px;">d. To select an appropriate timeslot, click <strong>Register </strong>next to an entry.</p>
+<p style="padding-left: 60px;">&nbsp;&nbsp;&nbsp; <span style="text-decoration: underline;">Note that</span> MLL sends a notice in email with information about the session you selected.</p>

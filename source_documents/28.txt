@@ -1,0 +1,26 @@
+Configuring Sequence Controls
+['Professional']
+<p>This course provides essential knowledge on the configuration of sequence control blocks in Foxboro Evo™ process automation systems. Topics include the features and functions of sequence control blocks, block interaction in a sequence control process, and block programming using High Level Batch Language (HLBL) syntax. Knowledge of sequence control blocks enables plant personnel to configure sequence control in plant processes easily and efficiently.&nbsp;</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Course Structure</strong>:<br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking</p>
+
+<p>course.</p>
+
+<p><strong>Course Description</strong>:<br>
+- Expected Duration: 1&nbsp;hour 30 minutes<br>
+- Delivery Type: Web-based training<br>
+- Target Audience: Application Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+<strong><strong>After completing this course, you can:</strong></strong>&nbsp;<br>
+- Explain the features and functions of sequence control blocks.<br>
+- Manage the states and interactions of sequence control blocks in a sequence control process.<br>
+- Identify the different sections used in sequence control blocks.<br>
+- Program sequence control logic using High Level Batch Language (HLBL) syntax.</p>
+
+<p><strong>Prerequisites</strong>:<br>
+- Knowledge of programming using Structured Text<br>
+- Knowledge of ArchestrA™ IDE</p>

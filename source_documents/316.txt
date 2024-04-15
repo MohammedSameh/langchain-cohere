@@ -1,0 +1,27 @@
+Safety Systems: Tricon Controller
+['Essential']
+<p>The Tricon<sup>TM</sup> controller is designed for use in safety applications requiring Safety Integrity Level (SIL) 1, 2, or 3. These high-integrity controllers provide fault tolerance by means of Triple-Modular Redundant (TMR) architecture. Tricon controllers enable repair without process interruption and help reduce unexpected production outages and downtime.<br>
+This course provides essential knowledge on the hardware components of the Tricon controller, including Main Processor (MP), I/O, and communication components.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers&nbsp;<br>
+• Graduate Engineers<br>
+• Customer and Field Service Engineers<br>
+• Control and Safety<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p>For optimal viewing, launch the modules in a Microsoft® &nbsp;Internet Explorer® &nbsp;browser.</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Select the Tricon hardware components that meet the project requirements for the safety system.<br>
+• Install the Tricon hardware components in the safety system.<br>
+• Diagnose indicators for each hardware component.<br>
+• Replace Tricon hardware components as required.</p>
+
+<p><br>
+<strong>Prerequisites:</strong><br>
+Basic knowledge of safety Programmable Logic Controller (PLC)</p>
+
+<p>&nbsp;</p>

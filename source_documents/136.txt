@@ -1,0 +1,24 @@
+Control Systems: Control Network Interface
+['Professional']
+<p>Foxboro™ Distributed Control System (DCS) is a self-contained hardware and software solution for process control systems. Foxboro DCS includes Control Network Interface (CNI), which facilitates Ethernet communication between two Foxboro DCSs over a customer-supplied connection. CNI enables communication between various control processors across the plant.</p>
+
+<p>This course provides essential knowledge on the basic hardware components of CNI and its baseplate. The course also covers how to install, diagnose, and maintain CNI in a control network.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers&nbsp;<br>
+• Graduate Engineers<br>
+• Customer and &nbsp;Field Service Engineers<br>
+• Control and Safety<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p>For optimal viewing, launch the modules in a Microsoft® &nbsp;Internet Explorer® &nbsp;browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+During this course, you acquire knowledge to:<br>
+• Identify the features and functionality of CNI.<br>
+• Install and configure CNI.<br>
+• Diagnose and maintain CNI.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of Foxboro DCSs</p>

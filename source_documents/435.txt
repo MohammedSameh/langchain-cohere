@@ -1,0 +1,14 @@
+Diagnostic Tools for DCS Maintenance and Optimization (Virtual)
+['Professional']
+<p>This course provides essential knowledge on typical maintenance activities that optimize the performance of EcoStruxure™ Foxboro™ Distributed Control Systems (DCSs). Plant personnel can use diagnostic tools, such as System Manager, FERRET, DBVU, Peer-to-Peer Analyzer, RSOM, and SOM for these maintenance activities. This course covers the features and functions of diagnostic tools that plant personnel can use to maximize productivity and save time.</p>
+
+<p><strong>Learning Objectives</strong></p>
+
+<p>After completing this course, you can:&nbsp;<br>
+- Explain the use of diagnostic tools for optimizing the performance of EcoStruxure™ Foxboro™ DCS.<br>
+- Monitor the health of DCS components and apply equipment changes in System Manager.<br>
+- Review DCS data using FERRET and the control station database using DBVU.&nbsp;<br>
+- Validate peer-to-peer configurations using Peer-to-Peer Analyzer and RSOM.<br>
+- Manage Object Manager (OM) databases in remote control stations using RSOM and in workstations using SOM.&nbsp;<br>
+- Execute key commands and scripts for checking the integrity of configurations in DCS.</p>  <strong>Prerequisites</strong><br>• Knowledge of DCS hardware and software components and their configuration<br>• Completion of the following courses:<br>‒ 1227 Control HMI for Engineering Projects<br>‒ 1172 Troubleshooting Foxboro DCS Control Processor<br>‒ 1157 Monitoring Control System Performance
+After completing this course, you can:&nbsp;<br> - Explain the use of diagnostic tools for optimizing the performance of EcoStruxure™ Foxboro™ DCS.<br> - Monitor the health of DCS components and apply equipment changes in System Manager.<br> - Review DCS data using FERRET and the control station database using DBVU.&nbsp;<br> - Validate peer-to-peer configurations using Peer-to-Peer Analyzer and RSOM.<br> - Manage Object Manager (OM) databases in remote control stations using RSOM and in workstations using SOM.&nbsp;<br> - Execute key commands and scripts for checking the integrity of configurations in DCS.

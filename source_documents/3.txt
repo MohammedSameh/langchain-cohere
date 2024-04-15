@@ -1,0 +1,16 @@
+Introduction to Foxboro I/A Series DCS Architecture Course
+['Essential']
+<p>The web-based course includes one content module and one assessment. The content module provides topics on specific tasks.&nbsp;<br>
+The assessment is designed to evaluate the skills and knowledge that you gained by completing the content modules.</p>
+
+<p><strong>Target Audience:</strong>&nbsp;<br>
+- Newly hired Control Engineers</p>
+
+<p><strong>Learning Objectives:</strong>&nbsp;<br>
+After completing this course, you can:&nbsp;<br>
+- Identify the benefits of a DCS.&nbsp;<br>
+- Identify the hardware components of the Foxboro I/A Series DCS architecture.&nbsp;<br>
+- Identify the functions of the hardware components of the Foxboro I/A Series DCS.&nbsp;<br>
+- identify the steps to connect major hardware components of the Foxboro I/A Series DCS.&nbsp;</p>
+
+<p> </p>

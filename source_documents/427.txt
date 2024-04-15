@@ -1,0 +1,26 @@
+95031 M580 Safety Configuration
+['Essential']
+Modicon™
+  M580 Safety Ethernet Process Automation Controller (ePAC) is a secure,
+  high-performance automation controller for process and machine safety
+  applications requiring up to Safety Integrity Level 3 (SIL3). This course
+  introduces M580 Safety ePAC, highlighting how Common Safety technology
+  enables the full integration of process and safety functions while enforcing
+  isolation and independence between safety and non-safety related operations.
+  With M580 Safety ePAC, safety and non-safety hardware modules can be mixed
+  seamlessly to provide a high level of flexibility, adaptability, and
+  ease-of-use with a common engineering environment, full authentication, and
+  authorization of protected safety tasks.<br>     During this course, you acquire essential knowledge on the design of safety
+  system architecture with safety and non-safety devices, safety peer-to-peer
+  communication, safety memory organization, and safety I/O modules. The course
+  focuses only on software and hardware topics related to M580 Safety ePAC;
+  topics on safe processes are not included.<br>     For hands-on participation, you will need to bring your own laptop
+  installed with a valid license of EcoStruxure™ Control Expert with Safety
+  Add-on (formerly Unity Pro XLS).
+After
+  completing this course, you can:<br>     •	Describe the IEC 61508 functional safety standards for process and
+  machine applications.<br>     •	Differentiate Safety Integration and Common Safety technologies used in
+  hybrid industries.<br>     •	Combine process and safety functions in a single safety controller.<br>     •	Identify the main components of the M580 Safety ePAC offer.<br>     •	Explain the main features and limitations of M580 Safety ePAC and safety
+  I/Os.<br>     •	Implement and configure Safe Ethernet communication.<br>     •	Integrate local, remote, and distributed I/Os with M580 Safety
+  ePAC.<br>     •	Implement simple daisy chain architecture.<br>     •	Perform safety programming using Control Expert with Safety Add-on and
+  TÜV Safety Libraries.

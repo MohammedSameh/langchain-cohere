@@ -1,0 +1,26 @@
+Collecting and Analyzing Controller Events Using SOE Recorder
+['Professional']
+<p>Triconex™ Diagnostic Expert is a software program for monitoring the status of the hardware, software, and communication of Triconex controllers. Diagnostic Expert connects to Triconex controllers through the Triconex Data Server to log safety system data, monitor controllers, and collect sequence of events information.</p>
+
+<p>Detailed demonstrations and practices in this course help you effectively perform key tasks in SOE Recorder.</p>
+
+<p>&nbsp;<strong>Target Audience:</strong>&nbsp;<br>
+• Safety Engineers<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain the functions of SOE Recorder.<br>
+• Configure SOE Recorder to collect events from a Triconex controller.<br>
+• Analyze controller events by saving and viewing these events in SOE Recorder.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas Systems (FGS), and Turbo Machinery Control (TMC) systems<br>
+• Triconex Safety System fundamentals<br>
+• Tricon™ controllers, Tricon™ CX controllers, Trident™ controllers, and Triconex General Purpose (Tri-GP™) controllers<br>
+• Creation of TriStation™ 1131 Developer’s Workbench software projects<br>
+• Triconex Data Server<br>
+• Triconex Report Generator<br>
+&nbsp;</p>

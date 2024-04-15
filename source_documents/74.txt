@@ -1,0 +1,30 @@
+Configuring Managed Control HMI Applications
+['Professional']
+<p>Foxboro™ Control HMI enables you to develop Managed Human Machine Interface (HMI) applications. For Distributed Control Systems (DCSs), you configure Managed applications. To configure Managed applications, Control HMI provides you with ArchestrA™ Graphic symbols, overlays, and libraries. When configuring a Managed application, you can adopt best practices and ensure better&nbsp;HMI performance.&nbsp;</p>
+
+<p><strong>Important Note for Learners:</strong></p>
+
+<div>
+<p>After completing the course, you must successfully complete a post-course assessment within FOUR attempts to obtain credit and proceed to the next course.</p>
+</div>
+
+<p>This course provides essential knowledge on the configuration of Managed Control HMI applications.</p>
+
+<p><strong>Target Audience:</strong><br>
+- Application Engineers<br>
+- Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain standard components and libraries in Control HMI.<br>
+• Create ArchestrA™ symbols in Control HMI.&nbsp;<br>
+• Develop overlays for symbols in Control HMI.&nbsp;<br>
+• Create a process display window and view the window in runtime.<br>
+&nbsp;<br>
+<strong>Prerequisites:</strong><br>
+• Knowledge of DCSs<br>
+• Completion of Exploring the Features of Control HMI</p>
+
+<p>For optimal viewing, launch the course in the Microsoft<sup>®</sup> Internet Explorer<sup>®</sup> browser.</p>
+
+<div> </div>

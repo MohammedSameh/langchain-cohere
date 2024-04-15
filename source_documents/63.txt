@@ -1,0 +1,17 @@
+Endpoint Protection Using McAfee Products
+['Professional']
+<p>This course provides essential knowledge on the implementation of host and network-based security features using McAfee® products. Topics include Endpoint Security (ENS), application and device control, security policy management, and troubleshooting techniques for McAfee products. In addition, the course consists of detailed demonstrations on configuring Self-Managed and Managed solutions, application control, the Help Desk, and device access.</p>
+
+<p><strong>Target Audience&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+- Identify the products in the McAfee suite.&nbsp;<br>
+- Manage security policies for endpoints.<br>
+- Perform maintenance and troubleshooting of McAfee products.</p>
+
+<p><strong>Prerequisites</strong><br>
+• Knowledge of computer networking<br>
+• Concepts of cybersecurity</p>

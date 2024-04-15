@@ -1,0 +1,29 @@
+Using ArchestrA Graphics to Implement High-Performance Control HMIs (Virtual)
+['Professional']
+<p>This course provides intermediate-level knowledge of ArchestrA™ Graphics in the Foxboro™ Control HMI. ArchestrA Graphics offers powerful tools for designing process graphics, achieving optimal graphic performance, and improving process visualization in HMI displays.<br>
+<br>
+Using a sample project scenario in this course, you develop overlays and symbols; customize libraries; bulk generate graphics; deploy scripts; configure security, multi-monitory functionality, and other settings using Framer; manage alarms; analyze trends; troubleshoot errors; and convert legacy HMIs to the Foxboro Control HMI.</p>
+
+<p><strong>Target Audience </strong></p>
+
+<ul>
+	<li>Control Engineers</li>
+	<li>Plant Operators</li>
+</ul>
+
+<p><strong>Learning Objectives</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<ul>
+	<li>Interpret client requirements for a sample Control HMI project.</li>
+	<li>Build Control HMI using the Engineering Excellence ArchestrA library.</li>
+	<li>Customize a Managed Control HMI application using Framer, scripts, alarms, and trends.</li>
+	<li>Perform bulk editing of graphics using Bulk Graphics Editor (BGE).</li>
+	<li>Migrate legacy HMIs to Control HMIs.</li>
+</ul>
+
+<div><strong>Prerequisites </strong></div>
+
+<div>1095 Configuring Better Displays Using Situational Awareness Graphics</div>
+<p>•&nbsp;&nbsp;Interpret client requirements for a sample Control HMI project.<br>•&nbsp; Build Control HMI using the Engineering Excellence ArchestrA library.<br>•&nbsp;&nbsp;Customize a Managed Control HMI application using Framer, scripts, alarms, and trends.<br>•&nbsp;&nbsp;Perform bulk editing of graphics using Bulk Graphics Editor (BGE).<br>•&nbsp;&nbsp;Migrate legacy HMIs to Control HMIs.</p>

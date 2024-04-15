@@ -1,0 +1,28 @@
+Configuring, Securing, and Troubleshooting Switches
+['Professional']
+<p>Schneider Electric provides a dedicated tool to configure Ethernet Switches in Foxboro™ Distributed Control Network, this tool is known as Switch Configuration Application Software (SCAS). SCAS enables you to configure communications, deploy loop management algorithms, and disable unused ports to avoid potential security breaches to the Control Network. After configuring these settings, you generate a switch configuration file which you download to the switch.<br>
+This course helps you to configure and deploy switch configuration files using SCAS.</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:</strong><br>
+• Control Engineers<br>
+• Field Service Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Install SCAS.<br>
+• Configure legacy and X-Series Switches using SCAS.<br>
+• Enable Rapid Spanning Tree Protocol (RSTP) during switch configuration.<br>
+• Deploy loop management, such as Loop Protection Algorithm (LPA), and Loop Detection Policy (LDP).<br>
+• Explain the function of Control Network Interface (CNI).<br>
+• Describe tools for Control Network diagnosis and maintenance.<br>
+• Troubleshoot common errors of Control Network using SCAS.<br>
+• Deploy and validate switch configuration.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Ethernet network concepts<br>
+• Foxboro DCS hardware architecture and components<br>
+• System Manager<br>
+• System Definition configuration</p>

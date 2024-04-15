@@ -1,0 +1,22 @@
+System Management with System Advisor for Process Control
+['Professional']
+<p>This course details the features for viewing system management information about Foxboro Distributed Control System (DCS).<br>
+<br>
+For optimal viewing, launch the course in the Microsoft® Internet Explorer® browser, and press the F11 key to view the course in full screen mode.<br>
+<br>
+After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.<br>
+<br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• View the results from system configuration checks using the Integrity Checks and Displays features.<br>
+• Implement a group of changes simultaneously to the Foxboro DCS configuration using Historians and Bulk Configuration features.<br>
+• Manage system changes using Management of Change (MOC).<br>
+• View system events recorded by System Advisor using Sequence of Events (SOE) Messages feature.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Basic concepts of Ethernet networks<br>
+‒ Foxboro DCS architecture<br>
+• Understanding of:<br>
+‒ Foxboro control configuration and hardware configuration<br>
+‒ Content from 2001V8 Configuration Essentials or 5001 Control Software Configuration</p>

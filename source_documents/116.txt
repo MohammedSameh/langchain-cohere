@@ -1,0 +1,26 @@
+Troubleshooting Foxboro DCS Control Processor
+['Professional']
+<p>This course identifies different tools and scripts that you can use to fix any issues related to the Control Processor (CP) of Foxboro DCS.</p>
+
+<p><strong>Target Audience:</strong></p>
+
+<ul>
+	<li>Application Engineers</li>
+	<li>Maintenance Engineers</li>
+	<li>Plant Operations Managers</li>
+	<li>Customer/Field Service Engineers</li>
+</ul>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Monitor Foxboro DCS using System Manager.<br>
+• Diagnose CP status using Fault Tolerant History Script (FTHS).<br>
+• Extract CP Memory Dump.<br>
+• Capture network data using Wireshark ® network protocol analyzer.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of Foxboro DCS architecture<br>
+• Knowledge of System Manager<br>
+• Knowledge of Ethernet Networks</p>
+
+<p> </p>

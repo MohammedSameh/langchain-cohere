@@ -1,0 +1,34 @@
+Foxboro Control Software Overview
+['Essential']
+<p>This course provides an overview of Foxboro Control Software (FCS), which you use for a variety of process control activities.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p>Duration: 2 hours</p>
+
+<p>Delivery Type: Web-based training</p>
+
+<p>Target Audience: Newly hired Control Engineers</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<p>- Describe the fundamentals and salient features of FCS.</p>
+
+<p>&nbsp;- Identify the role of FCS in process control.</p>
+
+<p>- List the functionality of these FCS components:</p>
+
+<ul>
+	<li>Wonderware Historian</li>
+	<li>System Manager</li>
+	<li>Security</li>
+	<li>Alarming</li>
+</ul>
+
+<div><strong>Prerequisites </strong></div>
+
+<div>Completion of courses in the Process Automation Basics Collection, or equivalent knowledge</div>
+
+<p> </p>

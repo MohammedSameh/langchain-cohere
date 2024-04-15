@@ -1,0 +1,24 @@
+Troubleshooting Thin Clients
+['Professional']
+<p>This course provides essential knowledge on troubleshooting thin clients. After you create a virtualized or non-virtualized Foxboro™ Distributed Control System (DCS), you need to monitor the performance of thin clients connected to this system and troubleshoot any errors to ensure maximum uptime.</p>
+
+<p>This course presents resolutions of errors that may occur with thin clients. These errors may include the inability to receive alarms, slow performance of Foxboro HMI displays, failure of thin client connections to Remote Desktop Protocol (RDP) hosts and domain controllers, and failure of automatic failover.&nbsp;</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience</strong><br>
+• Control Engineers<br>
+• Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Resolve non-receipt of USB Annunciator Keyboard alarms.<br>
+• Enhance performance of Foxboro HMI displays with thin clients.<br>
+• Resolve thin client connection failures.</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of:<br>
+• Ethernet networks concepts<br>
+• Virtual Auxiliary Communications Network (ACN) configuration<br>
+• USB Annunciator Keyboard configuration<br>
+• Thin client configuration</p>

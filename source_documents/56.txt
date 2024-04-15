@@ -1,0 +1,20 @@
+Configuring SCD6000 in a SCADA Network
+['Professional']
+<p>This course helps you configure SCD6000 using EcoStruxure™ Foxboro SCADA RTU Station, monitor SCD6000 using Foxboro SCADA Remote Terminal Viewer (RTV), and develop Intrinsic Database Functions (IDF) calculations and State And Logic Language (SALL) programs for implementation in SCD6000. This course also details the various communication protocols supported by SCD6000 and the configuration of these protocols in SCD6000.<br>
+<br>
+After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.<br>
+<br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+- Configure SCD6000 using Foxboro RTU Station.<br>
+- Import an existing configuration file into SCD6000.<br>
+- Explain the backup and restoration of the SCD6000 configuration database.<br>
+- Monitor the health of SCD6000 RTUs using RTV.<br>
+- Identify the communication protocols supported by SCD6000.<br>
+- Configure SCD6000 as a Master or Slave device.<br>
+- Develop the IDF calculation.<br>
+- Develop a SALL program for executing the order of instructions in SCD6000.</p>
+
+<p><strong>Prerequisites</strong><br>
+• Ability to configure SCADA systems<br>
+• Knowledge of RTU configuration</p>

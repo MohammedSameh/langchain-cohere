@@ -1,0 +1,34 @@
+Using PSA Cloud for Dynamic Operational Risk Analyses
+['Expert']
+<p>EcoStruxure™ Process Safety Advisor (PSA) Cloud displays information about the performance and related operational risks of industrial plant assets. PSA Cloud includes functionality for running what-if scenarios and assessing the impact of changes in the status of Independent Protection Layers (IPLs).<br>
+<br>
+This course imparts essential knowledge on accessing PSA Cloud; creating roles and user groups, viewing users in PSA Cloud; filling Enterprise and Site Provision templates; and editing Enterprise and Site settings. Additionally, this course covers details about viewing and interpreting potential operational risks using the dynamic risk matrix.<br>
+<br>
+Detailed demonstrations, practices, and job aids help you effectively perform key tasks in PSA Cloud.</p>
+
+<p><strong>Target Audience</strong>:<br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p><br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Explain the features and functions of PSA Cloud.<br>
+• Manage users in PSA Cloud.<br>
+• Fill in the Enterprise and Site Provision templates.<br>
+• Edit Enterprise and Site settings through <strong>Admin Console</strong>.<br>
+• View and interpret risks related to a potential hazardous event in PSA Cloud.<br>
+• Investigate Safety Instrumented Function (SIF) demands in PSA Cloud.<br>
+• Forecast risks related to potential hazardous events.<br>
+<br>
+<strong>Prerequisites</strong>:<br>
+• Knowledge of:<br>
+&nbsp;&nbsp; ‒ Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas (F&amp;G) systems<br>
+&nbsp;&nbsp; ‒ Safety systems<br>
+&nbsp;&nbsp; ‒ IPLs<br>
+&nbsp;&nbsp; ‒ HAZard and OPerability (HAZOP) and Layers of Protection Analysis (LOPA)<br>
+&nbsp;&nbsp; ‒ PSA On Premise (PSA OP)<br>
+• Safety System Basics<br>
+• Fundamentals of PSA OP<br>
+• Installing and Licensing PSA OP<br>
+&nbsp;</p>

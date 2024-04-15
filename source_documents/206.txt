@@ -1,0 +1,23 @@
+Introduction to Automation Systems
+['Essential']
+<p>An automation system consists of sophisticated hardware and software components that automatically manage and monitor processes within an industrial plant with minimal or no human intervention. Automation systems are industry influenced, different systems are developed to provide solutions to meet industry requirements. This module introduces the basic concepts for automation systems and discusses the Distributed Control System (DCS), Programmable Logic Controller (PLC) system, and Supervisory Control and Data Acquisition (SCADA) system.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Identify different types of control loops.<br>
+• Define automatic control systems.<br>
+• Explain the different industrial process control systems.<br>
+• Identify common components of industrial process control systems.<br>
+• Differentiate between the following industrial process control systems:<br>
+‒ DCS<br>
+‒ PLC<br>
+‒ SCADA</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Automation systems and control processes<br>
+• DCSs</p>
+
+<p> </p>

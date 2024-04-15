@@ -1,0 +1,27 @@
+Testing Safety Functionality Using Triconex Safety Validator TieBack
+['Expert']
+<p>The Triconex™ Safety Validator TieBack application enables you to test the functionality of safety applications in response to simulated field device failures through the creation of tiebacks.</p>
+
+<p>Apart from providing essential knowledge on the features and functions of the Tieback application, this course also provides information on the workflow for creating tiebacks to test the functionality of the safety application.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience</strong>:&nbsp;<br>
+&nbsp;- Application Engineers<br>
+&nbsp;- Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong>:<br>
+After completing this course, you can:<br>
+• Explain the features and functions of the TieBack application. &nbsp;<br>
+• Summarize the process for creating tiebacks in a project.&nbsp;<br>
+• Create and attach a simulation file to a test project in Triconex Report Generator.<br>
+• Map tagnames in the Unit Under Test (UUT) file to tagnames in the tieback simulation file.&nbsp;<br>
+• Connect the safety logic to Emulators and run simulations.<br>
+• View tieback results in the TieBack application and in TriStation™ 1131 Developer’s Workbench software.<br>
+• Explain how to run tiebacks in Triconex Safety Validator.</p>
+
+<p><strong>Prerequisites</strong>:<br>
+- Knowledge of process safety applications, such as Emergency Shutdown System and Fire and Gas System.<br>
+- Knowledge of Triconex Controllers – Tricon, Trident or Tri-GP<br>
+- Working experience of creating TriStation 1131 safety applications<br>
+- Knowledge of Triconex Safety Validator and Triconex Report Generator</p>

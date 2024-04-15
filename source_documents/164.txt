@@ -1,0 +1,29 @@
+Backing up and Configuring Failover in Virtualized Control Systems
+['Professional']
+<p>This course presents steps for backing up the virtual control system, configuring failover between V91 server virtualization hosts, and testing failover functionality after configuration.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p>From Resources, you can download a job aid to help you perform procedures in this course.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain different backup methods for Virtual Machines (VMs) and V91 servers.<br>
+• Create a network share for backups.<br>
+• Import backups of VMs and V91 servers.<br>
+• Back up a virtual machine using Symantec System Recovery (SSR).<br>
+• Rebuild Redundant Array of Independent Disks (RAID) sets.<br>
+• Configure planned and unplanned failover for V91 servers.<br>
+• Configure and test failover for both V91 servers.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of:<br>
+• Components of a virtualized control system<br>
+• Ethernet networks<br>
+• Foxboro DCS architecture&nbsp;<br>
+• V91 server virtualization host configuration<br>
+• VMs configuration</p>

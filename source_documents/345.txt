@@ -1,0 +1,24 @@
+5318 Control HMI for Operators (Virtual)
+['Essential']
+<p>This course helps you gain the background necessary to perform procedures normally encountered by Plant Operators in the Control room. Through a series of simulated control schemes, you learn the mechanics of operating the Foxboro™ DCS user interface by interacting with typical process displays.&nbsp;<br>
+<br>
+Course topics use Control Software packages, Control Editor, the Control HMI application, and Control Historian.&nbsp;</p>
+
+<p><strong>Target Audience </strong><br>
+• Control Engineers<br>
+• Plant Operators<br>
+• Supervisors<br>
+<br>
+<strong>Learning Objectives</strong><br>
+After completing this course, you can:</p>
+
+<p>• Recognize the occurrence of a process alarm in a typical process situation, determine the cause, and provide the appropriate response.<br>
+• Operate Control HMI faceplate displays and custom graphic displays.<br>
+• Observe variations in process conditions using the features of real-time trends.<br>
+• Use advanced features in the Control HMI application with ArchestrA™ Graphics.<br>
+• Access and interpret information presented in Control HMI operational reports and in scheduled and on-demand custom process reports.<br>
+• Acknowledge the system alarm in the event of a failure and identify the failed Foxboro DCS component.</p>
+
+<p><strong>Prerequisites</strong><br>
+Prior control room experience in using pneumatic, electronic, or digital systems.</p>
+This course helps you gain the background necessary to perform procedures normally encountered by Plant Operators in the Control room. Through a series of simulated control schemes, you learn the mechanics of operating the Foxboro™ DCS user interface by interacting with typical process displays.&nbsp;<br><br>Course topics use Control Software packages, Control Editor, the Control HMI application, and Control Historian.&nbsp;<br><br><strong>Course Objectives<br></strong><br>After completing this course, you can:&nbsp;<br><br>• Recognize the occurrence of a process alarm in a typical process situation, determine the cause, and provide the appropriate response.<br>• Operate Control HMI faceplate displays and custom graphic displays.<br>• Observe variations in process conditions using the features of real-time trends.<br>• Use advanced features in the Control HMI application with ArchestrA™ Graphics.<br>• Access and interpret information presented in Control HMI operational reports and in scheduled and on-demand custom process reports.<br>• Acknowledge the system alarm in the event of a failure and identify the failed Foxboro DCS component.<br><br><strong>Target Audience&nbsp;</strong><br><br>• Control Engineers<br>• Plant Operators<br>• Supervisors<br><br><strong>Prerequisites</strong><br><br>Prior control room experience in using pneumatic, electronic, or digital systems

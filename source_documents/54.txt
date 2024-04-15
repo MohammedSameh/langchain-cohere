@@ -1,0 +1,28 @@
+Deploying and Verifying Control Objects
+['Professional']
+<p>Control objects deployment refers to copying all the configurations to the physical CP. This configuration includes compounds, strategies, and blocks.&nbsp;<br>
+In this course, you use Foxboro Evo™ Control Editors to deploy control objects to be executed. You will learn how to reconfigure a compound or a strategy, undeploy and redeploy them again after configuration. You will also learn validate control objects configuration using Live Data and Object Viewer in Control Editors.&nbsp;</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 1 hr<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+<strong>--- Internal</strong>&nbsp;(Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+<strong>--- External</strong>&nbsp;(Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives<br>
+After completing this course, you can:&nbsp;</strong><br>
+- Deploy, redeploy, and undeploy control objects.<br>
+- Display Real-time Values Using Live Data Mode<br>
+- Verify Control Objects using Object Viewer.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process control loops<br>
+• Basic control configuration<br>
+• Configuration of hardware components and control objects</p>

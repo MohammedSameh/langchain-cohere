@@ -1,0 +1,12 @@
+GeoSCADA L2 Advanced (Virtual)
+['Professional']
+<p>This three-day course covers advanced topics geared towards
+experienced users who want to learn how to use SQL to query system databases
+and create reports, OLE-Automation, and detailed diagnostics<br>This class is recommended only for students who have significant
+experience configuring ClearSCADA and have working knowledge of programming and
+SQL.</p><p><strong>Prerequisites for L2</strong><br>ClearSCADA Level I is a
+prerequisite.<br>It is also suggested that
+the attendee be familiar with SQL, structured text scripting as used within
+ClearSCADA, and VBScript. These languages are used in the course exercises, and
+it is assumed that the attendee has some familiarity with them.</p><p>In addition to class sessions offered at Schneider Electric locations, this class is available on-site at customer locations for groups of up to eight students. For more information please contact scada.training@schneider-electric.com .</p>
+After completion of this course, the attendee will be able to:<br>• Describe the design of the ClearSCADA database, including object inheritance, properties and methods<br>• Use the ClearSCADA Automation Interface to manipulate database objects programmatically from outside of ClearSCADA<br>• Access the ClearSCADA database over the ODBC interface<br>• Use and populate Data Grid and Data Table objects in ClearSCADA<br>• Use SQL within ClearSCADA

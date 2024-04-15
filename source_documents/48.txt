@@ -1,0 +1,23 @@
+Configuring Virtualization in Server 2016
+['Professional']
+<p>This course covers the configuration of Centralized Virtualization Management (CVM) in&nbsp; Microsoft® Windows® Server® 2016 Operating System (OS). &nbsp;</p>
+
+<p>This course provides a job aid on the differences in the OS setup for Server 2012 and Server 2016.&nbsp;</p>
+
+<p>Additionally, the course provides detailed demonstrations and practice exercises on: setting up Local Group Policies (LGPOs) and McAfee™&nbsp; Endpoint Security (ENS); configuring Primary Domain Controller (PDC) and Secondary Domain Controller (SDC) settings; and adding the server system to the domain.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+- Application Engineers&nbsp;<br>
+- Field Service Engineers</p>
+
+<p><strong>Learning Objectives:&nbsp;</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Differentiate OS setup for CVM in Server 2012 and Server 2016.<br>
+• Configure security policies, PDC, SDC, and Active Directory settings in Server 2016.&nbsp;</p>
+
+<p><strong>Prerequisites</strong>:<br>
+Basic knowledge of:&nbsp;<br>
+- Components of a virtualized control system&nbsp;<br>
+- Cybersecurity concepts &nbsp;</p>
+
+<p> </p>

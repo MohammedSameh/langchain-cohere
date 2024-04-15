@@ -1,0 +1,11 @@
+Diskrete Regelkreise konfigurieren
+['Professional']
+<p>Dieser Kurs macht Sie mit einer Vielzahl von Steuerungsblöcken in den Foxboro™ Distributed Control Systems (DCS) Control Core Services zur Verarbeitung diskreter Informationen von und zu digitalen Feldgeräten vertraut. Mit den Foxboro Evo Control Editors entwickeln Sie einen Regelkreis, indem Sie Eingangs- und Ausgangsblöcke, Blöcke, die Geräte darstellen, und Blöcke, die erweiterte Funktionen ausführen, auswählen. Sie verbinden und konfigurieren diese Blöcke in Regelstrategien innerhalb von Regelkreisen. Nach dem Einsatz in einem laufenden Steuerungsprozessor überwachen Sie das Verhalten des Regelkreises über Anzeigen oder Faceplates in Foxboro Control HMI.</p>
+
+<p><strong>Ziele des Kurses:</strong><br>
+Nach Abschluss dieses Kurses können Sie:<br>
+•&nbsp;&nbsp; &nbsp;Erkennen der Komponenten eines diskreten Regelkreises.<br>
+•&nbsp;&nbsp; &nbsp;Unterscheiden Sie die Funktionen und Operationen verschiedener Blöcke für die diskrete Steuerung.<br>
+•&nbsp;&nbsp; &nbsp;Logik-, Boolesche und Timer-Funktionen in LOGIC- und CALCA-Blöcken zu identifizieren.<br>
+•&nbsp;&nbsp; &nbsp;Erstellen und Konfigurieren eines diskreten Regelkreises mit Hilfe von Control Editors.<br>
+•&nbsp;&nbsp; &nbsp;Anzeige des Verhaltens eines diskreten Regelkreises mit Control HMI.</p>

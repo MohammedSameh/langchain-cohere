@@ -1,0 +1,30 @@
+Foxboro DCS: Build and Manage a HART System Using Field Device Manager
+['Professional']
+<p>Foxboro™ Control Software supports the implementation of HART technology by providing a robust platform for constructing loops, accelerating plant start-ups, and complying with HART standards. HART device configuration with the Foxboro HART FDM user interface includes diagnostic capabilities that improve uptime and performance while lowering maintenance costs.<br>
+In this curriculum, engineers configure and commission a HART system using FDM in Control Software. This curriculum also covers maintaining and troubleshooting HART devices. The curriculum targets engineers with basic knowledge of field device integration.</p>
+
+<p>This curriculum includes 3 virtual classroom sessions of 2.5 hours each and these mandatory activities:<br>
+• Pre-course assessment before enrollment (30 minutes)&nbsp;<br>
+• Post-session work before the next session (total of 3.5 hours):<br>
+&nbsp; o Session 1 requires 30 minutes<br>
+&nbsp; o Session 2 requires 2 hours<br>
+&nbsp; o Session 3 requires 1 hour<br>
+• Post-course assessment after completing all sessions (30 minutes)&nbsp;</p>
+
+<p>Participants must complete the pre-course assessment with a passing grade of 50% in 4 attempts. Participants also must complete the post-course assessment with a passing grade of 70% in 4 attempts. After participants successfully complete the post-course assessment, the curriculum is marked complete, and participants can print a certificate of completion.</p>
+
+<p>For questions on curriculum content, send a message to <u><a href="mailto:global.learning@schneider-electric.com">SM US Foxboro OCS Contact</a></u>.</p>
+
+<p>Curriculum Path Instructions:&nbsp;<br>
+To follow the path for this curriculum, perform the following steps:<br>
+1. Complete the mandatory pre-course work titled Foxboro DCS: Build and Manage a HART System Using Field Device Manager: Pre-Course Assessment.<br>
+2. Register for the course, which is a Webinar in MLL, as follows:<br>
+a. Click the Webinar name.<br>
+b. Click Select Session.<br>
+c. Review available session dates and start times.<br>
+d. To select an appropriate timeslot, click Register next to an entry.<br>
+Note that MLL sends a notice in email with information about the session you selected.</p>
+
+<p>For optimal viewing, launch the modules in a Microsoft Internet Explorer® browser.</p>
+
+<p>&nbsp;</p>

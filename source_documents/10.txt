@@ -1,0 +1,15 @@
+Configuring Discrete Control Loops
+['Professional']
+<p>This course introduces you to a variety of control blocks in Foxboro Evo™ Control Core Services for processing discrete information to and from digital field devices. Using Foxboro Evo Control Editors, you develop a control loop by selecting input and output blocks, blocks representing devices, and blocks that perform advanced functions. You connect and configure these blocks in control strategies within control compounds. After deployment to a running control processor, you monitor the behavior of the control loop through displays or faceplates in Foxboro Evo Control HMI. After completing the topics, you must complete a post-course assessment to obtain credits.</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Recognize the components of a discrete control loop.<br>
+• Distinguish the functions and operations of different blocks for discrete control.<br>
+• Identify logic, Boolean, and timer functions in LOGIC and CALCA blocks.<br>
+• Create and configure a discrete control loop using Control Editors.<br>
+• Display the behavior of a discrete control loop using Control HMI.</p>
+
+<p> </p>

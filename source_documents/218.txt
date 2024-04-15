@@ -1,0 +1,29 @@
+EcoStruxure Modicon Builder
+['Professional']
+<p>This course provides essential knowledge on EcoStruxure™ Modicon™ Builder, a pre-sales tool for obtaining technical information about products, minimizing dependencies on Subject Matter Experts (SMEs), and generating customer quotations based on project requirements. Course topics include tool features, project creation, configuration of plant architecture, creation of a Bill of Material (BOM), generation of the quotation, project report, and profile management.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+Internal: Product Application Experts, Solution Architecture Experts, System Integrators and Partners Engineers<br>
+External: Product Application Experts, Solution Architecture Experts, System Integrators and Partners Engineers<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
+<strong>Course Description</strong>:<br>
+- Expected Duration: 2 Hours<br>
+- Delivery Type: Web-based training &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Describe the capabilities of EcoStruxure Modicon Builder.<br>
+• Specify required details to create a project.<br>
+• Configure plant architecture.<br>
+• Edit a generated plant configuration using the Graphical view tab.<br>
+• Update a Bill of Material (BOM) and generate a quote.<br>
+• Generate a project report.<br>
+• Manage device, software, and control network profiles to accelerate the quotation process.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of EcoStruxure Control Expert (formerly Unity Pro™ software)</p>

@@ -1,0 +1,21 @@
+Creating Tricon CX Projects in TriStation 1131 Software
+['Professional']
+<p>This course provides essential knowledge on creating Tricon™ CX projects and setting up controller and security settings in TriStation™ 1131 Developer's Workbench software. These settings include controller settings, controller memory allocation, and safety application security settings.<br>
+After completing this course, you can:<br>
+- Create Tricon CX projects.<br>
+- Configure the Tricon CX controller and corresponding functional settings.<br>
+- Allocate the memory of Tricon CX controllers.&nbsp;<br>
+- Configure the security settings of Tricon CX projects.<br>
+For optimal viewing, launch the course in a Microsoft® Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Create Tricon CX projects.<br>
+• Configure the Tricon CX controller and corresponding functional settings.<br>
+• Allocate the memory of Tricon CX controllers.<br>
+• Configure the security settings of Tricon CX projects.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown Systems and Fire and Gas Systems<br>
+• Triconex™ controllers – Tricon, Trident™, or Triconex General Purpose (Tri-GP™)</p>

@@ -1,0 +1,33 @@
+Configuring Control Objects
+['Professional']
+<p><strong>Course Description</strong><br>
+Control objects creation and configuration refers to the process of converting customer requirements into logical functions, which the Control Processors (CPs) execute.&nbsp;<br>
+In this course, you learn how to create and configure different control objects, such as compounds, strategies, and blocks using Foxboro Evo Control Editors. You also learn how the CP executes the control objects and the sequence of execution.</p>
+
+<p><br>
+<strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+<strong>- Expected Duration:</strong>&nbsp;1.5 hr<br>
+<strong>- Delivery Type</strong>: Web-based training<br>
+<strong>- Target Audience:&nbsp;</strong><br>
+<strong>--- Internal</strong>&nbsp;(Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+<strong>--- External</strong>&nbsp;(Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Create and configure compounds.<br>
+- Create block templates.<br>
+- Identify the basic process cycle of CP.<br>
+- Build and configure strategies.<br>
+- Explain strategy declaration management.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process control loops<br>
+• Basic control configuration</p>
+
+<p> </p>

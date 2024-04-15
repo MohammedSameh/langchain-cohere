@@ -1,0 +1,32 @@
+Communication Protocols and Security Configuration
+['Professional']
+<p>This course focuses on the communication protocols within two layers of the Open Systems Interconnection (OSI) model, the Transport and Application layers. The course also introduces different techniques to secure networks to avoid unauthorized access or digital threats to operating networks.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:</strong></p>
+
+<p>Application Engineers, Control Engineers, System Integrators, Customer/Field Service Engineers.</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<ul>
+	<li>Explain common communication protocols of the Transport layer.</li>
+	<li>Identify common industrial communication protocols.</li>
+	<li>Manage overall network operation using Simple Network Management Protocol (SNMP).</li>
+	<li>Explain the operation of web page, data transfer, and time management protocols.</li>
+	<li>Configure and view communication protocols for a Programmable Automation Controller (PAC).</li>
+	<li>Secure networks using firewalls and other security techniques.</li>
+</ul>
+
+<p><strong>Prerequisites&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p>
+
+<ul>
+	<li>Knowledge of control systems</li>
+	<li>Knowledge of automation systems</li>
+	<li>Knowledge of the OSI model.</li>
+</ul>
+
+<p> </p>

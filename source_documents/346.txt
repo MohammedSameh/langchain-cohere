@@ -1,0 +1,15 @@
+Tricon System Overview
+['Professional']
+<p>This course introduces Tricon™ and Tricon™ CX systems that are designed for use in Emergency ShutDown (ESD) and other critical applications that require Safety Integrity Level (SIL) 1, 2, or 3, as defined in IEC 61508 standard on Functional Safety.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain Triple Modular Redundant (TMR) architecture.<br>
+• Describe the features and functions of Tricon and Tricon CX controllers.&nbsp;<br>
+• Identify the hardware components of Tricon and Tricon CX controllers.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge:<br>
+‒ Programmable Logic Controllers (PLCs)<br>
+‒ Distributed Control Systems (DCSs)<br>
+• Familiarity with safety concepts</p>

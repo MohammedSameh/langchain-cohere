@@ -1,0 +1,5 @@
+Control Engineering Foundation Collection
+[]
+<p>This set of courses lays the groundwork of the most important skills needed for process control hardware and software configuration. The courses cover everything from Foxboro system architecture, device controllers and control processors, control loop configuration and hardware and control object configuration.</p>
+
+<p> </p>

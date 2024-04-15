@@ -1,0 +1,10 @@
+Konfigurieren von Split-Range-Regelkreisen
+['Professional']
+<p>Dieser Kurs konzentriert sich auf die Konfiguration eines Split-Range-Regelkreises mit Foxboro™ Distributed Control System (DCS) Control Editors. Die Split-Range-Regelung ist eine der am häufigsten verwendeten Techniken zur Regelung einer einzelnen Prozessvariablen mit zwei Stellgrößen.<br>
+Dieser Kurs vermittelt grundlegende Kenntnisse über das Konzept der Split-Range-Regelung, Blockparameter in einem Split-Range-Regelkreis und die Konfiguration eines Split-Range-Regelkreises.</p>
+
+<p><strong>Ziele des Kurses:</strong><br>
+Nach Abschluss dieses Kurses können Sie:<br>
+•&nbsp;&nbsp; &nbsp;Erklären Sie den Zweck und die Funktionsweise eines Split-Range-Regelkreises in der Prozessautomatisierung.<br>
+•&nbsp;&nbsp; &nbsp;Konfigurieren Sie einen Characterizer (CHARC)-Block in einem Split-Range-Regelkreis.<br>
+•&nbsp;&nbsp; &nbsp;Erstellen eines Split-Range-Regelkreises mit Hilfe von Control Editors.</p>

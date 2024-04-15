@@ -1,0 +1,33 @@
+Data Acquisition, Communication, and Control Using SCD6000
+[]
+<table border="0" cellpadding="0" cellspacing="0" style="width:1216px">
+	<tbody>
+		<tr>
+			<td>This course provides advanced knowledge on Foxboro™ Station Computing Device 6000 (SCD6000).<br>
+			SCD6000 is a Remote Terminal Unit (RTU) that helps enable efficient and reliable implementation<br>
+			of Supervisory Control and Data Acquisition (SCADA) systems.<br>
+			Course topics include device features, hardware components, SCD6000 configuration, supported communication protocols,<br>
+			application development tools, and additional capabilities, such as diagnostics and security.<br>
+			<br>
+			<strong>Learning Objectives:</strong><br>
+			After completing this course, you can:<br>
+			- Describe the features and functions of SCD6000.<br>
+			- Explain SCD6000 hardware components.<br>
+			- Configure SCD6000 using Foxboro RTU Station.<br>
+			- Explain the function of RTV in managing and diagnosing SCD6000.<br>
+			- Configure SCD6000 as a Master or Slave device based on the appropriate communication protocols.<br>
+			- Identify the tools for creating programs and performing data calculations in SCD6000.<br>
+			- Configure SCD6000 as a diagnostic server, diagnostic router, and terminal server.<br>
+			- Configure logger functionality to view and record events.<br>
+			- Explain the management of user access in SCD6000.<br>
+			<br>
+			<strong>Prerequisites</strong><br>
+			- Ability to configure SCADA systems<br>
+			- Knowledge of RTU configuration<br>
+			<br>
+			<strong>Target Audience</strong><br>
+			Internal: Application Engineers, Field Service Engineers, Technical Sales Consultants<br>
+			External: Control Engineers, Maintenance Engineers, System Design Engineers</td>
+		</tr>
+	</tbody>
+</table>

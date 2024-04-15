@@ -1,0 +1,26 @@
+Safety Systems: Trident Controller
+['Professional']
+<p>Certified by TÜV Rheinland, the Trident™ controller is recommended for use in safety applications up to Safety Integrity Level 3 (SIL 3). The Trident controller helps secure the plant environment and reduce unexpected production outages and downtime. With its Triple Module Redundant (TMR) architecture, the Trident controller includes hardware components that address the requirements of safety and critical control applications, such as Emergency Safety Shutdown (ESD) systems, burner management systems, fire and gas systems, and High Integrity Pressure and Protection Systems (HIPPS).<br>
+This course provides essential knowledge on Trident controller hardware components, including the Main Processor (MP), communication, and I/O modules. The course also covers the diagnosis, proof testing, and replacement of each hardware component.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers&nbsp;<br>
+• Graduate Engineers<br>
+• Customer and&nbsp; Field Service Engineers<br>
+• Control and Safety<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians<br>
+<br>
+For optimal viewing, launch the modules in a Microsoft®&nbsp; Internet Explorer®&nbsp; browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Select the Trident hardware components that meet the project requirements for the safety system.<br>
+• Install the Trident hardware components in the safety system.<br>
+• Diagnose indicators for each hardware component.<br>
+• Replace Trident hardware components as required.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of safety Programmable Logic Controller (PLC)<br>
+<br>
+&nbsp;</p>

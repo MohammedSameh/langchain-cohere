@@ -1,0 +1,26 @@
+Control Systems: Fieldbus Modules
+['Essential']
+<p>Fieldbus Modules (FBMs) provide an interface between the Foxboro™ control station and a variety of field devices, including valves, flow meters, and positioners. FBMs process I/O signals from field devices, convert these signals to Foxboro format, and send the processed data to the Foxboro control station. You can use different types of FBMs to communicate with analog, discrete, pulse, and Highway Addressable Remote Transducer (HART®) I/O signals.<br>
+<br>
+This course provides essential knowledge on different types of FBMs, including HART FBMs, Analog FBMs, Discrete FBMs, FOUNDATION™ FBMs, and Intelligent Marshalling FBMs. The course covers the importance, functionality, installation, and Light Emitting Diode (LED) diagnosis of each FBM.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Graduate Engineers<br>
+• Customer and Field Service Engineers<br>
+• Control and Safety Engineers<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p><strong>Learning Objectives:</strong><br>
+During this course, you acquire knowledge to:<br>
+• Explain the importance of FBMs.<br>
+• Select FBMs that meet the project requirements for the control system.<br>
+• Choose the correct Termination Assembly (TA) for each FBM.<br>
+• Install HART FBMs.<br>
+• Diagnose the operational status of FBMs using LED indicators</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of Foxboro Distributed Control Systems (DCSs)<br>
+<br>
+&nbsp;</p>

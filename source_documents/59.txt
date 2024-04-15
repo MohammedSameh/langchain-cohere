@@ -1,0 +1,20 @@
+Configuring Thin Clients
+['Professional']
+<p>This course provides advanced knowledge on configuring thin clients to function as Operator workstations in both virtualized and non-virtualized Foxboro™ Distributed Control Systems (DCSs). Using Remote Desktop Protocol (RDP) connections, thin clients enable Operators to access process monitoring applications, such as FoxView™ and Foxboro Control HMI. This course helps you configure thin client connections with RDP hosts, enable connection failover, and attach Annunciator Keyboards.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience</strong><br>
+• Control Engineers<br>
+• Field Service Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Configure and test thin client connections with RDP hosts, including single and redundant connections.<br>
+• Attach a USB Annunciator Keyboard to the t730 thin client.&nbsp;</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Ethernet networks concepts<br>
+• Virtual Auxiliary Communications Network (ACN) configuration<br>
+• USB Annunciator Keyboard configuration.</p>

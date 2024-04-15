@@ -1,0 +1,27 @@
+EcoStruxure Process Expert: Activation, Licenses, and Security
+['Professional']
+<p>EcoStruxure™ Process Expert is a Process Automation system that integrates control and supervision configurations with field devices in a single environment. This system reduces the use of multiple software packages and related team coordination. You can use EcoStruxure Process Expert in hybrid industries, such as Water and Wastewater; Mining, Minerals, and Metals; and consumer packaged goods.<br>
+<br>
+This course highlights the various licenses required to run EcoStruxure Process Expert. This course also covers the importance of Role Based Access Control (RBAC) for authorizing users and Client/Server certificates for securing communications in an EcoStruxure Process Expert system.<br>
+<br>
+This curriculum includes one course and a post-course assessment.<br>
+<br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+- Explain the different licenses used for activating EcoStruxure Process Expert components<br>
+- Authorize user access to System Server using RBAC<br>
+- Configure security using Client/Server certificates.<br>
+<br>
+<strong>Target Audience<br>
+Internal:</strong><br>
+- Application Engineers<br>
+- Field Service Engineers<br>
+<strong>External:</strong><br>
+- Control Engineers<br>
+- Maintenance Engineers<br>
+- Plant Operators<br>
+<br>
+<strong>Prerequisites</strong><br>
+Knowledge of:<br>
+- EcoStruxure Foxboro Distributed Control Systems (DCSs)<br>
+- Process Automation systems and concepts</p>

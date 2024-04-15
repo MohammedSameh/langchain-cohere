@@ -1,0 +1,17 @@
+8902 Virtuelle Triconex Wartung und Projektierung kurs Webinar auf Deutsch
+['Essential']
+<p><strong>Lehrgangsbeschreibung&nbsp;</strong><br>
+<br>
+Dieser Lehrgang mit praktischem Teil deckt sämtliche Aspekte der Tricon®-Konfiguration und Implementierung ab. Die Teilnehmer lernen die Architektur und Konfiguration der dreifachen Modulredundanz kennen (Triple Modular Redundancy – TMR). Nach Abschluss des Lehrgangs können die Teilnehmer das System konfigurieren, die Kommunikation einrichten, ein TriStation-1131-Projekt aufbauen, eine MSR-Stellenliste zuordnen, eine sicherheitsgerichtete Anwendung in die Steuerung laden, Punkte zwangssetzen und Online ändern sowie den Enhanced Diagnostic Monitor (EDM) zur Fehlerbehebung und zur Erkennung von Alarmen verwenden.<br>
+<br>
+Mit Hilfe der windowsbasierten TriStation 1131 Developer’s Workbench lernen die Teilnehmer die grundlegenden Navigationsmethoden kennen, um ein um ein System mit digitalen und analogen E/A-Punkten zu programmieren, zu testen und zu debuggen. Außerdem werden sie die automatischen Dokumentationsfunktionen von TriStation 1131 nutzen. Praktische Übungen und schriftliche Bewertungen dienen zur Überprüfung des Lernerfolgs.<br>
+<br>
+<strong>Voraussetzungen</strong><br>
+<br>
+Dieser Kurs ist für Anwender bestimmt, die in Ihrer täglichen Arbeit für die sicherheitsgerichteten Funktionen in einer Anlage verantwortlich sind. Schwerpunkt dieser Veranstaltung ist die Installation, Wartung und Programmierung der sicherheitsgerichteten SPS "Triconex".<br>
+<br>
+<strong>Zielgruppe</strong><br>
+<br>
+Ingenieure und Techniker, die für den Entwurf, die Installation und die Wartung der integrierten Regelsysteme von Prozessanlagen verantwortlich sind.<br>
+&nbsp;</p>
+<strong>Lehrgangsbeschreibung&nbsp;</strong><br><br>Dieser Lehrgang mit praktischem Teil deckt sämtliche Aspekte der Tricon®-Konfiguration und Implementierung ab. Die Teilnehmer lernen die Architektur und Konfiguration der dreifachen Modulredundanz kennen (Triple Modular Redundancy – TMR). Nach Abschluss des Lehrgangs können die Teilnehmer das System konfigurieren, die Kommunikation einrichten, ein TriStation-1131-Projekt aufbauen, eine MSR-Stellenliste zuordnen, eine sicherheitsgerichtete Anwendung in die Steuerung laden, Punkte zwangssetzen und Online ändern sowie den Enhanced Diagnostic Monitor (EDM) zur Fehlerbehebung und zur Erkennung von Alarmen verwenden.<br><br>Mit Hilfe der windowsbasierten TriStation 1131 Developer’s Workbench lernen die Teilnehmer die grundlegenden Navigationsmethoden kennen, um ein um ein System mit digitalen und analogen E/A-Punkten zu programmieren, zu testen und zu debuggen. Außerdem werden sie die automatischen Dokumentationsfunktionen von TriStation 1131 nutzen. Praktische Übungen und schriftliche Bewertungen dienen zur Überprüfung des Lernerfolgs.<br><br><strong>Voraussetzungen</strong><br><br>Dieser Kurs ist für Anwender bestimmt, die in Ihrer täglichen Arbeit für die sicherheitsgerichteten Funktionen in einer Anlage verantwortlich sind. Schwerpunkt dieser Veranstaltung ist die Installation, Wartung und Programmierung der sicherheitsgerichteten SPS "Triconex".<br><br><strong>Zielgruppe</strong><br><br>Ingenieure und Techniker, die für den Entwurf, die Installation und die Wartung der integrierten Regelsysteme von Prozessanlagen verantwortlich sind.<br><br>

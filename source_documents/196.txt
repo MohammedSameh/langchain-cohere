@@ -1,0 +1,26 @@
+Configuring V91 Server Virtualization Hosts
+['Essential']
+<p>In this course, you recognize hardware specifications of the V91 server virtualization host. This course also describes how to set up the physical V91 server and activate Microsoft® Windows Server® 2012 R2 Standard operating system on V91 servers.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Identify the V91 server hardware specifications.<br>
+• Recognize prerequisites for configuring V91 servers.<br>
+• Configure V91 servers.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of:<br>
+• Components of a virtualized control system<br>
+• Ethernet networks<br>
+• Foxboro DCS architecture&nbsp;<br>
+• Windows Server installation</p>
+
+<p> </p>
+
+<p> </p>

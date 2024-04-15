@@ -1,0 +1,24 @@
+Identifying System Information Using System Advisor for Process Control
+['Professional']
+<p>This course details the features of System Advisor for Process Control for viewing functional information about Foxboro Distributed Control System (DCS).<br>
+<br>
+For optimal viewing, launch the course in the Microsoft® Internet Explorer® browser, and press the F11 key to view the course in full screen mode.<br>
+<br>
+After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.<br>
+<br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain the function-related features of System Advisor.<br>
+• Demonstrate the FBM Manager feature.&nbsp;<br>
+• View block mapping in the entire I/O organization using the Mapping Tool feature.&nbsp;<br>
+• Explore the Comments feature.&nbsp;<br>
+• Explore the System Messages and Counters feature.&nbsp;<br>
+• View complete information about selected controllers using the Controller Status feature.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Basic concepts of Ethernet networks<br>
+‒ Foxboro DCS architecture<br>
+• Understanding of:<br>
+‒ Foxboro control configuration and hardware configuration<br>
+‒ Content from 2001V8 Configuration Essentials or 5001 Control Software Configuration</p>

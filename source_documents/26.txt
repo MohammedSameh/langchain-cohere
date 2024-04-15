@@ -1,0 +1,28 @@
+Processing Field Signals
+['Essential']
+<p>This course provides essential knowledge on continuous control loops and their configuration for processing signals from field devices. Topics include the process flow for signal conditioning and configuration of AIN and AOUT blocks for processing field signals. Knowledge of continuous control loops, their types, and configuration for signal processing enables you to fulfill plant requirements.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+Internal: Application Engineers, Graduate Engineers<br>
+External: Control Engineers, Maintenance Engineers, Plant Operators&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+<p><strong>Course Description</strong>:<br>
+- Expected Duration: 60 minutes<br>
+- Delivery Type: Web-based training &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p> </p>
+
+<p><strong>Learning Objectives:</strong><br>
+<strong><strong>After completing this course, you can:&nbsp;</strong></strong><br>
+- Explain how continuous control loops enable signal processing in Foxboro Evo™.<br>
+- Configure an AIN block to process the input signals in a plant process.<br>
+- Develop an AOUT block to condition the signals and relay the processed output.</p>
+
+<p><strong>Prerequisites:</strong><br>
+- Knowledge of Distributed Control Systems (DCSs) and control loops<br>
+- Knowledge of ArchestrA™ IDE</p>

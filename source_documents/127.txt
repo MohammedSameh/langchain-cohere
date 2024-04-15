@@ -1,0 +1,30 @@
+Exploring the Features of Control HMI
+['Professional']
+<p>You use a Human Machine Interface (HMI) to manage control processes. Foxboro™ Control HMI is a multi-featured tool that includes high-quality graphics, customizable symbols and libraries, multi-monitor configuration, alarms and trends, and scripts. These features enhance the operational efficiency of plant personnel.</p>
+
+<p>This course provides fundamental knowledge on the standard features of Control HMI.</p>
+
+<p>For optimal viewing, launch the course in the Microsoft<sup>®</sup> Internet Explorer<sup>®</sup> browser.</p>
+
+<p><strong>Important Note for Learners:</strong></p>
+
+<div>
+<p>After completing the course, you must successfully complete a post-course assessment within FOUR attempts to obtain credit and proceed to the next course.</p>
+</div>
+
+<p><strong>Target Audience:</strong><br>
+- Application Engineers<br>
+- Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Identify the standard features for graphics development in Control HMI.&nbsp;<br>
+• Describe alarms, trends, and scripts in Control HMI.&nbsp;</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of DCSs<br>
+• Completion of Identifying the Fundamentals of Control HMI</p>
+
+<p> </p>
+
+<div> </div>

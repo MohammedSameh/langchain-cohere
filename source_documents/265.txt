@@ -1,0 +1,30 @@
+Building and Deploying Systems in EcoStruxure Hybrid DCS
+['Professional']
+<p>This course provides essential knowledge on building a complete system in EcoStruxure™ Hybrid Distributed Control System (DCS).<br>
+&nbsp;<br>
+EcoStruxure is an integrated software which provides Engineers with proper tools to build, deploy, and test a complete system with ease. This system includes hardware topology, control and supervision projects, and other components. Using Explorers in EcoStruxure Hybrid DCS, you can build and configure all these system components.<br>
+This course conveys knowledge on the function of each Explorer and concludes with building, deploying, and testing the complete system. The course also presents software demonstrations and simulations allowing participants to practice knowledge acquired throughout the course. &nbsp;&nbsp;</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience</strong><br>
+• Control Engineers<br>
+• Maintenance Engineers&nbsp;<br>
+• Process Operators</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain the function of various Explorers in EcoStruxure Hybrid DCS.&nbsp;<br>
+• Create systems and folder structure using System Explorer.<br>
+• Model process control using Application Explorer.<br>
+• Configure system Controllers, Stations, and Ethernet Networks using Topology Explorer.<br>
+• Complete system construction by creating control and supervision projects using Project Explorer.<br>
+• Build, Deploy, and Test systems in EcoStruxure Hybrid DCS.&nbsp;<br>
+• Troubleshoot Systems using Runtime Navigation Services in EcoStruxure Hybrid DCS.</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of:<br>
+• Process control concepts<br>
+• EcoStruxure Control Expert and Citect SCADA<br>
+• Ethernet networking concepts<br>
+• Modicon PLCs</p>

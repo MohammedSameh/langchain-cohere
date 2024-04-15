@@ -1,0 +1,13 @@
+Process Safety Essential Collection
+['Essential']
+<p>The Process Safety Essential Collection covers higher order skills required for configuration and maintenance of safety systems in your plant, using the Plant Safety Advisor. Courses are available for both, on-premise and Cloud implementations, and cover key features, installation, licensing, role management, SIF Manager configuration, monitoring of trips and events and dynamic risk analyses.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>
+
+<p> </p>
+
+<p> </p>

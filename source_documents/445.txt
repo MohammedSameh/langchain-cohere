@@ -1,0 +1,23 @@
+Enterprise and Site Settings in PSA Cloud
+['Professional']
+<p>This course provides information about how to fill in the Enterprise and Site Provision Templates for configuring Enterprise and Site settings in PSA Cloud. The Enterprise settings define the common baselines for asset risks and risk levels across all Sites in the Enterprise. The Site settings enable you to obtain real-time information about assets in the plant.<br>
+Additionally, this course helps you edit&nbsp; preconfigured Enterprise and Site settings in PSA Cloud.</p>
+
+<p>After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Use the Enterprise Provision Template for configuring Enterprise settings.<br>
+• Use the Site Provision Template for configuring Site settings.<br>
+• View and modify Enterprise and Site settings.</p>
+
+<p><strong>Prerequisites</strong><br>
+• Knowledge of:<br>
+‒ Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas (F&amp;G) systems<br>
+‒ Safety systems<br>
+‒ IPLs<br>
+‒ HAZard and OPerability (HAZOP) and Layers of Protection Analysis (LOPA)<br>
+‒ PSA On Premise (PSA OP)<br>
+• 1079 Safety System Basics e-learning course<br>
+• 1257 Fundamentals of Process Safety Advisor On Premise ( PSA OP) e-learning course<br>
+• 1318 Installing and Licensing PSA OP e-learning course</p>

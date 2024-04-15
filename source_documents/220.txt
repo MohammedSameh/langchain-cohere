@@ -1,0 +1,26 @@
+Troubleshooting Triconex Safety Systems
+['Professional']
+<p>The course covers diagnostic tools to troubleshoot the Triconex SafetyTM System. The course begins with how to troubleshoot Triconex hardware using TriconexTM Enhanced Diagnostic Monitor and the DiagRead utility. The course then covers how to troubleshoot the industrial process using TriconexTM Sequence of Events (SOE) Recorder. All activities leverage software demonstrations and simulations to provide a realistic project experience. &nbsp;</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:&nbsp;</strong></p>
+
+<p>• Application Engineers<br>
+• Customer Service Engineers<br>
+• Maintenance Engineers<br>
+• Service Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this curriculum, you can:&nbsp;<br>
+• Troubleshoot Triconex hardware using Enhanced Diagnostic Monitor.<br>
+• Generate and interpret the firmware version report and the events log.<br>
+• Set up and extract the DiagRead file to troubleshoot Triconex hardware.<br>
+• Collect and analyze data using SOE Recorder.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of Triconex system fundamentals<br>
+• Knowledge of Triconex controllers: Tri-GPTM, TriconTM, Tricon CXTM, and TridentTM&nbsp;<br>
+• Knowledge of Tricon system installation<br>
+• Working experience in creating TriStationTM 1131 safety applications<br>
+• Knowledge of Ethernet networks</p>

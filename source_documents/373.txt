@@ -1,0 +1,26 @@
+Configuring HP t740 Thin Clients
+['Professional']
+<p>This curriculum provides knowledge on configuring Hewlett-Packard® (HP) t740 thin clients. In a virtualized and non-virtualized Foxboro™ Distributed Control System (DCS), a thin client can function as an Operator workstation. Using Remote Desktop Protocol (RDP) connections, thin clients enable Operators to access Foxboro HMI applications, such as FoxView™ and Foxboro Control HMI.&nbsp;<br>
+Specifically, the curriculum helps you configure thin client connections with RDP hosts, set up thin client connection failover, and enable Annunciator Keyboard communications with thin clients.</p>
+
+<p>This curriculum includes one course and a post-course assessment.</p>
+
+<p><strong>Target Audience:</strong>&nbsp;<br>
+- Control Engineers<br>
+- Field Service Engineers<br>
+- System Technicians&nbsp;</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing the course, you can:&nbsp;<br>
+- Describe the functions and benefits of the thin client as an Operator workstation.<br>
+- Perform initial configuration of thin clients.<br>
+- Utilize McAfee® Endpoint Security to provide additional security enhancements.<br>
+- Configure thin client connections with RDP hosts.<br>
+- Configure thin client connections for Automatic Failover.<br>
+- Configure Annunciator Keyboards with thin clients.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Familiarity with:<br>
+&nbsp; &nbsp;- Ethernet networking concepts<br>
+&nbsp; &nbsp;- USB Annunciator Keyboard configuration<br>
+&nbsp; &nbsp;- Virtual Auxiliary Communications Network (ACN) configuration</p>

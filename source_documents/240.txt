@@ -1,0 +1,20 @@
+Configure System Advisor Components to Collect TriStation 1131 Data
+['Professional']
+<p>This course provides essential knowledge on collecting data from TriStation™ 1131 Developer’s Workbench software. Data collection includes setting up the server for EcoStruxure™ System Advisor for Process Safety and selecting, printing, and importing TriStation 1131 project files into the MySQL database of System Advisor for Process Safety.<br>
+ </p>
+
+<p>For data collection, System Advisor contains three tools for documenting and tracking changes in TriStation 1131 project files: Server Configuration Tool, Monitoring Tool, and Import Tool. System Advisor also includes Client Tool, which supports other System Advisor features, such as managing comments and managing user privileges.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Configure System Advisor components to collect TriStation 1131 data.<br>
+• Search for data within System Advisor.<br>
+• Add and manage comments to System Advisor data.<br>
+• Manage user access to System Advisor.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Process safety applications, such as Emergency Shutdown Systems and Fire and Gas<br>
+Systems<br>
+‒ Triconex controllers: Tricon™, Tricon CX, and Trident™ and Tri-GP™<br>
+• Working experience creating TriStation™ 1131 safety applications</p>

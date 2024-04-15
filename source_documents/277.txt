@@ -1,0 +1,25 @@
+Monitoring Trips and Bypass Events (PSA OP)
+['Professional']
+<p>This course helps you monitor trips and bypass events using SIF Manager.</p>
+
+<p><strong>Target Audience:</strong>&nbsp;<br>
+&nbsp;- Safety Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+&nbsp;- Monitor trips using SIF Manager.<br>
+&nbsp;- &nbsp;Monitor bypass events and fault events using SIF Manager.<br>
+&nbsp;- &nbsp;View and respond to component test history.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+&nbsp; &nbsp;‒ Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas (F&amp;G) systems<br>
+&nbsp; &nbsp;‒ Programmable Logic Controllers (PLCs), such as Tricon™, Trident™, and Triconex™ General Purpose (Tri-GP™)<br>
+&nbsp; &nbsp;‒ Testing safety applications using Triconex Emulator<br>
+&nbsp; &nbsp;‒ Historian<br>
+• Experience in creating TriStation 1131 safety applications<br>
+• Completion of the following courses in MLL:<br>
+&nbsp; &nbsp; ‒ 1079 Safety System Basics course<br>
+&nbsp; &nbsp; ‒ 1075 Configuring the Wonderware Historian course</p>
+
+<p>&nbsp;</p>

@@ -1,0 +1,16 @@
+Getting Started with TriStation 1131 Software
+['Professional']
+<p>This course provides essential knowledge on preparing the project input documents required for developing safety logic for Tricon™ CX controllers using TriStation™ 1131 Developer’s Workbench software. Additionally, this course presents the supported programming methods that you can use to build safety-related applications in TriStation 1131 software.<br>
+For optimal viewing, launch the course in a Microsoft® Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Identify the project cycle.<br>
+• Prepare project input documents.<br>
+• Identify the programming methods that TriStation 1131 software supports.<br>
+• Install TriStation 1131 software.</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown Systems and Fire and Gas Systems<br>
+• Triconex™ controllers – Tricon, Trident™, or Triconex General Purpose (Tri-GP™)</p>

@@ -1,0 +1,21 @@
+Analyze Plant Performance Using Control Advisor
+['Professional']
+<p>This curriculum provides essential knowledge on monitoring and analyzing plant performance effectively using Plant Performance Dashboard of Control Advisor.<br>
+For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers<br>
+• Control Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• View plant performance using Plant Performance Dashboard.<br>
+• Create performance reports for a plant.<br>
+• View the root cause of plant performance issues.<br>
+<br>
+<strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Foxboro™ Distributed Control Systems (DCSs)<br>
+• Control loop configuration<br>
+&nbsp;</p>

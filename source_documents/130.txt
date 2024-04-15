@@ -1,0 +1,37 @@
+NetSight Suite Console for Foxboro DCS Network Analysis
+['Professional']
+<p>NetSight® Suite Console is a dedicated network tool for monitoring the operational status of switches in plant networks and maintaining network uptime. Features in NetSight Suite Console, such as Discover, Topology Manager, FlexViews, Device Manager, and Alarms and Events, assist you with network monitoring activities.&nbsp;<br>
+<br>
+This course guides you through the fundamentals of NetSight Suite Console and the effective use of features for monitoring plant networks and analyzing network behavior.&nbsp;<br>
+<br>
+Practice exercises reinforce application knowledge acquired through this course.<br>
+<br>
+For optimal viewing, launch the course in the Microsoft® Internet Explorer® browser, and press the F11 key to view the course in full screen mode.</p>
+
+<p><strong>Target Audience:&nbsp;</strong></p>
+
+<p>&nbsp;- Application Engineers<br>
+&nbsp;- Field Service Engineers<br>
+<br>
+<strong>Important Note for Learners:</strong></p>
+
+<p>After completing each module, you must successfully complete a post-module assessment within FOUR attempts to obtain credit and proceed to the next module.</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<p>&nbsp;- Explain the features of NetSight Suite Console.<br>
+&nbsp;- Summarize the installation procedure for NetSight Suit Console.<br>
+&nbsp;- Monitor and diagnose a network using Topology Manager and FlexViews.<br>
+&nbsp;- View alarm, event, and trap details for network devices.<br>
+&nbsp;- Enable alarm notifications for available network traps using Alarm Manager.<br>
+<br>
+<strong>Prerequisites:</strong><br>
+&nbsp;Knowledge of:&nbsp;<br>
+&nbsp;- Networking<br>
+&nbsp;- Network topologies<br>
+&nbsp;- Network analysis<br>
+&nbsp;- Switch configuration<br>
+<br>
+&nbsp;</p>

@@ -1,0 +1,28 @@
+Analyzing Events and Realtime Controller Data Using Triconex Data Logger and Snapshots
+['Expert']
+<p>Triconex™ Diagnostic Expert is a software program for monitoring the status of the hardware, software, and communication of Triconex controllers. Diagnostic Expert connects to Triconex controllers through the Triconex Data Server to log safety system data, monitor controllers, and collect sequence of events information.&nbsp;</p>
+
+<p>Triconex Data Logger and Snapshots are components of Diagnostic Expert. Data Logger is an OPC UA client that connects to Triconex Data Server to collect and send tagname data to Diagnostic Expert. Data Logger creates trigger configuration files, displayed in the form of trendlines on live charts. Snapshots, created by Data Logger, contains tagname values received from Data Server at specific intervals. Snapshots are recorded by defining trigger conditions that are monitored to detect changes in tagname values.</p>
+
+<p>Detailed demonstrations and practices in this course help you effectively perform key tasks with Data Logger and Snapshots.</p>
+
+<p>&nbsp; <strong>Target Audience:</strong>&nbsp;<br>
+• Safety Engineers<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Establish connectivity between the controller and Triconex Diagnostic Expert.<br>
+• Analyze trend data captured by Triconex Data Logger.<br>
+• Analyze trend data from the controller using Snapshots.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas Systems (FGS), and Turbo Machinery Control (TMC) systems<br>
+• Triconex Safety System fundamentals<br>
+• Tricon™ controllers, Tricon™ CX controllers, Trident™ controllers, and Triconex General Purpose (Tri-GP™) controllers<br>
+• Creation of TriStation™ 1131 Developer’s Workbench software projects<br>
+• Triconex Data Server<br>
+• Triconex Report Generator<br>
+&nbsp;</p>

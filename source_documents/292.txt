@@ -1,0 +1,52 @@
+Wonderware Historian Server & Client
+['Professional']
+<p>This course is a combination of Historian Server (2 days) and Historian Client (1 day)<br>
+<br>
+Historian Server is a 2-day, instructor-led class designed to provide a fundamental understanding of the features and functionality of Historian Server for both Application Server and Traditional InTouch tag-based applications. This course provides lectures and hands-on labs to supply and reinforce the knowledge necessary to use Historian Server for SCADA and factory data.&nbsp;<br>
+<br>
+The Historian Client 2017 update 3 is a 1 day class designed to provide a fundamental understanding of the features and functionality of the Wonderware Historian Client software. The course provides lectures and hands-on labs to supply and reinforce the knowledge necessary to use Wonderware Historian Client. The Wonderware Historian Client trending, analysis, and reporting software offers a suite of data analysis and reporting clients that maximize the value of data stored in Historian.<br>
+&nbsp;</p>
+
+<p><strong>Audience</strong><br>
+<br>
+Individuals who need to historize, analyze, and maintain data from Application Server or from a Standard (tag-based) InTouch application</p>
+
+<p><br>
+<strong>Learning Objectives</strong><br>
+Upon completion of this course, you will be able to:</p>
+
+<ul>
+	<li>Start and configure Historian Server</li>
+	<li>Configure and historize Application Server and InTouch data</li>
+	<li>Distinguish between retrieval modes</li>
+	<li>Retrieve data with SQL queries</li>
+	<li>Use time domain extensions in SQL queries</li>
+	<li>Update, insert, and import historical data</li>
+	<li>Create and configure events and retrieve event data</li>
+	<li>Use a Tier-2 Historian for replication and summarization</li>
+	<li>Back up and restore Historian data</li>
+	<li>Use Wonderware Historian Client Trend to retrieve and represent Historian Server data in graphical and tabular formats</li>
+	<li>Use Wonderware Historian Client Workbook to retrieve historical data in Microsoft Excel</li>
+	<li>Use Wonderware Historian Client Query to build and execute queries against Wonderware Historian Server data and represent them in the desktop utility and in Microsoft Excel</li>
+	<li>Use Wonderware Historian Client Workbook to execute queries from Wonderware Historian Client Query represent them in Microsoft Word</li>
+</ul>
+
+<p><br>
+<strong>Prerequisites</strong><br>
+<br>
+Knowledge of the following tools, features, and technologies is required:<br>
+<br>
+For all students:</p>
+
+<ul>
+	<li>Industrial automation software concepts</li>
+	<li>Structured query language fundamentals for data retrieval</li>
+	<li>For historizing data from Application Server:</li>
+	<li>ArchestrA IDE</li>
+	<li>Automation Objects</li>
+	<li>Historization of attributes</li>
+	<li>Deployment Model</li>
+	<li>Object Viewer</li>
+	<li>For historizing data from InTouch tags: InTouch tag development</li>
+</ul>
+Upon completion of this course, you will be able to:<br><br>Start and configure Historian Server<br>Configure and historize Application Server and InTouch data<br>Distinguish between retrieval modes<br>Retrieve data with SQL queries<br>Use time domain extensions in SQL queries<br>Update, insert, and import historical data<br>Create and configure events and retrieve event data<br>Use a Tier-2 Historian for replication and summarization<br>Back up and restore Historian data<br>Use Wonderware Historian Client Trend to retrieve and represent Historian Server data in graphical and tabular formats<br>Use Wonderware Historian Client Workbook to retrieve historical data in Microsoft Excel<br>Use Wonderware Historian Client Query to build and execute queries against Wonderware Historian Server data and represent them in the desktop utility and in Microsoft Excel<br>Use Wonderware Historian Client Workbook to execute queries from Wonderware Historian Client Query represent them in Microsoft Word<br><br>Audience<br><br>Individuals who need to historize, analyze, and maintain data from Application Server or from a Standard (tag-based) InTouch application<br><br>Prerequisites<br><br>Knowledge of the following tools, features, and technologies is required:<br><br>For all students:<br><br>Industrial automation software concepts<br>Structured query language fundamentals for data retrieval<br>For historizing data from Application Server:<br>ArchestrA IDE<br>Automation Objects<br>Historization of attributes<br>Deployment Model<br>Object Viewer<br>For historizing data from InTouch tags: InTouch tag development

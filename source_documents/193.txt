@@ -1,0 +1,26 @@
+Configuring and Connecting Thin Clients
+['Professional']
+<p>The course presents the steps of configuring and connecting thin clients through Remote Desktop Services (RDS) to the virtualized control system.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Set up Microsoft® Windows-based, Hewlett-Packard® (HP) thin client connections.<br>
+• Log in to FoxboroTM Distributed Control System (DCS) using thin clients through RDS.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of:<br>
+• Components of a virtualized control system<br>
+• Ethernet networks<br>
+• Foxboro DCS architecture&nbsp;<br>
+• V91 server virtualization host configuration<br>
+• Virtual Machines (VMs) configuration</p>
+
+<p> </p>
+
+<p> </p>

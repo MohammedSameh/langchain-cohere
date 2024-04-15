@@ -1,0 +1,39 @@
+Integrating Field Devices Using FDC280
+['Professional']
+<p>This course provides essential knowledge on installing Field Device Controller (FDC) 280 hardware and connecting devices in the physical network. Specifically, this course covers configuring FDC280 and field devices in ArchestrA™ IDE, enabling communication between FDC280 and field devices, and monitoring and troubleshooting FDC280.</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience</strong>:</p>
+
+<p>• Application Engineers</p>
+
+<p>• Field Service Engineers</p>
+
+<p>• Maintenance Engineers</p>
+
+<p>• Process Engineers</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<p>• Install FDC280 in Foxboro™ Distributed Control Network.</p>
+
+<p>• Configure FDC280 to integrate with third-party field devices.</p>
+
+<p>• Monitor FDC280 performance.</p>
+
+<p>• Troubleshoot FDC280.</p>
+
+<p><strong>Prerequisites</strong>:</p>
+
+<p>• Knowledge of:</p>
+
+<p>&nbsp;&nbsp; – Hardware and software installation and configuration for Foxboro DCS</p>
+
+<p>&nbsp;&nbsp; – System Manager</p>
+
+<p>&nbsp;&nbsp; – Ethernet networks</p>
+
+<p>• Minimum of 6 months of process control experience&nbsp;</p>

@@ -1,0 +1,3 @@
+Komplexe Schleifen konfigurieren
+['Professional']
+Dieser Kurs vermittelt grundlegende Kenntnisse über den Betrieb eines komplexen Regelkreises in einem Prozess und die Konfiguration eines komplexen Regelkreises in Foxboro Evo™ Control Editors. Ein komplexer Regelkreis ist eine Gruppe von mehreren kontinuierlichen Regelkreisen, die speziell für die Ausführung eines Anlagenprozesses entwickelt wurden. Um die reibungslose Ausführung eines Prozesses zu gewährleisten, benötigen Sie einen komplexen Regelkreis.

@@ -1,0 +1,23 @@
+Understanding P&IDs and Control Strategies
+['Essential']
+<p>Piping and Instrumentation Diagrams (P&amp;IDs) describe the requirements that Schneider Electric receives from customers. These requirements detail the physical sequence of equipment and control logic in a process automation plant. Engineers interpret these requirements and build control loops accordingly.</p>
+
+<p>This foundational course helps you interpret process symbols in P&amp;IDs and identify frequently used control strategies, such as feedback, cascade, ratio, and split-range loops.</p>
+
+<p>This course is also useful for process automation professionals looking to refresh their knowledge of automation fundamentals.</p>
+
+<p>Launch this content in a Microsoft® Internet Explorer® or Mozilla® Firefox® browser. Do not launch the content in a Google® Chrome™ browser.</p>
+
+<div><strong>Learning Objectives:</strong></div>
+
+<p>After completing this course, you can:</p>
+
+<ul>
+	<li>Read P&amp;IDs effectively.</li>
+	<li>Interpret client databases before converting them to control loops.</li>
+	<li>Explain key features and various applications of frequently used control strategies.</li>
+</ul>
+
+<div><strong>Prerequisites:</strong></div>
+
+<div>Knowledge of process control basics</div>

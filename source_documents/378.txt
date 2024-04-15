@@ -1,0 +1,11 @@
+Konfigurieren von Verhältnisregelkreisen
+['Professional']
+<p>Dieser Kurs vermittelt grundlegende Kenntnisse über den Betrieb eines Verhältnisregelkreises und die Konfiguration eines Verhältnisregelkreises in Foxboro™ Distributed Control System (DCS) Control Editors.<br>
+Die Verhältnisregelung ist ein kontinuierlicher Regelungsmechanismus, der die Mischung einer geregelten Durchflussgröße im Verhältnis zu einer ungeregelten Durchflussgröße überwacht und regelt, um eine Leistung zu erzeugen.<br>
+Um das Verhältnis dieser Durchflussgrößen zu regeln und aufrechtzuerhalten, benötigen Sie einen Verhältnisregelkreis.</p>
+
+<p><strong>Ziele des Kurses:</strong><br>
+Nach Abschluss dieses Kurses können Sie:<br>
+•&nbsp;&nbsp; &nbsp;Erklären Sie den Zweck und die Funktionsweise eines Verhältnisregelkreises in der Prozessautomatisierung.<br>
+•&nbsp;&nbsp; &nbsp;Identifizieren Sie die wichtigsten Parameter des RATIO-Blocks in den Control Editors.<br>
+•&nbsp;&nbsp; &nbsp;Konfigurieren Sie einen Verhältnisregelkreis in den Steuerungseditoren und validieren Sie den Betrieb des Kreises in Foxboro Control HMI.</p>

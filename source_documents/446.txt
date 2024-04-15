@@ -1,0 +1,11 @@
+Process Safety Professional Collection
+['Professional']
+<p>The Process Safety Profession Collection is a premium collection with the most advanced level of skills and knowledge required to fine-tune and optimize process safety systems. Courses cover testing safety application using the Triconex Safety Validator, maintenance of safety systems using tools and applications such as System Advisor, Triconex Diagnostic Expert, Enhanced Diagnostic Monitor, Tricone Data Logger and SOE Recorder.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>
+
+<p> </p>

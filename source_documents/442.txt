@@ -1,0 +1,23 @@
+PSA Cloud: Key Features and UI Elements
+['Essential']
+<p>This course details the features, recommended system setup, and UI elements of PSA Cloud.</p>
+
+<p>After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Describe the features and benefits of PSA Cloud.<br>
+• Explain the PSA network architecture for establishing communication between PSA On Premise (PSA OP) and PSA Cloud.<br>
+• Identify the user interface elements in PSA Cloud.<br>
+• Describe PSA Cloud user profiles and associated tasks.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas (F&amp;G) systems<br>
+‒ Safety systems<br>
+‒ IPLs<br>
+‒ HAZard and OPerability (HAZOP) and Layers of Protection Analysis (LOPA)<br>
+‒ PSA On Premise (PSA OP)<br>
+• 1079 Safety System Basics e-learning course<br>
+• 1257 Fundamentals of Process Safety Advisor On Premise ( PSA OP) e-learning course<br>
+• 1318 Installing and Licensing PSA OP e-learning course</p>

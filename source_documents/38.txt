@@ -1,0 +1,27 @@
+Introduction to I/A Series System Manager
+['Essential']
+<p>This course introduces the System Manager software. System Manager is a distributed application for monitoring the health and performance of all components in an I/A Series® system and managing network operations. This application helps you manage various types of devices, analyze communication throughout the control network, and configure alarms.</p>
+
+<p>After completing this course, you can:</p>
+
+<p>- State the role of System Manager.</p>
+
+<p>- Describe in detail the main components of System Manager: the service and the client.</p>
+
+<p>- List the key features of System Manager.</p>
+
+<p>- Explain configuration settings.</p>
+
+<p>- Interact with the User Interface (UI).</p>
+
+<p>- Perform specific activities: - Determine how to locate a failed device.</p>
+
+<p>- Inhibit device alarming.</p>
+
+<p>- Set the system time and date.</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p>Duration: 2.5 hours</p>
+
+<p>Delivery Type: Web-based training</p>

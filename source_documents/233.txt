@@ -1,0 +1,25 @@
+Configuring Complex Loops
+['Professional']
+<p>This course provides essential knowledge on the operation of a complex loop in a process and configuration of a complex loop in Foxboro Evo™ Control Editors. A complex loop is a group of multiple continuous control loops specifically designed to execute a plant process. To ensure bumpless execution of a process, you require a complex loop.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 90 minutes<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+&nbsp; &nbsp; &nbsp; - Graduate Engineers<br>
+&nbsp; &nbsp; &nbsp; - Application Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Explain the essential components for configuring a complex loop.<br>
+- Build complex loop in Foxboro Evo Control Editors based on project requirements.<br>
+- Validate the execution of complex loop in Foxboro Evo Control HMI.</p>
+
+<p><strong>Prerequisites:</strong><br>
+- Knowledge of Distributed Control Systems (DCSs) and ArchestrA™ IDE<br>
+- Completion of the courseConfiguring Ratio Control Loops</p>

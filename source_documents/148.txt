@@ -1,0 +1,31 @@
+I/A Series System - Field Device Integration
+['Professional']
+<p>This course introduces the I/A Series System - Field Device Integration. Device integration is the process of connecting all devices in a plant, to the I/A Series® system, for efficient management and control. When devices are correctly integrated, you can control hardware in all supervisory, plant performance, and production management activities. Schneider Electric offers a variety of integration options to help you effectively track processes, maximize control, and ensure optimum output.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p>Duration: 3 hours</p>
+
+<p>Delivery Type: Web-based training</p>
+
+<p>Target Audience: Newly hired Control Engineers</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<p>- Describe third-party device integration with Invensys Distributed Control Systems (DCSs).</p>
+
+<p>- Explain Field Device System Integrators (FDSIs) in detail.</p>
+
+<p>- Analyze the configuration of Fieldbus Modules (FBMs).</p>
+
+<p>- Identify functional and environmental requirements of FDSIs.</p>
+
+<p>- Describe redundancy in FDSI modules.</p>
+
+<p>- Explain a Termination Assembly (TA) and its wiring</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Six months of experience working with plant instrumentation and controls<br>
+• Completion of courses in the Process Automation Basics Pack and Control Engineering Foundations Pack, or equivalent knowledge</p>

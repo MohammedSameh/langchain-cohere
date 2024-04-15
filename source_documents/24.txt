@@ -1,0 +1,24 @@
+Safety Systems: Tri-GP Controller
+['Professional']
+<p>The Triconex™ General Purpose (Tri-GP™) controller is a programmable logic and process controller that provides a high level of system fault tolerance. This controller supports Safety Integrity Level 2 (SIL 2) applications and is based on Triple Module Redundant (TMR) architecture. Due to its scalability, the Tri-GP controller provides safety for small stand-alone and large distributed applications.<br>
+This course provides essential knowledge on the hardware components of the Tri-GP controller, including Main Processor (MP), I/O, and communication components.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers&nbsp;<br>
+• Graduate Engineers<br>
+• Customer and&nbsp; Field Service Engineers<br>
+• Control and Safety<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p>For optimal viewing, launch the modules in a Microsoft® &nbsp;Internet Explorer® &nbsp;browser.</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Select the Tri-GP hardware components that meet project requirements for the safety system.<br>
+• Install Tri-GP hardware components in the safety system.<br>
+• Diagnose fault and alarm indicators for each hardware component.<br>
+• Replace Tri-GP hardware components as required.<br>
+<br>
+<strong>Prerequisites:</strong><br>
+Basic knowledge of safety Programmable Logic Controller (PLC)</p>

@@ -1,0 +1,37 @@
+Configuring Feedback Control Loops
+['Professional']
+<p>A feedback control loop is a common and powerful control methodology to design a control system. Feedback loops, which receive the system output condition, enable the system to adjust system performance to meet a required output response.</p>
+
+<p>This course helps you understand the concept of feedback control, the Proportional Integral Derivative (PID) block parameters involved in the control loop, and finally the configuration of the feedback control loop.</p>
+
+<p><strong>Course Structure</strong></p>
+
+<p>This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description</strong></p>
+
+<p>- Expected Duration: 1.2 hrs<br>
+- Delivery Type: Web-based training</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience</strong></p>
+
+<p>--- Internal (Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+--- External (Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p><strong>Learning Objectives</strong></p>
+
+<p>After completing this course, you can:&nbsp;</p>
+
+<p>- Explain the purpose and operation of a feedback control loop in process automation.<br>
+- Configure a PID block in a feedback control loop.<br>
+- Build a feedback control loop using Foxboro Evo™ Control Editors.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process control<br>
+• Control Editors<br>
+• Microsoft® Office tools</p>
+
+<p> </p>

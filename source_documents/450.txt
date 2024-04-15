@@ -1,0 +1,3 @@
+HMI Foundation Collection
+['Essential']
+<p>This Collection covers the most important skills for working with the Control HMI. Courses cover the architecture, features and configuration of applications in Control HMI, as well as maintenance and advanced scripting knowledge.</p><p><strong>Learning Objectives</strong><br> To view learning objectives, visit each course within the collection.<br><strong>Prerequisites</strong><br> To view prerequisites, visit each course within the collection.</p>

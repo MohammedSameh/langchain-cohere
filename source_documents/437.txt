@@ -1,0 +1,11 @@
+Virtualization Essential Collection
+['Essential']
+<p>The Virtualization Essential Collection covers must have knowledge and skills for implementing virtualized automation systems. The courses cover site planning, configuring servers and virtual networks, thin clients management and centralized virtualization management. Learners can also take courses to securely back up their virtualized systems as well as add end-point protection.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>
+
+<p> </p>

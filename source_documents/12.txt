@@ -1,0 +1,4 @@
+5620 Control Software Control Editor Expert Tools (Virtual)
+['Expert']
+This course helps you quickly edit control functions. Specifically, in this course, you use Control Editor (Galaxy), Bulk Data Object (BDO), Direct Access, and Grid Editor.<br><br><strong>Learning Objectives</strong><br><br>After completing this course, you can:<br>• Build hardware and software using BDO.<br>• Create scripting in BDO.<br>• Dump and modify configurations with BDO.<br>• Dump and modify control with Direct Access.<br>• Build systems using Direct Access.<br>• Modify settings using Grid Editor.<br><br><strong>Prerequisites<br></strong><br>5612 Control Software Control Editor Tools
+After completing this course, you can:<br>• Build hardware and software using BDO.<br>• Create scripting in BDO.<br>• Dump and modify configurations with BDO.<br>• Dump and modify control with Direct Access.<br>• Build systems using Direct Access.<br>• Modify settings using Grid Editor.

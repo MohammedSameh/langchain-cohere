@@ -1,0 +1,27 @@
+Triconex Diagnostic Expert: Components and Functions
+['Essential']
+<p>Triconex™ Diagnostic Expert is a software program for monitoring the status of the hardware, software, and communication of Triconex controllers. Diagnostic Expert connects to Triconex controllers through the Triconex Data Server to log safety system data, monitor controllers, and collect sequence of events information.</p>
+
+<p>This course covers Diagnostic Expert components and their functions. The course also covers how to install Diagnostic Expert.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Safety Engineers<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Explain how Diagnostic Expert monitors Triconex controller events.<br>
+• Identify the appropriate part number when ordering the Diagnostic Expert components.<br>
+• Install Diagnostic Expert.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas Systems (FGS), and Turbo Machinery Control (TMC) systems<br>
+• Triconex Safety System fundamentals<br>
+• Tricon™ controllers, Tricon™ CX controllers, Trident™ controllers, and Triconex General Purpose (Tri-GP™) controllers<br>
+• Creation of TriStation™ 1131 Developer’s Workbench software projects<br>
+• Triconex Data Server<br>
+• Triconex Report Generator<br>
+&nbsp; &nbsp;<br>
+&nbsp;</p>

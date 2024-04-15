@@ -1,0 +1,22 @@
+Instrumentation for Measuring Process Variables
+['Essential']
+<p><strong>Course Description:</strong></p>
+
+<p>This course provides essential knowledge on commonly used instrumentation for measuring variables and sending this information through digital or analog signals in industrial control applications. This course also introduces equipment for translating a control signal into a physical control action.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+---&nbsp;<strong>Internal&nbsp;</strong>(Graduate Engineers)<br>
+---&nbsp;<strong>External&nbsp;</strong>(Control Engineers, Maintenance Engineers &amp; Technicians, Plant Managers &amp; Operators)</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Identify key instrumentation for measuring the temperature, pressure, level, and flow variables in a control process.<br>
+• Describe key equipment for conditioning and controlling process variables.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of process variables</p>

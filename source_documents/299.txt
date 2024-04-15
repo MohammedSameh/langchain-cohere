@@ -1,0 +1,30 @@
+Control Systems: Basic Hardware
+['Essential']
+<p>Foxboro™ Distributed Control System (DCS) is an enterprise system that controls and manages all industrial plant activities. Foxboro DCS enables plant engineers to develop, deploy, and manage control configuration and achieve plant automation through efficient tools, process displays, and data storage mechanisms. Proper selection, installation, and maintenance of hardware components for Foxboro DCSs are fundamental activities for ensuring fault-tolerant process automation.&nbsp;</p>
+
+<p>This course provides essential knowledge on the basic hardware components you use in Foxboro DCS, including servers, workstations, annunciator keyboards, Ethernet switches, enclosures, baseplates, termination assemblies, and Fieldbus Communication Modules (FCMs).</p>
+
+<p>During this course, you acquire knowledge to:<br>
+• Choose hardware components that meet the project requirements for a control system.<br>
+• Install the hardware components in the control system.<br>
+• Perform maintenance activities on each hardware component.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Graduate Engineers<br>
+• Customer and Field Service Engineers<br>
+• Control and Safety Engineers<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p><strong>Learning Objectives:</strong><br>
+During this course, you acquire knowledge to:<br>
+• Choose hardware components that meet the project requirements for a control system.<br>
+• Install the hardware components in the control system.<br>
+• Perform maintenance activities on each&nbsp; hardware component</p>
+
+<p><strong>Prerequisites:</strong></p>
+
+<p>Basic knowledge of Foxboro DCSs</p>
+
+<p>&nbsp;</p>

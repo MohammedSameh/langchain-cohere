@@ -1,0 +1,14 @@
+Tricon System Installation
+['Professional']
+<p>Installing a Tricon™ system correctly ensures the system operates efficiently. This course helps you install a Tricon system that includes: a main chassis, an expansion chassis, and a Remote Expansion Chassis (RXM) to extend the system to a remote location.</p>
+
+<p><strong>Learning Objectives</strong>:</p>
+
+<p>After completing this course, you can:</p>
+
+<p>• Install I/O and power modules.<br>
+• Connect the main chassis and the expansion panel.<br>
+• Install the communication module.<br>
+• Connect the controller to the termination panel.<br>
+• Connect the power module.<br>
+• Ground the Tricon system.</p>

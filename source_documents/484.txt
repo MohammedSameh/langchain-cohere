@@ -1,0 +1,29 @@
+Industrial Automation Using EcoStruxure Automation Expert
+[]
+<p><br>
+The IEC 61499 standard functions as a core model for distributed industrial control systems. In compliance with the IEC 61499 standard, plant personnel deploy automation solutions that are portable and reusable. EcoStruxure™ Automation Expert enables development of IEC 61499-compliant automation solutions.<br>
+<br>
+By using EcoStruxure Automation Expert, plant personnel can decouple hardware and software for device configuration, build agile automation methodologies, and deploy automation solutions in an asset-centric manner.<br>
+<br>
+This course includes the essential guidelines and architecture models in the IEC 61499 standard and the value proposition of EcoStruxure Automation Expert. In addition, the course guides you through the features and configurations in EcoStruxure Automation Expert.<br>
+<br>
+<strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Comply with the recommendations of the IEC 61499 standard for industrial automation systems.<br>
+• Explain the functional aspects of EcoStruxure Automation Expert.<br>
+• Build function blocks for enhancing industrial operations.<br>
+• Configure solutions for optimizing industrial processes.<br>
+• Manage deployments and device integration requirements.<br>
+<br>
+<strong>Target Audience</strong><br>
+Internal:<br>
+• Application Engineers<br>
+• Lead Engineers<br>
+• Proposal Specialists<br>
+• Technical Sales Consultants<br>
+<br>
+External:<br>
+Control Engineers<br>
+<br>
+<strong>Prerequisites</strong><br>
+Knowledge of hardware and software components in Distributed Control Systems (DCSs)</p>

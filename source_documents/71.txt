@@ -1,0 +1,14 @@
+3004 Eurotherm PAC System – Wonderware PAC Object Binding
+['Professional']
+Through
+  detailed instructions and hands-on lab exercises, this course shows you how
+  to integrate Eurotherm™ T2750 Programmable Automation Controller (PAC)
+  function block data into ArchestrA™ objects.<br><br>     During this course, you enhance the project configured during the
+  prerequisite training course 3003 Eurotherm PAC System – T2750 and LINtools.
+  You create a variety of objects incorporating LIN function block data into
+  ArchestrA objects to enable the logging, viewing, and alteration of data via
+  the HMI.<br><br>     This course is ideal for Engineers who develop and maintain Eurotherm T2750
+  PAC within the ArchestrA System Platform Integrated Development Environment
+  (IDE).
+After
+  completing this course, you can:<br><br>     • Add the PAC Network object.<br>     • Add PAC DeviceDiag objects.<br>     • Bind LIN blocks to objects.<br>     • Include LIN block data in objects.<br>     • Display LIN Block data on the HMI.<br>     • Map and configure alarms.<br><br>Prerequisites<br><br>     • 3003 Eurotherm PAC System – T2750 and LINtools<br>     • Knowledge of ArchestrA System Platform IDE<br>     • Working knowledge of personal computers<br>     • Process control experience

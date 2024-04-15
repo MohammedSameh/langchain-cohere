@@ -1,0 +1,28 @@
+Configuring Process Alarms
+['Professional']
+<p>Process alarms refers to detecting abnormal conditions or equipment malfunction and notifying the operator&nbsp;to take a corrective action accordingly. Process alarms prevent, or at least minimize, prevent personal injury and plant downtime through Operators timely intervention.&nbsp;<br>
+This course shows you how to configure alarms by tuning different parameters using Foxboro Evo Control Editors. The course also helps recognize some common alarm blocks and best practices when you configure process alarms. &nbsp;</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 2 hours and 30 Minutes<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+<strong>--- Internal</strong>&nbsp;(Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+<strong>--- External</strong>&nbsp;(Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Identify alarm management lifecycle according to IEC 62682.<br>
+- Configure compound and block alarms parameters using Control Editors.&nbsp;<br>
+- Distinguish between methods of acknowledging process alarms.<br>
+- Acknowledge process alarms using the Control HMI.<br>
+- Use common alarm blocks and best practices of process alarm configuration.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of Foxboro Evo System Architecture<br>
+• Knowledge of Foxboro Evo Control HMI</p>

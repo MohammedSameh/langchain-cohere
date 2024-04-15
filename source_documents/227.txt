@@ -1,0 +1,28 @@
+Installing and Licensing PSA OP
+['Essential']
+<p>This course covers the deployment architecture of PSA OP, the installation and licensing of PSA OP software, and post-installation steps, such as generating security certificates and configuring user access permissions for PSA OP. Additionally, the course explains PSA OP user interface elements and key processes that help assess the health of PSA OP.</p>
+
+<p><strong>Target Audience:</strong>&nbsp;<br>
+&nbsp;- Safety Engineers</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+&nbsp;- Identify the deployment architecture of PSA OP.<br>
+&nbsp;- Install and license Triconex Collector and PSA OP software.<br>
+&nbsp;- Update the Process Monitor Configuration file.<br>
+&nbsp;- Generate security certificates.<br>
+&nbsp;- Configure data source and global parameters.<br>
+&nbsp;- Configure user roles and assign user access permissions for PSA OP.<br>
+&nbsp;- List the processes and services that help monitor the health of PSA OP.<br>
+&nbsp;- Identify the UI elements of PSA OP Console.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+&nbsp; &nbsp;‒ Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas (F&amp;G) systems<br>
+&nbsp; &nbsp;‒ Programmable Logic Controllers (PLCs), such as Tricon™, Trident™, and Triconex™ General Purpose (Tri-GP™)<br>
+&nbsp; &nbsp;‒ Testing safety applications using Triconex Emulator<br>
+&nbsp; &nbsp;‒ Historian<br>
+• Experience in creating TriStation 1131 safety applications<br>
+• Completion of the following courses in MLL:<br>
+&nbsp; &nbsp; ‒ 1079 Safety System Basics course<br>
+&nbsp; &nbsp; ‒ 1075 Configuring the Wonderware Historian course</p>

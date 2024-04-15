@@ -1,0 +1,26 @@
+Konfigurieren von Rückkopplungs regelkreisen
+['Professional']
+<p>Ein Rückkopplungsregelkreis ist eine gängige und leistungsfähige Regelungsmethodik zum Entwurf eines Regelsystems. Rückkopplungsschleifen, die die Systemausgabebedingung empfangen, ermöglichen es dem System, die Systemleistung so anzupassen, dass eine erforderliche Ausgabeantwort erfüllt wird.</p>
+
+<p>Dieser Kurs hilft Ihnen, das Konzept der Rückkopplungsregelung, die an der Regelschleife beteiligten PID-Blockparameter (Proportional Integral Derivative) und schließlich die Konfiguration der Rückkopplungsregelschleife zu verstehen.</p>
+
+<p><strong>Struktur des Kurses:</strong></p>
+
+<p>Dieser Web-basierte Kurs enthält Kursinhalte, gefolgt von einer Bewertung. Nachdem Sie den Inhalt überprüft haben, nehmen Sie die Beurteilung vor. Die Beurteilung dient der Bewertung der Fähigkeiten und Kenntnisse, die Sie durch die Teilnahme am Kurs erworben haben.</p>
+
+<p><strong>Kursbeschreibung:</strong></p>
+
+<p>- Erwartete Dauer des Kurses: 1,2 Std.<br>
+- Zustellungsart: Web-basierte Ausbildung<br>
+- Zielpublikum:&nbsp;<br>
+--- Intern (Diplomingenieure, Anwendungstechniker, Außendienstingenieure)<br>
+--- Externe (Wartungstechniker und -ingenieure, Anlagenbetreiber und -manager, Regelungstechniker)</p>
+
+<p><strong>Lernziele</strong></p>
+
+<p>Nach Abschluss dieses Kurses können Sie:&nbsp;<br>
+- den Zweck und die Funktionsweise eines Rückkopplungsregelkreises in der Prozessautomatisierung erläutern.<br>
+- einen PID-Block in einem Rückkopplungsregelkreis konfigurieren.<br>
+- Einen Rückkopplungsregelkreis mit Foxboro Evo™ Control Editors erstellen.</p>
+
+<p>Für eine optimale Ansicht starten Sie die Kurse in einem Microsoft Internet Explorer® Browser.</p>

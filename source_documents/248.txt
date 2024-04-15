@@ -1,0 +1,23 @@
+Activating and Securing EcoStruxure Hybrid DCS
+['Professional']
+<p>This course provides essential knowledge and practices on activating and securing EcoStruxure™ Hybrid Distributed Control System (DCS).&nbsp;</p>
+
+<p>The course conveys knowledge on different licenses required for activation. This course also helps you practice how to secure EcoStruxure Hybrid DCS Client/Server through configuration of certificates and Role-Based Access Control (RBAC).&nbsp;</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience</strong><br>
+• Control Engineers<br>
+• Maintenance Engineers&nbsp;</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Activate EcoStruxure Hybrid DCS.<br>
+• Configure security settings for EcoStruxure Hybrid DCS.</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of:<br>
+• Process control concepts<br>
+• EcoStruxure Control Expert and Citect SCADA<br>
+• Ethernet networking concepts<br>
+• Modicon PLCs</p>

@@ -1,0 +1,30 @@
+Overview of EcoStruxure Geo SCADA Expert ViewX
+['Essential']
+<p>EcoStruxure™ Geo SCADA Expert is an open software platform that supports the remote management of critical infrastructures in both small and large enterprises. EcoStruxure Geo SCADA Expert ViewX is a client application that provides access to the Geo SCADA Expert system. Using ViewX, you can display field data and operational status, interact with field control systems, respond to alarms, and configure the database.<br>
+<br>
+The course in this curriculum provides essential knowledge on the main functionality and features of ViewX.<br>
+<br>
+This curriculum includes one course and a post-course assessment.</p>
+
+<p><strong>Target Audience:</strong><br>
+- Engineers and Managers involved in SCADA projects<br>
+- Installation and Maintenance Technicians<br>
+- Network Design and Maintenance Engineers<br>
+- Operator-level users<br>
+- Operations staff<br>
+- SCADA Network Administrators<br>
+- System Design Engineers</p>
+
+<p><br>
+<strong>Learning Objectives:</strong><br>
+After completing the course, you can:<br>
+- Identify the functions of Geo SCADA Expert ViewX.<br>
+- Recognize the main components of the ViewX interface.<br>
+- Navigate different database objects and object menus.<br>
+- Interact with the SCADA system by displaying Mimics.<br>
+- Explain the various displays from which you can access alarms and alarm-related activities.<br>
+- Use Trends to display information about database values, both historical and current.<br>
+- Explain the differences between ViewX and Virtual ViewX interfaces.<br>
+<br>
+<strong>Prerequisites:</strong><br>
+General familiarity with SCADA control processes</p>

@@ -1,0 +1,23 @@
+Konfigurieren der Sequenzsteuerung
+['Professional']
+<p>Dieser Kurs vermittelt grundlegende Kenntnisse über die Konfiguration von Sequenzsteuerungsblöcken in Foxboro Evo™ Prozessautomatisierungssystemen. Zu den Themen gehören die Merkmale und Funktionen von Sequenzsteuerungsblöcken, die Interaktion von Blöcken in einem Sequenzsteuerungsprozess und die Blockprogrammierung mit der Syntax der High Level Batch Language (HLBL). Die Kenntnis der Sequenzsteuerungsblöcke ermöglicht es dem Anlagenpersonal, die Sequenzsteuerung in Anlagenprozessen einfach und effizient zu konfigurieren.</p>
+
+<p><br>
+<strong>Aufbau des Kurses:</strong><br>
+Dieser webbasierte Kurs enthält Kursinhalte, gefolgt von einer Bewertung. Nachdem Sie den Inhalt gelesen haben, nehmen Sie an der Prüfung teil. Die Prüfung dient dazu, die im Kurs erworbenen Fähigkeiten und Kenntnisse zu bewerten.</p>
+
+<p><strong>Kursbeschreibung:</strong><br>
+- Voraussichtliche Dauer: 1 Stunde 30 Minuten<br>
+- Art der Bereitstellung: Webbasierte Schulung<br>
+- Zielpublikum: Anwendungsingenieure</p>
+
+<p><strong>Lernziele</strong><br>
+Nach Abschluss dieses Kurses können Sie:<br>
+- die Eigenschaften und Funktionen von Sequenzsteuerungsblöcken zu erklären.<br>
+- die Zustände und Interaktionen von Sequenzsteuerungsblöcken in einem Sequenzsteuerungsprozess zu verwalten.<br>
+- die verschiedenen Abschnitte in Sequenzsteuerungsblöcken zu identifizieren.<br>
+- Sequenzsteuerungslogik mit der Syntax der High Level Batch Language (HLBL) programmieren.</p>
+
+<p><strong>Voraussetzungen</strong><br>
+- Kenntnisse in der Programmierung mit Strukturiertem Text<br>
+- Kenntnisse der ArchestrA™ IDE</p>

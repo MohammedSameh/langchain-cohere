@@ -1,0 +1,31 @@
+Understanding the Basics of SCADA Systems for Process Control
+['Essential']
+<p>This course provides essential knowledge on Supervisory Control and Data Acquisition (SCADA) system functions. SCADA systems gather real-time information from remote locations for data processing, analysis, and equipment control. The course covers fundamental concepts on SCADA and the related hardware and software used for implementing a SCADA system.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:476px">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>Course Structure:</strong><br>
+			This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.<br>
+			<br>
+			<strong>Course Description:</strong><br>
+			- Expected Duration: 1 hour<br>
+			- Delivery Type: Web-based training<br>
+			-&nbsp;Target Audience: Application Engineers<br>
+			<br>
+			<strong>Learning Objectives<br>
+			After completing this course, you can:&nbsp;</strong><br>
+			• Identify the purpose of SCADA systems in process control operations.<br>
+			• List the functions, features, and components of a SCADA system.<br>
+			• Describe the software components required for configuring a SCADA system.<br>
+			• Explain the hardware components to implement a SCADA system.</p>
+
+			<p><strong>Prerequisites</strong><br>
+			None</p>
+			</td>
+		</tr>
+	</tbody>
+</table>

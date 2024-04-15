@@ -1,0 +1,27 @@
+Tracking Changes to TriStation 1131 Project Files Using System Advisor
+['Professional']
+<p>EcoStruxure™ System Advisor for Process Safety is a software application that enables you to document and track changes, manage I/Os, and create advanced queries for TriStation™ 1131 Developer’s Workbench software and Triconex™ Safety System.<br>
+This course provides essential knowledge on installing, configuring, and using System Advisor for Process Safety to track Tristation 1131 changes. This course also introduces basic System Advisor maintenance tasks and how to build advanced queries to acquire custom data from the System Advisor database.<br>
+<br>
+For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.&nbsp;<br>
+<br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Install System Advisor.<br>
+• Configure System Advisor components to collect TriStation 1131 data.<br>
+• Review System Advisor Data.<br>
+• Manage Tristation 1131 I/Os using System Advisor.<br>
+• Track TriStation 1131 changes using System Advisor.<br>
+• Build Advanced Queries using System Advisor.<br>
+• Maintain the System Advisor database.<br>
+<br>
+<strong>Prerequisites:</strong><br>
+• Knowledge of Process safety applications, such as Emergency Shutdown (ESD) Systems and Fire and Gas Systems<br>
+• Knowledge of Triconex controllers – Tricon™, Trident™, or Triconex General Purpose (Tri-GP™)<br>
+• Working experience of creating TriStation 1131 safety applications<br>
+&nbsp;<br>
+<strong>Target Audience:</strong>&nbsp;<br>
+• Application Engineers<br>
+• Field Service Engineers<br>
+• Maintenance/Site Engineers<br>
+• Safety Engineers</p>

@@ -1,0 +1,33 @@
+Configuring the Feedback Tuner FBTUNE Block
+['Expert']
+<p>This 5-video curriculum helps increase plant utilization and performance by generating a sound foundation of the features and functions of the FBTUNE block. The FBTUNE block helps you adaptively tune gain schedules for proportional band PBAND, integral time INT, derivative time DERIV, dead time DTIME, and relative gain on the setpoint SPLLAG of&nbsp; PIDA and DPIDA blocks. The FBTUNE block also helps you set deviation alarm delay DEVTIM and filter time constant FILTER to prevent high-frequency instability in the PITAU and PIDTAU deadtime controller modes.&nbsp;<br>
+<br>
+Course code: E5112</p>
+
+<p><strong>Audience</strong><br>
+Process Control Engineers and System Administrators who design, test, and maintain plant-level Foxboro control schemes.</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:</p>
+
+<ul>
+	<li>Describe basic concepts of controller tuning.</li>
+	<li>Explain the functions of the FBTUNE block.</li>
+	<li>Compare auto-tuning and self-tuning.</li>
+	<li>Configure the connection between an FBTUNE block and a PIDA block.</li>
+	<li>Identify the parameters and parameter options for configuring the FBTUNE block.</li>
+	<li>Set boundaries on the FBTUNE block.</li>
+	<li>Configure the Pre-Tune function in the FBTUNE block.</li>
+	<li>Operate the FBTUNE block using the block’s detail display.</li>
+	<li>Indicate appropriate scenarios for using the FBTUNE block.</li>
+	<li>Maximize performance of FBTUNE by properly setting key block parameters.</li>
+</ul>
+
+<div><strong>Prerequisite</strong></div>
+
+<ul>
+	<li>High school Calculus</li>
+	<li>Course 6325 Control Systems Engineering (recommended)</li>
+	<li>Course 2001 or 5001 Configuration Essentials</li>
+	<li>Course E5111 Using and Configuring the PIDA Control Block</li>
+</ul>

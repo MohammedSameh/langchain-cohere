@@ -1,0 +1,11 @@
+Process Automation Basic Collection
+['Essential']
+<p>This Collection covers core conceptual and practical knowledge on Process Automation fundamentals such as P&amp;IDs, process variables, instruments and control strategies. The courses are product agnostic.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>
+
+<p> </p>

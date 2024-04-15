@@ -1,0 +1,11 @@
+Networking Foundation Collection
+['Essential']
+<p>The Networking Foundation Collection covers the core skills required for Control Network implementations, including ethernet protocol, security considerations, switch configuration and maintenance. Courses also address specialized skills for network analysis using NetSight Console as well as Control Network Interface implementation.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>
+
+<p> </p>

@@ -1,0 +1,11 @@
+Process Automation Security Essential Collection
+['Essential']
+<p>The Process Automation Security Essential Collection covers key cybersecurity knowledge and skills for process automation professionals. This set of courses covers important considerations related to plant infrastructure, the essential controls for securing control systems and safety systems. Learners also acquire skills on end-point protection and data back and recovery.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>
+
+<p> </p>

@@ -1,0 +1,9 @@
+Process Automation Essential Collection
+['Essential']
+<p>The Process Automation Essential Collection covers higher level skills for configuring and maintaining a Foxboro control system. Courses cover field device integration, alarming, historian setup and management, system management.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>

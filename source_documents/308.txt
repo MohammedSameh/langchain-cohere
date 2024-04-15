@@ -1,0 +1,32 @@
+Testing Safety Applications Using Triconex Safety Validator
+['Professional']
+<p>Schneider Electric customers request the testing of safety applications during the Factory Acceptance Test (FAT) and Site Acceptance Test (SAT) phases.&nbsp;</p>
+
+<p>Triconex™ Safety Validator enables the creation and execution of tests. These tests help validate TriStation™ 1131 safety applications through customizable and easy-to-develop Test Cases.&nbsp;<br>
+This course begins with conveying knowledge on the workflow of testing safety applications in Triconex Safety Validator and concludes with presenting software simulation to allow you to practice the safety validation process from start to end.&nbsp;</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:</strong>&nbsp;Engineers, Operators, and Technicians who use Triconex Safety Validator to create and validate test cases for a TriStation 1131 safety critical application.</p>
+
+<p><strong>Learning Objectives:&nbsp;</strong><br>
+After this course, learners can:&nbsp;</p>
+
+<ol>
+	<li>1dentify the process of testing TriStation 1131 safety applications.</li>
+	<li>Install and activate Triconex Safety Validator.</li>
+	<li>Extract configuration data from a TriStation 1131 project file using Triconex Report Generator.</li>
+	<li>Create test suites, test cases, and tests steps using Safety Validator.</li>
+	<li>Execute test suites on multiple emulators using Safety Validator.</li>
+	<li>Generate the test procedure and results documents using Safety Validator.</li>
+</ol>
+
+<p><strong>Prerequisites:</strong></p>
+
+<ul>
+	<li>Knowledge of process safety applications, such as Emergency Shutdown System and Fire and Gas System.</li>
+	<li>Knowledge of Triconex Controllers – Tricon, Trident or Tri-GP</li>
+	<li>Working experience of creating TriStation 1131 safety applications</li>
+</ul>
+
+<p> </p>

@@ -1,0 +1,26 @@
+Creating Virtual Networks and Machines for Control Systems
+['Professional']
+<p>This course describes configuring control and non-control networks for virtualized FoxboroTM Distributed Control System (DCS). This course also describes how to create Virtual Machines (VMs), install FoxboroTM Control Core Services on these VMs, and finally connect VMs through the configured virtual network. All activities leverage software demonstrations and simulations to provide a realistic project experience.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p>From Resources, you can download a job aid to help you perform procedures in this course.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Create and configure virtual switches for FoxboroTM Distributed Control Network.<br>
+• Create and configure a virtual switch for Foxboro DCS Auxiliary Control Network (ACN).<br>
+• Authorize domain controllers to authenticate domain clients using Active Directory.<br>
+• Create VMs and install Windows Server® 2008 R2 Standard Edition operating system.&nbsp;<br>
+• Install Control Core Services on VMs.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of:<br>
+• Components of a virtualized control system<br>
+• Ethernet networks<br>
+• Foxboro DCS architecture&nbsp;<br>
+• V91 server virtualization host configuration</p>

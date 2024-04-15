@@ -1,0 +1,23 @@
+Generating Reports in System Advisor for Process Control
+['Professional']
+<p>This course helps you create custom reports using the system management features of System Advisor.<br>
+<br>
+For optimal viewing, launch the course in the Microsoft® Internet Explorer® browser, and press the F11 key to view the course in full screen mode.<br>
+<br>
+After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.<br>
+<br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Query and view required system information using the Advanced Queries feature.<br>
+• Filter and view alarm-related information using the Alarm Statistics feature.<br>
+• Track and view changes to the Foxboro DCS configuration using Change Tracking and Operator Action Journal (OAJ) Messages features.<br>
+• Calculate and view the performance of various components in a Foxboro DCS network using the Key Performance Indicators (KPIs) Configurator feature.<br>
+• Combine multiple reports into a single custom report using the Custom Report feature.</p>
+
+<p><strong>Prerequisites</strong><br>
+• Knowledge of:<br>
+‒ Basic concepts of Ethernet networks<br>
+‒ Foxboro DCS architecture<br>
+• Understanding of:<br>
+‒ Foxboro control configuration and hardware configuration<br>
+‒ Content from 2001V8 Configuration Essentials or 5001 Control Software Configuration</p>

@@ -1,0 +1,26 @@
+Monitoring Controller Events Using Enhanced Diagnostic Monitor
+['Professional']
+<p>Triconex™ Diagnostic Expert is a software program for monitoring the status of the hardware, software, and communication of Triconex controllers. Diagnostic Expert connects to Triconex controllers through the Triconex Data Server to log safety system data, monitor controllers, and collect sequence of events information.</p>
+
+<p>Detailed practices and job aids in this course help you effectively perform key tasks in Enhanced Diagnostic Monitor.</p>
+
+<p><strong>Target Audience:</strong>&nbsp;<br>
+• Safety Engineers<br>
+• Maintenance Engineers<br>
+• Maintenance Technicians</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Configure Enhanced Diagnostic Monitor to read events from a Triconex controller.<br>
+• Track controller events by generating version and event files.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas Systems (FGS), and Turbo Machinery Control (TMC) systems<br>
+• Triconex Safety System fundamentals<br>
+• Tricon™ controllers, Tricon™ CX controllers, Trident™ controllers, and Triconex General Purpose (Tri-GP™) controllers<br>
+• Creation of TriStation™ 1131 Developer’s Workbench software projects<br>
+• Triconex Data Server<br>
+• Triconex Report Generator<br>
+&nbsp; &nbsp;<br>
+&nbsp;</p>

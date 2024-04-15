@@ -1,0 +1,17 @@
+Cybersecurity for Distributed Control Systems
+['Professional']
+<p>This course provides essential knowledge on the implementation techniques of cybersecurity for Foxboro™ Distributed Control Systems (DCSs). Topics include cybersecurity configuration using Active Directory Services, Primary Domain Controller (PDC) failure and downtime management, and security settings for control engineering and visualization tools. In addition, the course also includes descriptive demonstrations and practice exercises on creating user accounts, transferring Flexible Single Master Operation (FSMO) roles, seizing FSMO roles, and securing Foxboro Control HMI projects.</p>
+
+<p><strong>Target Audience&nbsp;</strong><br>
+- Application Engineers<br>
+- Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Customize Active Directory group policies and efficiently manage user accounts to protect the plant network.<br>
+- Manage PDC downtime and restore failed PDC to ensure continuous cybersecurity.<br>
+- Configure security settings in engineering and visualization tools.</p>
+
+<p><strong>Prerequisites</strong><br>
+- Experience in DCSs<br>
+- Knowledge of computer networking concepts</p>

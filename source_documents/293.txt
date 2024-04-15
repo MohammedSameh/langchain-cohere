@@ -1,0 +1,21 @@
+Developing and Testing TriStation 1131 Applications
+['Professional']
+<p>This course provides essential knowledge on developing safety applications using TriStation™ 1131 Developer’s Workbench software. In this course, you download applications to Triconex™ Emulator, which &nbsp;simulates Tricon™ CX controllers for testing. &nbsp;Using Triconex Safety Validator and Triconex Report Generator, you create test cases for TriStation 1131 applications and generate reports.<br>
+After completing this course, you can:<br>
+- Create and test safety logic.<br>
+- Create custom functions.<br>
+- Set up project options.<br>
+- Generate reports using Report Generator.<br>
+For optimal viewing, launch the course in a Microsoft® Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Create and test safety logic.<br>
+• Create custom functions.<br>
+• Set up project options.<br>
+• Generate reports using Triconex Report Generator.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown (ESD) Systems and Fire and Gas Systems<br>
+• Triconex controllers – Tricon, Trident™, or Triconex General Purpose (Tri-GP™)</p>

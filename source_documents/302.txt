@@ -1,0 +1,15 @@
+Using Cause and Effect Matrix in Safety Applications
+['Professional']
+<p>This course provides essential knowledge on the Cause and Effect Matrix (CEM) programming language. Throughout process automation, CEM helps define Emergency Shutdown (ESD) strategies in process safety applications, such as Fire and Gas Systems.</p>
+
+<p>For optimal viewing, launch the course in a Microsoft® Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives</strong>:</p>
+
+<p>After completing this course, you can:<br>
+- Identify the basics of CEM programming language.<br>
+- Recall best practices before implementing CEM logic.<br>
+- Manage the CEM document and other input documents.<br>
+- Convert CEM logic into FBD.<br>
+- Test functionality using the CEM document.<br>
+ </p>

@@ -1,0 +1,19 @@
+Retrieving Sequence of Events Data from Tricon CX Controllers
+['Professional']
+<p>This course provides essential knowledge on using Triconex™ Sequence of Events (SOE) Recorder to analyze shutdowns and define strategies that help improve plant safety. In this course, you install and configure SOE Recorder to retrieve data from TriStation™ 1131 Developer’s Workbench software applications.<br>
+<br>
+For optimal viewing, launch the course in a Microsoft® Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Identify key steps for collecting event data.<br>
+• Configure SOE blocks in TriStation 1131 software.<br>
+• Install SOE Recorder.<br>
+• Configure SOE Recorder.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown (ESD) Systems and Fire and Gas Systems<br>
+• Triconex controllers – Tricon™, Trident™, or Triconex General Purpose (Tri-GP™)</p>
+
+<p> </p>

@@ -1,0 +1,17 @@
+Configuring Communication, Data Logging, and User Access in SCD6000
+['Professional']
+<p>This course helps you configure SCD6000 for monitoring device status, running diagnostics, establishing network communications, enabling peer-to-peer communications, and securing devices through the management of user access.&nbsp;</p>
+
+<p>After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Configure Diagnostic Server, Diagnostic Router, and Terminal Server functionality in SCD6000.<br>
+- Configure the Analog Logger to view system status and the Event Logger to record events.<br>
+- Configure SCD6000 in an OptoNet network to support peer-to-peer communication between SCDs in a SCADA network.<br>
+- Manage user access to RTUs using the EcoStruxure™ Foxboro SCADA Connect Secure application.<br>
+- Configure Secure Authentication (SA) v2 and v5 for DNP3 Slave devices.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Ability to configure SCADA systems<br>
+• Knowledge of RTU configuration&nbsp;</p>

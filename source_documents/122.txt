@@ -1,0 +1,29 @@
+Understanding the Basics of Control Configuration
+['Essential']
+<p>Foxboro Evo™ offers a suit of tools for configuration including Foxboro Evo Control Editors. Control Editors are used to create and configure the process control logic.<br>
+This course covers the basic concepts of configuration, getting started with Control Editors, and backing up and restoring a Galaxy.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains one course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 1.4 hrs<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+--- Internal (Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+--- External (Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives</strong><br>
+<strong>After completing this course, you can:&nbsp;</strong><br>
+- Identify the control logic configuration process.<br>
+- Explain the features and benefits of Control Editors.<br>
+- Create toolsets and templates in Control Editors.<br>
+- Import and export control objects to a Galaxy.<br>
+- Backup and restore a Galaxy using System Manager Console (SMC).</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process control<br>
+• Process and Instrumentation Diagrams (P&amp;IDs)</p>

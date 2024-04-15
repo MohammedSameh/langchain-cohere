@@ -1,0 +1,7 @@
+Control HMI Foundation Collection
+[]
+<p>This Collection covers the most important skills for working with the Control HMI. Courses cover the architecture, features and configuration of applications in Control HMI, as well as maintenance and advanced scripting knowledge.</p>
+
+<p> </p>
+
+<p> </p>

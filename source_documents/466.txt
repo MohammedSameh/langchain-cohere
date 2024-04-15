@@ -1,0 +1,22 @@
+Architecture Models in the IEC 61499 Standard
+['Essential']
+<p>Part 1 of the IEC 61499 standard describes the architecture models for distributed control systems. The standard architecture models—Function Block, Execution, Application, Resource, Device, and Distribution—prescribe interoperability, configurability, and portability of distributed control systems. This course provides deeper understanding of the standard architecture models and the modelling of distributed control systems based on function blocks.</p>
+
+<p>This course includes an introductory module, five content modules, and two post-module assessments.</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+• Apply the standard requirements of IEC 61499 for modeling distributed control systems.<br>
+• Adhere to the IEC 61499 requirements for connecting function blocks.<br>
+• Develop configuration techniques for algorithms and communications.</p>
+
+<p><strong>Target Audience</strong><br>
+External: Control Engineers&nbsp;<br>
+Internal:&nbsp;<br>
+• Application Engineers<br>
+• Lead Engineers<br>
+• Proposal Specialists<br>
+• Technical Sales Consultants</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of hardware and software control systems</p>

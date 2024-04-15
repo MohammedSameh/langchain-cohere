@@ -1,0 +1,11 @@
+5612 Outils Control Software Control Editor Virtuel en Français
+['Professional']
+<p>Veuillez noter que ce cours livré en français uniquement.<br>
+<br>
+Ce cours vous aidera à optimiser la disponibilité et l'utilisation des installations tout en réduisant les coûts d'ingénierie. À la fin de ce cours, les participants seront en mesure de comprendre les caractéristiques et les capacités de l'éditeur de contrôle pour générer des d'applications d'automatisation avec convivialité et facilité de recherche de pannes et de mise en service. Les participants seront en mesure de contrôler, de concevoir, de créer, tester et exécuter des programmes d'application en temps réel pour leur usine. Les participants apprendront à utiliser des stratégies de l'éditeur de configuration pour créer des systèmes de contrôle. Control Software supporte la fonction de génération en vrac que vous pouvez utiliser pour générer une base de données à l'aide de l’outil «&nbsp;Save-All&nbsp;». Les participants apprendront également à utiliser l'outil «&nbsp;Appearance&nbsp;» du Control Software, qui permet la construction de symboles fonctionnels personnalisés. Les participants apprendront également comment définir les composants matériels du système et les paramètres logiciels correspondants.<br>
+<br>
+<strong>Conditions préalables: </strong><br>
+• 5001 Foxboro DCS Configuration essentielle<br>
+• 5101 Foxboro DCS contrôle intégré</p>
+<strong>Après avoir terminé ce cours,
+vous pourrez:</strong><br>• Créer une stratégie, l’assigner à un compound et déployer le compound dans un processeur à l'aide de l’éditeur Control Software.<br>• Générer en masse (Bulk generate) plusieurs compounds et stratégies à l'aide d'une liste de tags et de templates.<br>• Créer des apparences définies par l'utilisateur et des diagrammes SAMA dynamiques.<br>• Décrire et utiliser des templates dérivés et des instances.<br>• Créer une boîte à outils personnalisée de templates couramment utilisés et personnalisés.<br>• Appliquer le contrôle de logique à relais à l'aide de l'éditeur Control Software.<br>• Appliquer le contrôle séquentiel à l'aide de l'éditeur de l'éditeur Control Software (HLBL et SFC).<br>• Configurer diverses fonctions de sécurité, multi-utilisateurs et de contrôle de version de Control Software.<br>• Sauvegarder, restaurer et vérifier les bases de données de Control Software.

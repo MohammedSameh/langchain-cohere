@@ -1,0 +1,30 @@
+Scripting, Alarming, and Maintenance Procedures in Control HMI
+['Professional']
+<p>A Control HMI application can include scripted functions for executing tasks, such as opening a window or triggering an animation. In addition, Control HMI applications include alarms to alert plant personnel during abnormal situations. After deploying a Control HMI application, you must perform evaluation and maintenance on a regular basis. Deployed Control HMI applications require routine evaluation and maintenance.</p>
+
+<p>This course provides fundamental knowledge on standard procedures and best practices for scripting, alarming, and maintaining Control HMI applications.</p>
+
+<p>For optimal viewing, launch the course in the Microsoft® Internet Explorer® browser.</p>
+
+<p><strong>Important Note for Learners:</strong></p>
+
+<div>
+<p>After completing the course, you must successfully complete a post-course assessment within FOUR attempts to obtain credit and proceed to the next course.</p>
+</div>
+
+<p><strong>Target Audience:</strong><br>
+- Application Engineers<br>
+- Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Implement scripting in Control HMI.&nbsp;<br>
+• Summarize best practices to execute scripts in Control HMI.&nbsp;<br>
+• Configure alarm monitoring and storing in Control HMI.<br>
+• Describe the purpose of generating Graphics Performance Index (GPI) and Object Manager (OM) reports. &nbsp;</p>
+
+<p><strong>Prerequisites</strong>:<br>
+• Knowledge of DCSs<br>
+• Completion of Configuring Managed Control HMI Applications</p>
+
+<div> </div>

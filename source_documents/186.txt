@@ -1,0 +1,16 @@
+Migrating Previous Projects to TriStation 1131
+['Professional']
+<p>This course provides essential knowledge on upgrading legacy safety applications using TriStation™ Migration Utility, which is automatically installed with V5.x TriStation 1131 Developer’s Workbench software. Using this utility, you can migrate TriStation 1131 projects, libraries, and Tieback simulations.<br>
+<br>
+For optimal viewing, launch the course in a Microsoft<sup>®</sup> Internet Explorer<sup>®</sup> browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Migrate TriStation 1131 applications from version 4.x to 5.x using TriStation Migration Utility.<br>
+• Verify successful migration of TriStation 1131 applications.<br>
+• Troubleshoot migration issues.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown (ESD) Systems and Fire and Gas Systems<br>
+• Triconex™ controllers – Tricon™, Trident™, or Triconex General Purpose (Tri-GP™)</p>

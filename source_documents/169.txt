@@ -1,0 +1,19 @@
+Troubleshooting Foxboro DCS Using Scripts
+['Professional']
+<p>This course presents some of the common challenges you may face and offers how you can troubleshoot Foxboro DCS using scripts.</p>
+
+<p><strong>Target Audience:</strong> Application Engineers, Maintenance Engineers, Plant Operations Manager, Customer/Field Service Engineers.</p>
+
+<p>Launch this content in a Microsoft® Internet Explorer® or Mozilla® Firefox® browser. Do not launch the content in a Google® Chrome™ browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can troubleshoot Foxboro DCS using the following scripts:<br>
+• Database synchronization&nbsp;<br>
+• Save all and load all<br>
+• dbvu<br>
+• ICC Print</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of Foxboro DCS architecture<br>
+• Knowledge of System Manager<br>
+• Knowledge of Ethernet Networks</p>

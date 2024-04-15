@@ -1,0 +1,23 @@
+Roles, User Groups, and Users within PSA Cloud
+['Professional']
+<p>This course provides information about how to create roles and related permissions, create user groups and associate roles to these user groups, and view users assigned to PSA Cloud.</p>
+
+<p>After completing this course, you must complete a post-course assessment within FOUR attempts to obtain credit.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Create roles and user groups in PSA Cloud.<br>
+• View and reinvite users in PSA Cloud.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Process safety applications, such as Emergency Shutdown Systems (ESDs) and Fire and Gas (F&amp;G) systems<br>
+‒ Safety systems<br>
+‒ IPLs<br>
+‒ HAZard and OPerability (HAZOP) and Layers of Protection Analysis (LOPA)<br>
+‒ PSA On Premise (PSA OP)<br>
+• 1079 Safety System Basics e-learning course<br>
+• 1257 Fundamentals of Process Safety Advisor On Premise ( PSA OP) e-learning course<br>
+• 1318 Installing and Licensing PSA OP e-learning course</p>
+
+<p> </p>

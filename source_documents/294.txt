@@ -1,0 +1,10 @@
+2001 Virtuelle Foxboro Konfigurationskurs Webinar
+['Essential']
+<p><strong>Lehrgangsbeschreibung&nbsp;</strong><br><br>Dieser Lehrgang ist die Erweiterung des Einführungskurses für die Hard- und Software des Prozessleitsystems Foxboro. Um die Struktur des Prozessleitsystems zu erläutern, werden alle erforderlichen Konfigurationen behandelt. Dem Kursteilnehmer wird in theoretischer Unterweisung und mit praktischen Übungen das Wissen vermittelt, Standardfunktionen eines Foxboro Systems zu konfigurieren. Darüber hinaus wird der Kursteilnehmer auf weiterführende Lehrgänge vorbereitet, um dort vertieftes Wissen und spezielle Konfigurationstechniken zu erlernen.&nbsp;</p><p><strong>Zielgruppe</strong><br><br>System-, Projekt- und 
+Verfahrensingenieure, die sich jetzt oder später über die reinen 
+Bedienfunktionen hinaus mit dem Prozessleitsystem Foxboro befassen bzw. 
+damit arbeiten werden.<br><br><strong>Voraussetzungen</strong><br><br>Grundkenntnisse im Umgang mit PCs. Praktische Erfahrung mit Prozessleitsystemen.<br><br><br>  </p>
+<br><strong>Zielgruppe</strong><br><br>System-, Projekt- und 
+Verfahrensingenieure, die sich jetzt oder später über die reinen 
+Bedienfunktionen hinaus mit dem Prozessleitsystem Foxboro befassen bzw. 
+damit arbeiten werden.

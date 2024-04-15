@@ -1,0 +1,37 @@
+Developing, Testing, and Deploying Safety Applications in TriStation 1131 Software
+['Professional']
+<p>This curriculum covers the use of TriStation™ 1131 Developer's Workbench software with Tricon™ CX controllers. Applications created with TriStation 1131 software help you detect unsafe conditions and take early corrective actions to minimize potential failures or accidents.<br>
+In this curriculum, you develop, test, configure, and download TriStation 1131 applications to Tricon CX controllers. Topics covered include the use of:<br>
+• Four programming languages for developing safety logic: Function Block Diagram (FBD), Cause and Effect Matrix (CEM), Structured Text (ST), and Ladder Diagram (LD)&nbsp;<br>
+• Triconex™ Emulator and Triconex Safety Validator for testing safety applications<br>
+• Triconex Report Generator for viewing detailed reports about developed safety applications&nbsp;<br>
+• Configuration of Triconex Sequence of Events (SOE) Recorder for retrieving events from Tricon CX controllers<br>
+Additionally, this curriculum introduces TriStation Migration Utility for converting previously developed safety applications to TriStation 1131 V5.x.<br>
+Companion labs help you practice knowledge acquired from this curriculum. You can perform these labs on the Virtual Machine (VM), namely TriStation 1131 Software - Labs. You must complete all seven courses to access this VM.<br>
+After completing this curriculum, you can:<br>
+• Explain the project cycle and install TriStation 1131 software.<br>
+• Create Tricon CX projects.<br>
+• Develop and test TriStation 1131 applications.<br>
+• Configure and download TriStation 1131 applications.<br>
+• Retrieve Sequence of Events data from Tricon CX controllers.<br>
+• Use CEM in safety applications.<br>
+• Migrate previously developed projects from TriStation 1131 V4.x to V5.x.</p>
+
+<p><strong>Target Audience:</strong><br>
+• Application Engineers<br>
+• Graduate Engineers<br>
+• Safety Engineers</p>
+
+<p>For optimal viewing, launch each course in a Microsoft® Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+• Create and test safety logic.<br>
+• Create custom functions.<br>
+• Set up project options.<br>
+• Generate reports using Triconex Report Generator.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown (ESD) Systems and Fire and Gas Systems<br>
+• Triconex controllers – Tricon, Trident™, or Triconex General Purpose (Tri-GP™)</p>

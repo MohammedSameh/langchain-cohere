@@ -1,0 +1,20 @@
+Common Safety: Integration of Control and Safety Systems
+['Essential']
+<p>This course covers the safety offerings for customers from Schneider Electric. Specifically, this course provides essential knowledge on: safety system concepts, such as Safety Instrumented System (SIS) and Safety Instrumented Function (SIF); safety standards, such as International Electrotechnical Commission (IEC) 61508 and 61511; and features and benefits of Common Safety technology.&nbsp;(Course code : GLSTECC0001013)</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course includes one content module and one assessment. After reviewing the content module, take the assessment module. The assessment module is designed to evaluate the knowledge you have gained by taking the content module.</p>
+
+<p><strong>Course Description:</strong><br>
+&nbsp; &nbsp; - Expected Duration: 30 minutes<br>
+&nbsp; &nbsp; - Delivery Type: Web-based training<br>
+&nbsp; &nbsp; - Target Audience: Product Application Engineer, System Architecture Expert, Technical Sales Consultant, Application Engineers, and Solution Architect<br>
+<br>
+<strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+&nbsp; &nbsp; - Outline the fundamental concepts of a safety system.&nbsp;<br>
+&nbsp; &nbsp; - Explain the requirements for complying with safety standards.<br>
+&nbsp; &nbsp; - Summarize the features and benefits of Common Safety technology.</p>
+
+<p><strong>Prerequisite</strong>:<br>
+Completion of the Safety System Basics course</p>

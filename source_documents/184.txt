@@ -1,0 +1,19 @@
+Manage TriStation 1131 I/Os Using System Advisor
+['Professional']
+<p>EcoStruxure™ System Advisor for Process Safety provides you tools to manage I/Os of TriStation™ 1131 Developer’s Workbench software. This course provides an essential knowledge on how to use System Advisor for Process Safety to map the plant hierarchy for easy location of I/Os in addition to managing the I/O spares within the system.</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course,you can:<br>
+• Configure plant hierarchy within System Advisor.<br>
+• Manage I/O spares using System Advisor.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Process safety applications, such as Emergency Shutdown Systems and Fire and Gas Systems<br>
+‒ Triconex controllers: Tricon™, Tricon CX, and Trident™ and Tri-GP™<br>
+• Working experience creating TriStation™ 1131 safety applications</p>
+
+<p> </p>
+
+<p> </p>

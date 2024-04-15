@@ -1,0 +1,29 @@
+Configuring Split-Range Control Loops
+['Professional']
+<p>This course helps you understand the concept of split-range, the block parameters involved in the control loop, and the configuration of the split-range control loop.&nbsp;</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 1.1 hrs<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+---&nbsp;<strong>Internal&nbsp;</strong>(Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+---&nbsp;<strong>External&nbsp;</strong>(Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives</strong><br>
+<strong><strong>After completing this course, you can:&nbsp;</strong></strong><br>
+- Explain the purpose and operation of a split-range control loop in process automation.<br>
+- Configure a Characterizer (CHARC) block in a split-range control loop.<br>
+- Build a split-range control loop using Foxboro™ Evo Control Editors.</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of:<br>
+• Process control<br>
+• Control Editors<br>
+• Microsoft® Office tools</p>
+
+<p> </p>

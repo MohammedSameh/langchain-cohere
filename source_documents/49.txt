@@ -1,0 +1,19 @@
+Configuring and Downloading TriStation 1131 Applications
+['Professional']
+<p>This course provides knowledge on completing the safety project cycle. To complete the safety project cycle, you create and add custom libraries to applications using TriStation™ 1131 Developer’s Workbench software. Then, you add tagnames to TriStation 1131 applications. Finally, you download TriStation 1131 applications to Tricon™ CX controllers.<br>
+After completing this course, you can:<br>
+- Create and add custom libraries to TriStation 1131 applications.<br>
+- Import tagnames to TriStation 1131 applications.<br>
+- Download TriStation 1131 applications to Tricon CX controllers.<br>
+For optimal viewing, launch the course in a Microsoft® Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives</strong>:<br>
+After completing this course, you can:<br>
+• Create and add custom libraries to TriStation 1131 applications.<br>
+• Import tagnames to TriStation 1131 applications.<br>
+• Download TriStation 1131 applications to Tricon CX controllers.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process safety applications, such as Emergency Shutdown (ESD) Systems and Fire and Gas Systems<br>
+• Triconex™ controllers – Tricon, Trident™, or Triconex General Purpose (Tri-GP™)</p>

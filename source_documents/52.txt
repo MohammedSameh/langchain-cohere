@@ -1,0 +1,16 @@
+Cybersecurity for Industrial Safety Systems
+['Professional']
+<p>This course provides essential knowledge on the implementation of cybersecurity for industrial safety systems. Topics include security for Safety Instrumented Systems (SISs), physical security measures, Triconex™ Tofino firewall configuration, and project-level security. In addition, the course includes practice exercises on configuring the Tofino firewall and user access control settings in TriStation™ 1131 Developer’s Workbench software.&nbsp;</p>
+
+<p><strong>Target Audience&nbsp;</strong><br>
+- Application Engineers<br>
+- Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Configure cybersecurity for industrial safety systems.<br>
+- Manage user access controls in TriStation 1131 software projects.</p>
+
+<p><strong>Prerequisites</strong><br>
+- Knowledge of industrial safety systems<br>
+- Concepts of cybersecurity</p>

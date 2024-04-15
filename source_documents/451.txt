@@ -1,0 +1,24 @@
+Fundamental Configurations in EcoStruxure Geo SCADA Expert ViewX Projects
+['Professional']
+<p>EcoStruxure™ Geo SCADA Expert is an open software platform that supports the remote management of critical infrastructures in both small and large enterprises. EcoStruxure Geo SCADA Expert ViewX is a client application that provides access to the Geo SCADA Expert system. Using ViewX, you can display field data and operational status, interact with field control systems, respond to alarms, and configure the database.<br>
+<br>
+The course in this curriculum guides you through specific fundamental configuration tasks, including the configuration of different types of groups and database objects, Mimics, and Trends.<br>
+<br>
+This curriculum includes one course and a post-course assessment.</p>
+
+<p>Target Audience:<br>
+- Engineers and Managers involved in SCADA projects<br>
+- Network Design and Maintenance Engineers<br>
+- System Design Engineers<br>
+<br>
+<strong>Learning Objectives</strong>:<br>
+After completing the course, you can:<br>
+- Create and configure database points and Mimics to interact with the SCADA system.<br>
+- Animate Mimics to enhance the Human Machine Interface (HMI) interactivity.<br>
+- Create and configure trend information from database objects.<br>
+- Organize database elements in groups.<br>
+- Use the Group Template feature to reduce time and effort on system configuration.<br>
+<br>
+<strong>Prerequisites</strong>:<br>
+- Understanding of SCADA control processes<br>
+- General familiarity with ViewX interface and functions</p>

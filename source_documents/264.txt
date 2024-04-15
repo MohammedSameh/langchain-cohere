@@ -1,0 +1,31 @@
+Configuring Hardware Components
+['Professional']
+<p>Hardware configuration refers to creating and configuring logical representations of physical equipment. You use Foxboro Evo™ Control Editors to create and configure logical equipment, such as Control Processors (CPs), Fieldbus Modules (FBMs), workstations, and switches.&nbsp;</p>
+
+<p>To ensure organized grouping of these logical equipment, you create equipment units which model plant areas.&nbsp;</p>
+
+<p>In this course, you create and configure these hardware components and group these equipment into equipment units. And then, you validate the configuration and save the configuration for import during the installation of Foxboro Evo Control Core Services.&nbsp;</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains one course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 1.2 hrs<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+---&nbsp;<strong>Internal</strong>&nbsp;(Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+---&nbsp;<strong>External</strong>&nbsp;(Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives</strong>:<br>
+After completing this course, you can:<br>
+- Create equipment units.<br>
+- Create and configure CPs, switches, workstations, and FBMs.<br>
+- Validate, commit, and reconcile hardware configuration.<br>
+- Deploy a hardware equipment on a running system.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+• Process control loops<br>
+• Basic control configuration&nbsp;</p>

@@ -1,0 +1,27 @@
+EcoStruxure Process Expert: Getting Started
+['Essential']
+<p>EcoStruxure™ Process Expert is a Process Automation system that integrates control and supervision configurations with field devices in a single environment. This system reduces the use of multiple software packages and related team coordination. You can use EcoStruxure Process Expert in hybrid industries, such as Water and Waste Water; Mining, Minerals, and Metals; and consumer packaged goods.<br>
+<br>
+Providing essential knowledge on EcoStruxure Process Expert, this course highlights benefits and helps clear misconceptions. The course also covers the features, components, and architecture of EcoStruxure Process Expert, including software and hardware components.<br>
+<br>
+This curriculum includes one course and a post-course assessment.</p>
+
+<p>Target Audience:<br>
+Internal:<br>
+- Application Engineers<br>
+- Field Service Engineers<br>
+External:<br>
+- Control Engineers<br>
+- Maintenance Engineers<br>
+- Plant Operators<br>
+<br>
+<br>
+<strong>Learning Objectives:</strong><br>
+After completing this course, you can:<br>
+- Determine when to use EcoStruxure Process Expert.<br>
+- Explain the components of EcoStruxure Process Expert.<br>
+<br>
+<strong>Prerequisites:</strong><br>
+Knowledge of:<br>
+- EcoStruxure Foxboro DCS<br>
+- Process Automation systems and concepts</p>

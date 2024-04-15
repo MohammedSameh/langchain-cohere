@@ -1,0 +1,14 @@
+Perform Advanced Tasks: SQL Queries and System Maintenance
+['Professional']
+<p>This course provides essential knowledge on EcoStruxure™ System Advisor for Process Safety advanced tasks. System Advisor for Process Safety enables you to write SQL queries to search and generate reports from the System Advisor database. This course also explains the best practices to maintain the System Advisor performance.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Build advanced queries using System Advisor.<br>
+• Maintain the System Advisor database.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Process safety applications, such as Emergency Shutdown Systems and Fire and Gas Systems<br>
+‒ Triconex controllers: Tricon™, Tricon CX, and Trident™ and Tri-GP™<br>
+• Working experience creating TriStation™ 1131 safety applications</p>

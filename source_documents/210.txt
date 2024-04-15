@@ -1,0 +1,15 @@
+Track Configuration Changes Using System Advisor
+['Professional']
+<p>Tracking changes is the main feature of EcoStruxure™ System Advisor for Process Safety to document TriStation™ 1131 Developer’s Workbench software modifications. This course explains how to track the changes in the different areas of TriStation 1131.</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Track changes to TriStation 1131 logic.<br>
+• Audit TriStation 1131 changes using Audit Manager.<br>
+• Track changes to Controller Workspace.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of:<br>
+‒ Process safety applications, such as Emergency Shutdown Systems and Fire and Gas Systems<br>
+‒ Triconex controllers: Tricon™, Tricon CX, and Trident™ and Tri-GP™<br>
+• Working experience creating TriStation™ 1131 safety applications</p>

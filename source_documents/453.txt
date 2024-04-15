@@ -1,0 +1,9 @@
+Process Safety Foundation Collection
+['Essential']
+<p>The Process Safety Foundation Collection is a core skills curriculum for safety professionals. Courses cover the installation, hardware and software aspects of the controllers in the Triconex family. Learners also acquire the essential skills for safety programming and system monitoring using Tristation 1131 software. Practice Labs are also available on request for application testing and deployment skills using TriStation 1131 software.</p>
+
+<p><strong>Learning Objectives</strong><br>
+To view learning objectives, visit each course within the collection.</p>
+
+<p><strong>Prerequisites</strong><br>
+To view prerequisites, visit each course within the collection.</p>

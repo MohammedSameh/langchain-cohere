@@ -1,0 +1,28 @@
+Monitoring Control System Performance
+['Expert']
+In a plant that consists of sophisticated and integrated equipment using multiple software applications and extensive communication networks, you need to continuously ensure the health and performance of the entire control system and manage network operations. To achieve that, you use System Manager for monitoring and tracking your Foxboro Evo system components. This course provides essential knowledge on the key functions of System Manager in monitoring Foxboro Evo™ System.&nbsp;</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 2 hours<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+--- Internal (Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+--- External (Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• List the features, functions, and benefits of System Manager.<br>
+• Describe how the different components of System Manager work together.<br>
+• Install the System Manager software and identify its major user interface elements.<br>
+• Recognize different actions that you can perform on different equipment.<br>
+• View and acknowledge system alarms using System Manager.<br>
+• Locate a failed device using System Manager and troubleshoot it.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge of Foxboro Evo System Architecture<br>
+• Knowledge of Foxboro Evo Control HMI</p>

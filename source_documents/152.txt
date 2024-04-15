@@ -1,0 +1,21 @@
+Measuring Process Variables
+['Essential']
+<p><strong>Course Description:</strong><br>
+This course provides essential knowledge on common process variables, such as temperature, pressure, level, and flow. This course also introduces how control systems measure process variables and factors that affect the measurement of these variables.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+---&nbsp;<strong>Internal&nbsp;</strong>(Graduate Engineers)<br>
+---&nbsp;<strong>External&nbsp;</strong>(Control Engineers, Maintenance Engineers &amp; Technicians, Plant Managers &amp; Operators)</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Identify industrial process variables and their physical characteristics.<br>
+• Recognize factors that affect the measurement of process variables.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• None</p>

@@ -1,0 +1,16 @@
+Data Backup and Recovery in Industrial Computers
+['Professional']
+<p>This course provides essential knowledge on data backup and recovery in industrial computers. Topics include the features of Symantec™ System Recovery 2013 and Veritas™ System Recovery 16 software and backup and restoration procedures in workstations and servers. In addition, the course includes best practices for data backup and a practice exercise.</p>
+
+<p><strong>Target Audience&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Identify the features of Symantec System Recovery 2013 and Veritas System Recovery 16 software.<br>
+- Back up and restore workstations and servers using Veritas System Recovery 16 software.</p>
+
+<p><strong>Prerequisites</strong><br>
+- Familiarity with cybersecurity concepts<br>
+- Knowledge of operating systems and computer networking</p>

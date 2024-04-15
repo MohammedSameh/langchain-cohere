@@ -1,0 +1,28 @@
+OSI Model for Ethernet Networks
+['Professional']
+<p>This course introduces seven layers of the Open System Interconnection (OSI) reference model for Ethernet networks.</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Target Audience:</strong></p>
+
+<p>Application Engineers, Control Engineers, System Integrators, Customer/Field Service Engineers.</p>
+
+<p><strong>Learning Objectives:</strong></p>
+
+<p>After completing this course, you can:</p>
+
+<ul>
+	<li>Explain the basics of networking.</li>
+	<li>Describe the function of each layer in the OSI model.</li>
+	<li>Explain how Ethernet encapsulates and transmits data.</li>
+</ul>
+
+<p><strong>Prerequisites</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<ul>
+	<li>Knowledge of control systems</li>
+	<li>Knowledge of automation systems</li>
+</ul>
+
+<p> </p>

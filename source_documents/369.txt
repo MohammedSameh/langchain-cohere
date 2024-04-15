@@ -1,0 +1,24 @@
+Configuring Better Displays Using Situational Awareness Graphics (Virtual)
+['Professional']
+<p>This virtual instructor-led training (VILT) course includes three online sessions and introduces the new Situational Awareness feature in Foxboro Evo Control HMI v6.0. Situational Awareness helps operators assess the current state of the control system, trace past performance, and predict future events. This information helps operators respond proactively to process changes.</p>
+
+<p><strong>Target Audience </strong></p>
+
+<ul>
+	<li>Control Engineers</li>
+	<li>Process Operators</li>
+</ul>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:<br>
+- Explain the theory behind effective Situational Awareness design.<br>
+- Identify Situational Awareness features in the Foxboro Evo Control HMI.<br>
+- Create templates, symbols, and styles using the Symbol Wizard Editor.<br>
+- Deploy operator-centric process displays with Situational Awareness graphics for better response times.<br>
+- Convert current FoxView™ and InTouch® graphics to Situational Awareness graphics.<br>
+- Implement best practices to meet customer requirements during project execution.</p>
+
+<p><strong>Prerequisites</strong></p>
+
+<p>Familiarity with the InTouch and ArchestrA™ system platform.</p>
+After completing this course, you can:<br>- Explain the theory behind effective Situational Awareness design.<br>- Identify Situational Awareness features in the Foxboro Evo Control HMI.<br>- Create templates, symbols, and styles using the Symbol Wizard Editor.<br>- Deploy operator-centric process displays with Situational Awareness graphics for better response times.<br>- Convert current FoxView™ and InTouch® graphics to Situational Awareness graphics.<br>- Implement best practices to meet customer requirements during project execution.

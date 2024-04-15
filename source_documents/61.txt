@@ -1,0 +1,17 @@
+Cybersecurity for Plant Infrastructure
+['Essential']
+<p>This course provides essential knowledge on the implementation of cybersecurity for plant infrastructure, which includes control rooms, field equipment, workstations, servers, Operating Systems (OSs), network switches, and domain setup. Topics in this course include physical access restrictions, device and OS hardening, switch configuration, and the implementation of enterprise architecture. In addition, the course includes practice exercises on configuring the Basic Input/Output System (BIOS), remote desktop services, and switch security.</p>
+
+<p><strong>Target Audience</strong>&nbsp;<br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;<br>
+- Implement basic BIOS security for workstations and servers.<br>
+- Configure OS-based security.<br>
+- Secure industrial Ethernet switches by specifying passwords and disabling unused ports.<br>
+- Describe the features of secured architecture.</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of computer hardware, OS fundamentals, switch configuration, and computer networking</p>

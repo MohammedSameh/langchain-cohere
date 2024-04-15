@@ -1,0 +1,33 @@
+Configuring Ratio Control Loops
+['Professional']
+<p>This course provides essential knowledge on the operation of a ratio control loop and the configuration of a ratio control loop in Foxboro Evo™ Control Editors. Ratio control is a continuous control mechanism that monitors and controls the blending of a controlled flow variable in proportion to an uncontrolled flow variable, to create an output. To control and maintain the ratio of these flow variables, you require a ratio control loop.&nbsp;</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong></p>
+
+<ul>
+	<li>Expected Duration: 1 hour</li>
+	<li>Delivery Type: Web-based training</li>
+	<li>Target Audience: Application Engineers</li>
+</ul>
+
+<p><strong>Learning Objectives</strong><br>
+After completing this course, you can:&nbsp;</p>
+
+<ul>
+	<li>Explain the purpose and operation of a ratio control loop in process automation.</li>
+	<li>Identify key parameters of the RATIO block in Control Editors.</li>
+	<li>Configure a ratio control loop in Control Editors and validate the operation of the loop in Foxboro Evo Control HMI.</li>
+</ul>
+
+<p><strong>Prerequisites</strong></p>
+
+<ul>
+	<li>Knowledge of Distributed Control Systems (DCSs) and ArchestrA™ IDE</li>
+	<li>Completion of the&nbsp;<em>Configuring Split-Range Control Loops</em>&nbsp;course</li>
+	<li>Completion of the&nbsp;<em>Configuring Discrete Control Loops&nbsp;</em>course</li>
+</ul>

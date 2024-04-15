@@ -1,0 +1,24 @@
+Configuring Centralized Virtualization Management
+['Professional']
+<p>The course presents the benefits of CVM, the system architecture to apply CVM functionality, and the setup and configuration for Virtualization Host Network (VHN). The course also includes steps for setting up primary and secondary domain controllers for CVM.</p>
+
+<p><strong>Target Audience:&nbsp;</strong><br>
+• Application Engineers<br>
+• Field Service Engineers</p>
+
+<p>For optimal viewing, launch the courses in a Microsoft Internet Explorer® browser</p>
+
+<p><strong>Learning Objectives:</strong><br>
+After completing this course, you can:&nbsp;<br>
+• Create two Virtual Machines (VMs) for central management of the virtualized control system.<br>
+• Configure one VM as Primary Domain Controller (PDC) of the CVM domain.<br>
+• Configure another VM as Secondary Domain Controller (SDC) of the CVM domain.<br>
+• Connect both V91 servers to the CVM domain and verify their connection.</p>
+
+<p><strong>Prerequisites:</strong><br>
+Basic knowledge of:<br>
+• Components of a virtualized control system<br>
+• Ethernet networks<br>
+• Foxboro DCS architecture&nbsp;<br>
+• V91 server virtualization host configuration<br>
+• Virtual Machines (VMs) configuration</p>

@@ -1,0 +1,35 @@
+EcoStruxure Maintenance Advisor for Predictive Maintenance of Assets
+
+<p>This course provides essential knowledge on how to use EcoStruxure™ Maintenance Advisor for condition-based predictive maintenance of intelligent devices. Various components of Maintenance Advisor help Engineers monitor intelligent device conditions in real time to gain early insight into emerging issues, perform in-depth diagnostics and review historical information for decision support, and create work orders that describe corrective actions. These components include EcoStruxure Condition Advisor, Condition Advisor for Foxboro™ DCS, and Maintenance Response Center (MRC).</p>
+
+<p>This course provides essential knowledge on how to use EcoStruxure™ Maintenance Advisor for condition-based predictive maintenance of intelligent devices. Various components of Maintenance Advisor help Engineers monitor intelligent device conditions in real time to gain early insight into emerging issues, perform in-depth diagnostics and review historical information for decision support, and create work orders that describe corrective actions. These components include EcoStruxure Condition Advisor, Condition Advisor for Foxboro™ DCS, and Maintenance Response Center (MRC).</p>
+
+<p>This course explains how to configure condition monitoring for OPC DA-compliant assets, HART®, and FOUNDATION™ Fieldbus devices and how to view device conditions in MRC.</p>
+
+<p>In addition to 4 virtual classroom sessions (1 mandatory and 3 optional), this curriculum includes the following mandatory activities for effective learning:</p>
+
+<p>Pre-course assessment (20 minutes)<br>
+Pre-course work (15 minutes)<br>
+Post-session work before next session (total of 7.5 hours):<br>
+&nbsp;Session 1 requires 1.5 hours<br>
+&nbsp;Session 2 requires 2 hours<br>
+&nbsp;Session 3 requires 2 hours<br>
+&nbsp;Session 4 requires 2 hours<br>
+Post-course assessment (30 minutes)</p>
+
+<p>Complete the mandatory session and at least 1 optional session to access the post-course assessment. After completing 1 section of the post-course assessment, the training course is marked complete and the completion certificate becomes available.&nbsp;</p>
+
+<p>For questions on curriculum content, send a message to SM US Foxboro OCS Contact. (<a href="global.learning@schneider-electric.com">global.learning@schneider-electric.com</a>)</p>
+
+<p><br>
+Curriculum Path Instructions:</p>
+
+<p>To follow the path for this curriculum, perform the following steps:</p>
+
+<p>Complete at least 1 section of the mandatory pre-course work titled EcoStruxure Maintenance Advisor for Predictive Maintenance of Assets: Pre-Course Assessment.<br>
+Register for the course, which is a webinar in MLL, as follows:<br>
+&nbsp; &nbsp; a. Click the webinar name.<br>
+&nbsp; &nbsp; b. Click Select Session.<br>
+&nbsp; &nbsp; c. Review available session dates and start times.<br>
+&nbsp; &nbsp; d. To select an appropriate timeslot, click Register next to an entry.<br>
+Note that MLL sends a notice in email with information about the session you selected.</p>

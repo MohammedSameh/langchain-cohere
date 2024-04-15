@@ -1,0 +1,28 @@
+Generating Bulk Data for Control Objects
+['Professional']
+<p>Foxboro Evo™ Control Editors provide the bulk data feature that saves a lot of time. The bulk data feature is simply similar to creating multiple copies of the control strategy for identical process loops. This time-saving feature prevents any inconvenience to recreate the control strategy.<br>
+In this course, you learn how to generate bulk data of control applications either from stored templates or external project data.&nbsp;</p>
+
+<p><strong>Course Structure:</strong><br>
+This web-based course contains course content followed by an assessment. After reviewing the content, take the assessment. The assessment is designed to evaluate the skills and knowledge you gained by taking the course.</p>
+
+<p><strong>Course Description:</strong><br>
+- Expected Duration: 1.4 hrs<br>
+- Delivery Type: Web-based training<br>
+- Target Audience:&nbsp;<br>
+<strong>--- Internal</strong>&nbsp;(Graduate Engineers, Application Engineers, Field Service Engineers)<br>
+<strong>--- External</strong>&nbsp;(Maintenance Technicians &amp; Engineers, Plant Operators &amp; Managers, Control Engineers)</p>
+
+<p>For optimal viewing, launch the course in a Microsoft Internet Explorer® browser.</p>
+
+<p><strong>Learning Objectives<br>
+After completing this course, you can:&nbsp;</strong><br>
+- Create bulk data objects.<br>
+- Import and export bulk control data.<br>
+- Generate bulk data for control data.</p>
+
+<p><strong>Prerequisites</strong><br>
+Knowledge of:<br>
+• Process control loops<br>
+• Basic control configuration<br>
+• Configuration of hardware components and control objects</p>

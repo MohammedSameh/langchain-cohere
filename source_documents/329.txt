@@ -1,0 +1,18 @@
+Setting up Tricon Systems for Monitoring
+['Professional']
+<p>This course helps you monitor the status of a Tricon™ system using Triconex™ Enhanced Diagnostic Monitor. Enhanced Diagnostic Monitor enables you to collect system events that provide real-time information on faults in the Tricon system. You can also collect the history of system errors. You can view and analyze these events to locate the system fault. You can also send these events as a log file to Global Customer Support for assistance in troubleshooting.</p>
+
+<p><strong>Learning Objectives</strong>:</p>
+
+<p>After completing this course, you can:&nbsp;</p>
+
+<p>• Identify the workflow of Enhanced Diagnostic Monitor.<br>
+• Monitor a Tricon system using Enhanced Diagnostic Monitor.<br>
+• Collect and view system events to analyze Tricon system performance.<br>
+• Export an event log file for further troubleshooting.</p>
+
+<p><strong>Prerequisites:</strong><br>
+• Knowledge:<br>
+‒ Programmable Logic Controllers (PLCs)<br>
+‒ Distributed Control Systems (DCSs)<br>
+• Familiarity with safety concepts</p>

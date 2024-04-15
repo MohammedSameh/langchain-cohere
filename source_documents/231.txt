@@ -1,0 +1,14 @@
+2210v8 Foxboro System and Software Maintenance
+['Essential']
+<p>The course helps you protect plant intellectual assets and minimize the impact of unforeseen outages through proper archiving and restoration of Foxboro™ system files and databases.<br>
+In this course, you follow procedures for testing and identifying I/O problems encountered during hardware and software installation, system modification, and ongoing maintenance, V8 and higher. Lab exercises reinforce using system diagnostic tools and procedures, and identifying field problems in control loops.<br>
+The course is ideal for Technicians who are responsible for system backup and restore procedures and test communications between Foxboro equipment and I/O devices.</p>
+
+<p><strong>Intended Audience</strong><br>
+Technicians</p>
+
+<p><strong>Prerequisites</strong><br>
+2200v8 Foxboro Equipment Maintenance</p>
+
+<p>&nbsp;</p>
+After completing this course, you can:<br>• Use basic operating system commands to support maintenance tasks.<br>• Perform system backup and restoration procedures on stations.<br>• Construct a continuous control loop to monitor and control a process.<br>• Incorporate alarming parameters into a control loop.<br>• Monitor and control a process using default displays.<br>• Control and test discrete devices using a ladder logic application.<br>• Employ discrete control blocks to test devices.
