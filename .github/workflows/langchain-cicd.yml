@@ -82,7 +82,7 @@ jobs:
         app-name: ${{ env.WEBAPP-NAME  }}
         package: .
     # Set startup command for Azure App Service
-    - name: Set startup command
-      run: |
-        az webapp config set --name ${{ env.WEBAPP-NAME }} --resource-group ${{ env.RESOURCE-GROUP }} --startup-file "uvicorn main:app --host=0.0.0.0 --port=8000"
+    #- name: Set startup command
+    #  run: |
+    #    az webapp config set --name ${{ env.WEBAPP-NAME }} --resource-group ${{ env.RESOURCE-GROUP }} --startup-file "uvicorn main:app --host=0.0.0.0 --port=8000"
 
