@@ -22,7 +22,7 @@ jobs:
     - name: Setup Python
       uses: actions/setup-python@v3
       with:
-        python-version: '11'
+        python-version: '3.11.6'
     # Install dependencies
     - name: Install dependencies
       run: pip install -r requirements.txt
