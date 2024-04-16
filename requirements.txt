@@ -1,14 +1,9 @@
-os
-glob
-typing
 python-dotenv
-multiprocessing
 tqdm
 langchain
 chromadb
 fastapi
 pydantic
-argparse
 cohere
 llama-cpp-python
 sentence_transformers
