@@ -27,14 +27,14 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
     # Run ingest.py
-    - name: Run ingest.py
-      run: python ingest.py
+    #- name: Run ingest.py
+    #  run: python ingest.py
     # Upload the database as an artifact for the next job
     - name: Upload artifact for deployment job
       uses: actions/upload-artifact@v3
       with:
         name: chromadb-database
-        path: /path/to/your/database
+        path: db
     # Upload the bicep template as artifacts for next job
     - name: Upload artifact for deployment job
       uses: actions/upload-artifact@v3
@@ -54,7 +54,7 @@ jobs:
       uses: actions/download-artifact@v3
       with:
         name: chromadb-database
-        path: /path/to/your/database
+        path: db
     # Download the bicep templates from previous job
     - name: Download artifact from build job
       uses: actions/download-artifact@v3
