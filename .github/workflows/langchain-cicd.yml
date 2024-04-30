@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-langchain
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: fcd686e0-6316-42a4-be3a-b4ccb6302d46
+  SUBSCRIPTION-ID: 5fbd8229-478c-4a41-8457-2e745b053a20
   WEBAPP-NAME: langchain-webapp-demo
 
 jobs:
