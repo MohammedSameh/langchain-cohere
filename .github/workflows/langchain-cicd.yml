@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 5fbd8229-478c-4a41-8457-2e745b053a20
-  WEBAPP-NAME: langchain-webapp-demo
+  WEBAPP-NAME: langchain-webapp
 
 jobs:
   # Build and test Python project in repository
